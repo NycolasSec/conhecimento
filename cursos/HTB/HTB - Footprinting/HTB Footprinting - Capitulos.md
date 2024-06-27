@@ -9,6 +9,8 @@
 ## Enumeração baseada em infraestrutura
 
 - [[Cyber - Informação de domínio]]
+- [[Cyber - Recursos em nuvem]]
+- [[Cyber - Funcionários]]
 
 
 

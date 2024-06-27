@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33368e5624caeea3",
+        "id": "fd259e37272e849c",
         "type": "tabs",
         "children": [
           {
-            "id": "f1aae1f51ad5db14",
+            "id": "fea692e2d76c56e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BashScript - Introdução.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7a14451e10e7bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/Novo Pentest Profissional - DESEC/capitulos/BashScripting para pentesters.md",
+                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BashScript - Introdução.md",
+                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BashScript - Introdução.md",
+                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BashScript - Introdução.md"
+                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md"
               }
             }
           }
@@ -159,8 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1aae1f51ad5db14",
+  "active": "fea692e2d76c56e9",
   "lastOpenFiles": [
+    "Cyber - Funcionários.md",
+    "linkedin-pers1.webp",
+    "github2.webp",
+    "github.webp",
+    "linkedin-pers2.webp",
+    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - Recursos em nuvem.md",
+    "ghw1.webp",
+    "cloud2.webp",
+    "cloud1.webp",
+    "Pasted image 20240627092100.png",
+    "gsearch2.webp",
+    "gsearch1.webp",
+    "Cyber - Informação de domínio.md",
     "cursos/Novo Pentest Profissional - DESEC/capitulos/BashScripting para pentesters.md",
     "BashScript - Introdução.md",
     "cursos/HTB/HTB - BashScript/HTB - BashScript_Capitulos.md",
@@ -177,29 +179,14 @@
     "Linux - Gerenciamento do sistema de arquivos.md",
     "Linux - Backup e restauração.md",
     "Linux - Trabalhando com serviços da Web.md",
-    "python3-browser.webp",
-    "apache-default.webp",
     "materias/Linux",
     "Untitled",
     "pdfs/LinuxNotesForProfessionals.pdf",
     "os/Windows.md",
     "Linux - Serviços de rede.md",
     "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Fluxo de trabalho.md",
-    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
     "cursos/Windows Server/Active Directory e Políticas de grupo.md",
     "Windows Server - Remover um usuário.md",
-    "Pasted image 20240625171515.png",
-    "Pasted image 20240625171046.png",
-    "Windows Server - Adicionando um host ao domínio.md",
-    "Pasted image 20240625170244.png",
-    "Pasted image 20240625165004.png",
-    "Pasted image 20240625164529.png",
-    "Pasted image 20240625161825.png",
-    "Pasted image 20240625161516.png",
-    "Pasted image 20240625161057.png",
-    "Windows Server - Criar um novo usuário.md",
-    "materias/WordSkills/Descritivo Técnico - 2_Padrões Ocupacionais da WorldSkills (WSOS).md",
-    "materias/WordSkills/Descritivo Técnico - 1_introdução.md",
     "materias/WordSkills",
     "cursos/HTB/HTB - Footprinting",
     "materias/cyber",
