@@ -12,6 +12,9 @@
 - [[Cyber - Recursos em nuvem]]
 - [[Cyber - Funcionários]]
 
+## Enumeração baseada em host
+
+- [[Cyber - FTP]]
 
 
 

@@ -7,6 +7,9 @@
 - [[Windows Server - Criar um novo usuário]]
 - [[Windows Server - Adicionando um host ao domínio]]
 - [[Windows Server - Remover um usuário]]
+- [[Windows Server - Criar configurações de senha e aplicar a usuários]]
+- [[Windows Server - Criar e configurar grupo]]
+- [[Windows Server - Aplicar perfil de senha á um grupo]]
 
 
 

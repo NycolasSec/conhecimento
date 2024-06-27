@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fd259e37272e849c",
+        "id": "2969faf423ccd7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fea692e2d76c56e9",
+            "id": "9e6f145109aabcad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ce80bf517856c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Server - Criar e configurar grupo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3a2832592453172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Server - Criar e configurar grupo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+                "file": "Windows Server - Criar e configurar grupo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+                "file": "Windows Server - Criar e configurar grupo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md"
+                "file": "Windows Server - Criar e configurar grupo.md"
               }
             }
           }
@@ -147,21 +172,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea692e2d76c56e9",
+  "active": "f3a2832592453172",
   "lastOpenFiles": [
-    "Cyber - Funcionários.md",
-    "linkedin-pers1.webp",
-    "github2.webp",
-    "github.webp",
-    "linkedin-pers2.webp",
+    "Pasted image 20240627184840.png",
+    "Pasted image 20240627184701.png",
+    "Pasted image 20240627184001.png",
+    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Windows Server - Criar e configurar grupo.md",
+    "Windows Server - Aplicar perfil de senha á um grupo.md",
+    "Pasted image 20240627180842.png",
+    "Pasted image 20240627175601.png",
+    "Pasted image 20240627175414.png",
+    "Windows Server - Criar configurações de senha e aplicar a usuários.md",
+    "Windows Server - Criar um novo usuário.md",
+    "Pasted image 20240627160659.png",
+    "Pasted image 20240627160336.png",
+    "Pasted image 20240627155634.png",
+    "Pasted image 20240627155511.png",
+    "Pasted image 20240627155305.png",
+    "Untitled 6.md",
+    "Windows Server - Remover um usuário.md",
+    "linguagens/ingles/Gramatica.md",
+    "Inglês - Impersonal Passive voice and Personal Voice.md",
+    "linguagens/ingles",
     "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - FTP.md",
+    "materias/cyber/Serviços estudados.md",
+    "materias/Linux/Serviços.md",
+    "materias/cyber/Cyber - Assuntos.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Untitled 5.md",
+    "Cyber - Funcionários.md",
     "Cyber - Recursos em nuvem.md",
-    "ghw1.webp",
-    "cloud2.webp",
-    "cloud1.webp",
-    "Pasted image 20240627092100.png",
-    "gsearch2.webp",
-    "gsearch1.webp",
     "Cyber - Informação de domínio.md",
     "cursos/Novo Pentest Profissional - DESEC/capitulos/BashScripting para pentesters.md",
     "BashScript - Introdução.md",
@@ -169,24 +211,9 @@
     "BashScript - Funções.md",
     "cursos/Novo Pentest Profissional - DESEC/capitulos/TCP IP para pentesters.md",
     "cursos/Novo Pentest Profissional - DESEC/capitulos/Python para Pentesters.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/Powershell  para pentesters.md",
-    "Linux - Configuração de rede.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "materias/cyber/Cyber - Assuntos.md",
-    "materias/Linux/Serviços.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Administração do sistema.md",
-    "Linux - Gerenciamento do sistema de arquivos.md",
-    "Linux - Backup e restauração.md",
-    "Linux - Trabalhando com serviços da Web.md",
     "materias/Linux",
     "Untitled",
     "pdfs/LinuxNotesForProfessionals.pdf",
-    "os/Windows.md",
-    "Linux - Serviços de rede.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Fluxo de trabalho.md",
-    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
-    "Windows Server - Remover um usuário.md",
     "materias/WordSkills",
     "cursos/HTB/HTB - Footprinting",
     "materias/cyber",
@@ -196,7 +223,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "cursos/Windows Server",
-    "pdfs/GitNotesForProfessionals.pdf",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
