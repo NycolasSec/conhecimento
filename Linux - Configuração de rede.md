@@ -20,7 +20,9 @@ Além disso, um bom conhecimento das ferramentas de solução de problemas de re
 
 ## Configurar interfaces de rede
 
-Ao trabalhar com o Ubuntu, você pode configurar interfaces de rede locais usando o comando `ifconfig` ou `ip`.
+Ao trabalhar com o Ubuntu, você pode configurar interfaces de rede locais usando o comando `ifconfig` ou `ip`. Esses comandos poderosos nos permitem visualizar e configurar as interfaces de rede do nosso sistema.
+
+O comando `ifconfig` nos mostra
 
 
 
