@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a6794fab0ad9c726",
+        "id": "7d9f87c8738e07d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e039db83e728a356",
+            "id": "cf5b15571c908d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+                "file": "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0279acf0621aa3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
+    "width": 355.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md"
+                "file": "Linux - Protocolo de área de trabalho remota no Linux.md"
               }
             }
           }
@@ -147,14 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e039db83e728a356",
+  "active": "0279acf0621aa3f5",
   "lastOpenFiles": [
-    "Windows Server - Criando uma nova floresta.md",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
+    "Linux - Protocolo de área de trabalho remota no Linux.md",
+    "Linux - Configuração de rede.md",
+    "materias/linguagens/ingles/Gramatica.md",
+    "Inglês - Relative Pronouns.md",
+    "Inglês - Impersonal Passive voice and Personal Voice.md",
+    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - NFS.md",
+    "Cyber - SMB.md",
+    "Cyber -.md",
+    "Cyber - FTP.md",
     "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Windows Server - Criando uma nova floresta.md",
     "Windows Server - Introdução ao AD.md",
     "Windows Server - Instalando o Active Directory.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
-    "Linux - Configuração de rede.md",
     "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "Pasted image 20240628114931.png",
     "Pasted image 20240628113841.png",
@@ -176,19 +198,10 @@
     "Windows Server - Criar um novo usuário.md",
     "Untitled 6.md",
     "Windows Server - Remover um usuário.md",
-    "materias/linguagens/ingles/Gramatica.md",
-    "Inglês - Impersonal Passive voice and Personal Voice.md",
     "materias/linguagens/ingles",
-    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
-    "Cyber - FTP.md",
     "materias/cyber/Serviços estudados.md",
     "materias/Linux/Serviços.md",
     "materias/cyber/Cyber - Assuntos.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Untitled 5.md",
-    "Cyber - Funcionários.md",
-    "Cyber - Recursos em nuvem.md",
-    "Cyber - Informação de domínio.md",
     "materias/Linux",
     "Untitled",
     "pdfs/LinuxNotesForProfessionals.pdf",

@@ -15,6 +15,8 @@
 ## Enumeração baseada em host
 
 - [[Cyber - FTP]]
+- [[Cyber - SMB]]
+- [[Cyber - NFS]]
 
 
 

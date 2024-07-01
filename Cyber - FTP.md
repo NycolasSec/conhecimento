@@ -427,7 +427,7 @@ openssl s_client -connect 10.129.14.136:21 -starttls ftp
 
 Isto porque o certificado SSL permite-nos reconhecer o `hostname`, por exemplo, e na maioria dos casos também um `email address`para a organização ou empresa
 
-
+Além disso, caso a empresa possua diversas localidades no mundo, também podem ser criados certificados para localidades específicas, que também podem ser identificadas através do certificado SSL.
 
 
 

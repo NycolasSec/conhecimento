@@ -8,7 +8,7 @@ We form it **like** this:
 
 **It** + **be** + **past participle of reporting verb + that + clause**
 
-“**It** +  **is** +  **believed** +  **that** + **the tests have produced false positives.**”Personal Passive
+“**It** +  **is** +  **believed** +  **that** + **the tests have produced false positives.**
 
 ## Personal Passive
 
@@ -18,7 +18,7 @@ We form it **like** this:
 
 **Subject** + **Passive Verb** + **to-Infinitive**
 
-
+  “The tests are known to produce false positives.”
 
 
 
