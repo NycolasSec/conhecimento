@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9f87c8738e07d0",
+        "id": "688a644e405d0c9b",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5b15571c908d8c",
+            "id": "a774a005dec7b029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
+                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0279acf0621aa3f5",
+            "id": "5547e37540e7b59b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
+                "file": "Powershell - Criando usuários.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
+                "file": "Powershell - Criando usuários.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - Protocolo de área de trabalho remota no Linux.md",
+                "file": "Powershell - Criando usuários.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - Protocolo de área de trabalho remota no Linux.md"
+                "file": "Powershell - Criando usuários.md"
               }
             }
           }
@@ -160,9 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0279acf0621aa3f5",
+  "active": "5547e37540e7b59b",
   "lastOpenFiles": [
+    "Pasted image 20240702181007.png",
+    "Pasted image 20240702180915.png",
+    "Windows Server - Criar e configurar grupo.md",
+    "Powershell - Criando usuários.md",
+    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Windows Server - Lixeira do Active Directory.md",
+    "Pasted image 20240702175941.png",
+    "Pasted image 20240702175743.png",
+    "Pasted image 20240702175645.png",
+    "Pasted image 20240702175345.png",
+    "Windows Server - Criar configurações de senha e aplicar a usuários.md",
+    "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
+    "materias/Rede/IfraEstrutura/Roteamento.md",
     "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
+    "Pasted image 20240702091315.png",
+    "Pasted image 20240702083815.png",
+    "Pasted image 20240702083642.png",
     "Linux - Protocolo de área de trabalho remota no Linux.md",
     "Linux - Configuração de rede.md",
     "materias/linguagens/ingles/Gramatica.md",
@@ -173,35 +189,19 @@
     "Cyber - SMB.md",
     "Cyber -.md",
     "Cyber - FTP.md",
-    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
     "Windows Server - Criando uma nova floresta.md",
     "Windows Server - Introdução ao AD.md",
     "Windows Server - Instalando o Active Directory.md",
-    "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "Pasted image 20240628114931.png",
     "Pasted image 20240628113841.png",
-    "Pasted image 20240628113250.png",
-    "Pasted image 20240628113143.png",
-    "Pasted image 20240628112757.png",
-    "Pasted image 20240628111958.png",
-    "Pasted image 20240628111858.png",
-    "Pasted image 20240628111522.png",
-    "Pasted image 20240628111454.png",
-    "Pasted image 20240628111342.png",
     "cursos/CCNA - Gustavo Kalau/Untitled.md",
     "materias/Rede/IfraEstrutura",
     "materias/Rede",
     "cursos/CCNA - Gustavo Kalau",
-    "Windows Server - Criar e configurar grupo.md",
-    "Windows Server - Aplicar perfil de senha á um grupo.md",
-    "Windows Server - Criar configurações de senha e aplicar a usuários.md",
     "Windows Server - Criar um novo usuário.md",
     "Untitled 6.md",
     "Windows Server - Remover um usuário.md",
     "materias/linguagens/ingles",
-    "materias/cyber/Serviços estudados.md",
-    "materias/Linux/Serviços.md",
-    "materias/cyber/Cyber - Assuntos.md",
     "materias/Linux",
     "Untitled",
     "pdfs/LinuxNotesForProfessionals.pdf",

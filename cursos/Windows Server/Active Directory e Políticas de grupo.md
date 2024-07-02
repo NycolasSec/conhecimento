@@ -9,7 +9,8 @@
 - [[Windows Server - Remover um usuário]]
 - [[Windows Server - Criar configurações de senha e aplicar a usuários]]
 - [[Windows Server - Criar e configurar grupo]]
-- [[Windows Server - Aplicar perfil de senha á um grupo]]
+- [[Windows Server - Lixeira do Active Directory]]
+- [[Powershell - Criando usuários]]
 
 
 

@@ -79,7 +79,7 @@ Aqui ligamos as interfaces denovo.
 ```
 ![[Pasted image 20240628111522.png]]
 
-Como as duas portas estão com **P**, elas estão `ìm port-channel`.
+Como as duas portas estão com **P**, elas estão `in port-channel`.
 
 Caso alguma interface seja desligada, aparecerá como **D** de `down`
 
@@ -129,7 +129,7 @@ As interfaces do `SW1` que se conectam ao `SW3`, para obedecermos ao "padrão", 
 
 (config-if-range)# switchport mode trunk
 
-(config-if-range)# shut down
+(config-if-range)# shutdown
 
 (config-if-range)# channel-group 2 mode on
 ```
@@ -141,14 +141,35 @@ Agora fazemos as mesmas configurações para o `SW3`
 
 (config-if-range)# switchport mode trunk
 
-(config-if-range)# shut down
+(config-if-range)# shutdown
 
 (config-if-range)# channel-group 2 mode on
 ```
 
-https://www.youtube.com/watch?v=qfuGIrlmKnM
+Aqui não colocamos nenhum protocolo, pois não precisa de protocolo para subir o ``etherchannel``.
 
+---
 
+## Multilayer
+
+![[Pasted image 20240702091315.png]]
+
+Primeiro criamos a porta lógica, depois criamos um grupo com as portas físicas e depois linkamos eles.
+#### Criação da porta lógica
+```SW-0/SW-1
+(config)# interface port-channel 3
+(config-if)# no switchport
+(config-if)# ip address 10.0.0.2 255.255.255.0
+```
+
+#### Portas físicas
+```SW-0/SW-1
+(config)# interface range gigabitEthernet 0/1-2
+(config-if-range)# no switchport
+(config-if-range)# no ip address
+(config-if-range)# channel-group 3 mode active
+```
+Os dois switchs podem estar em modo ``active``.
 
 
 
