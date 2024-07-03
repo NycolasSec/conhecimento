@@ -17,6 +17,7 @@
 - [[Cyber - FTP]]
 - [[Cyber - SMB]]
 - [[Cyber - NFS]]
+- [[Cyber - DNS]]
 
 
 

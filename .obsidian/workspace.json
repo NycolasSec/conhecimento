@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "688a644e405d0c9b",
+        "id": "f557d2be373a9c92",
         "type": "tabs",
         "children": [
           {
-            "id": "a774a005dec7b029",
+            "id": "1a8592c04f3618f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5547e37540e7b59b",
+            "id": "1c7280df269412f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powershell - Criando usuários.md",
+                "file": "Linux - Logs do sistema.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Linux - Criação de um par de chaves SSH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
+    "width": 507.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powershell - Criando usuários.md",
+                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Powershell - Criando usuários.md",
+                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Powershell - Criando usuários.md"
+                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md"
               }
             }
           }
@@ -160,13 +160,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5547e37540e7b59b",
+  "active": "1a8592c04f3618f7",
   "lastOpenFiles": [
+    "Linux - Criação de um par de chaves SSH.md",
+    "Dispositivos de endurecimento.md",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
+    "Linux - Logs do sistema.md",
+    "Linux - Configuração do Firewall.md",
+    "Linux - Segurança Linux.md",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
+    "Linux - Protocolo de área de trabalho remota no Linux.md",
+    "materias/linguagens/ingles/Gramatica.md",
+    "materias/linguagens/Bash.md",
+    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - DNS.md",
+    "tooldev-dns.webp",
+    "Cyber - NFS.md",
+    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Powershell - Criando usuários.md",
     "Pasted image 20240702181007.png",
     "Pasted image 20240702180915.png",
     "Windows Server - Criar e configurar grupo.md",
-    "Powershell - Criando usuários.md",
-    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
     "Windows Server - Lixeira do Active Directory.md",
     "Pasted image 20240702175941.png",
     "Pasted image 20240702175743.png",
@@ -175,32 +189,18 @@
     "Windows Server - Criar configurações de senha e aplicar a usuários.md",
     "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "materias/Rede/IfraEstrutura/Roteamento.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
     "Pasted image 20240702091315.png",
     "Pasted image 20240702083815.png",
     "Pasted image 20240702083642.png",
-    "Linux - Protocolo de área de trabalho remota no Linux.md",
     "Linux - Configuração de rede.md",
-    "materias/linguagens/ingles/Gramatica.md",
     "Inglês - Relative Pronouns.md",
     "Inglês - Impersonal Passive voice and Personal Voice.md",
-    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
-    "Cyber - NFS.md",
     "Cyber - SMB.md",
     "Cyber -.md",
     "Cyber - FTP.md",
-    "Windows Server - Criando uma nova floresta.md",
-    "Windows Server - Introdução ao AD.md",
-    "Windows Server - Instalando o Active Directory.md",
-    "Pasted image 20240628114931.png",
-    "Pasted image 20240628113841.png",
-    "cursos/CCNA - Gustavo Kalau/Untitled.md",
     "materias/Rede/IfraEstrutura",
     "materias/Rede",
     "cursos/CCNA - Gustavo Kalau",
-    "Windows Server - Criar um novo usuário.md",
-    "Untitled 6.md",
-    "Windows Server - Remover um usuário.md",
     "materias/linguagens/ingles",
     "materias/Linux",
     "Untitled",

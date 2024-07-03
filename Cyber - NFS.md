@@ -60,9 +60,151 @@ Criação de uma entrada
 
 ### ExportFS
 
-```bash
-echo '/mnt/nfs 10.129.14.0/24
+```shell-session
+root@nfs:~# echo '/mnt/nfs  10.129.14.0/24(sync,no_subtree_check)' >> /etc/exports
+root@nfs:~# systemctl restart nfs-kernel-server 
+root@nfs:~# exportfs
+
+/mnt/nfs      	10.129.14.0/24
 ```
+
+Compartilhamos a pasta `/mnt/nfs`para a sub-rede `10.129.14.0/24`com a configuração mostrada acima.
+
+Isso significa que todos os hosts na rede poderão montar esse compartilhamento NFS e inspecionar o conteúdo dessa pasta.
+
+## Configurações perigosas
+
+|                  |                                                                                                                                                 |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `rw`             | Permissões de leitura e gravação.                                                                                                               |
+| `insecure`       | Portas acima de 1024 serão usadas.                                                                                                              |
+| `nohide`         | Se outro sistema de arquivos foi montado abaixo de um diretório exportado, este diretório será exportado por sua própria entrada de exportação. |
+| `no_root_squash` | Todos os arquivos criados pelo root são mantidos com o UID/GID 0.                                                                               |
+Podemos dar uma olhada na opção `insecure`. Isso é perigoso porque os usuários podem usar portas acima de 1024. As primeiras 1024 portas só podem ser usadas pelo root. Isso evita que nenhum usuário possa usar sockets acima da porta 1024 para o serviço NFS e interagir com ele.
+
+## Footprint the Service
+
+as portas TCP `111`e `2049`são essenciais. Também podemos obter informações sobre o serviço NFS e o host via RPC, conforme mostrado abaixo no exemplo.
+
+## Nmap
+
+```sh
+sudo nmap 10.129.14.128 -p111,2049 -sV -sC
+```
+
+O `rpcinfo`script NSE recupera uma lista de todos os serviços RPC em execução no momento, seus nomes e descrições, e as portas que eles usam.
+
+```sh
+sudo nmap --script nfs* 10.129.14.128 -sV -p111,2049
+```
+
+---
+### Mostrar ações NFS disponíveis
+
+```shell-session
+showmount -e 10.129.14.128
+```
+
+
+### Montagem de compartilhamento NFS
+
+```sh
+mkdir target-NFS
+sudo mount -t nfs 10.129.14.128:/ ./target-NFS/ -o nolock
+cd target-NFS
+tree .
+
+.
+└── mnt
+    └── nfs
+        ├── id_rsa
+        ├── id_rsa.pub
+        └── nfs.share
+
+2 directories, 3 files
+```
+
+Lá teremos a oportunidade de acessar os direitos e os nomes de usuários e grupos aos quais os arquivos exibidos e visualizáveis ​​pertencem
+
+Porque uma vez que temos os nomes de usuários, nomes de grupos, UIDs e GUIDs, podemos criá-los em nosso sistema e adaptá-los ao compartilhamento NFS para visualizar e modificar os arquivos.
+
+### Listar conteúdo com nomes de usuários e nomes de grupos
+
+```sh
+ls -l mnt/nfs/
+
+# total 16
+# -rw-r--r-- 1 cry0l1t3 cry0l1t3 1872 Sep 25 00:55 cry0l1t3.priv
+# -rw-r--r-- 1 cry0l1t3 cry0l1t3  348 Sep 25 00:55 cry0l1t3.pub
+# -rw-r--r-- 1 root     root     1872 Sep 19 17:27 id_rsa
+# -rw-r--r-- 1 root     root      348 Sep 19 17:28 id_rsa.pub
+# -rw-r--r-- 1 root     root        0 Sep 19 17:22 nfs.share
+```
+
+### Listar conteúdos com UIDs e GUIDs
+
+```sh
+ls -n mnt/nfs/
+
+# total 16
+# -rw-r--r-- 1 1000 1000 1872 Sep 25 00:55 cry0l1t3.priv
+# -rw-r--r-- 1 1000 1000  348 Sep 25 00:55 cry0l1t3.pub
+# -rw-r--r-- 1    0 1000 1221 Sep 19 18:21 backup.sh
+# -rw-r--r-- 1    0    0 1872 Sep 19 17:27 id_rsa
+# -rw-r--r-- 1    0    0  348 Sep 19 17:28 id_rsa.pub
+# -rw-r--r-- 1    0    0    0 Sep 19 17:22 nfs.share
+```
+
+Se a opção `root_squash` estiver definida, não poderemos editar o arquivo `backup.sh` mesmo como ``root``
+
+Também podemos usar NFS para escalonamento posterior. Por exemplo, se tivermos acesso ao sistema via SSH e quisermos ler arquivos de outra pasta que um usuário específico pode ler, precisaríamos carregar um shell para o compartilhamento NFS que tem o `SUID`desse usuário e então executar o shell via usuário SSH.
+
+### Desmontando
+
+```sh
+cd ..
+sudo umount ./target-NFS
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
