@@ -18,6 +18,8 @@
 - [[Cyber - SMB]]
 - [[Cyber - NFS]]
 - [[Cyber - DNS]]
+- [[Cyber - Descrição SMTP]]
+- [[Cyber - Configuração do SMTP]]
 
 
 

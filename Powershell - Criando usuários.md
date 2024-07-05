@@ -14,5 +14,7 @@ No nosso caso :OU=Users,OU=Vendas,DC=empresa,DC=local
 ### Criação do usuário
 
 ```powershell
-New-ADUser -name 'Atylas Ramos' -SamAccountName atylasRamos -UserPrincipalName atylasramos@empresa.local -Path "OU=Users,OU=Vendas,DC=empresa,DC=local" -AccountPassword (ConvertTo-SecureString -AsPlainText 'Senha123' -force) -Enable
+New-ADUser -name 'Atylas Ramos' -SamAccountName atylasRamos -UserPrincipalName atylasramos@empresa.local -Path "OU=Users,OU=Vendas,DC=empresa,DC=local" -AccountPassword (ConvertTo-SecureString -AsPlainText 'Senha123' -force) -Enable $true
 ```
+
+[Nesse Link](https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-aduser?view=windowsserver2022-ps) Tem todas as opções do comando.

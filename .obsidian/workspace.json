@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f557d2be373a9c92",
+        "id": "1d2ca9a3d5f55a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "1a8592c04f3618f7",
+            "id": "daf5c78d53657240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
+                "file": "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c7280df269412f6",
+            "id": "c77309cf08deb79f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Logs do sistema.md",
+                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linux - Criação de um par de chaves SSH",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 507.5,
+    "width": 333.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
+                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md",
+                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - Uso de chaves SSH para autenticar em sistemas remotos.md"
+                "file": "Linux - Acesso Remoto com Chave pública e privada.md"
               }
             }
           }
@@ -160,44 +160,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a8592c04f3618f7",
+  "active": "c77309cf08deb79f",
   "lastOpenFiles": [
-    "Linux - Criação de um par de chaves SSH.md",
-    "Dispositivos de endurecimento.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
-    "Linux - Logs do sistema.md",
-    "Linux - Configuração do Firewall.md",
-    "Linux - Segurança Linux.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Rede Linux.md",
-    "Linux - Protocolo de área de trabalho remota no Linux.md",
-    "materias/linguagens/ingles/Gramatica.md",
-    "materias/linguagens/Bash.md",
+    "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
+    "Linux - Acesso Remoto com Chave pública e privada.md",
+    "Linux - Acesso Remoto (OpenSSH).md",
+    "cursos/Untitled/Untitled",
+    "cursos/RHEL",
+    "Linux - Instalação de um aplicativo na linha de comando.md",
+    "Linux - Instalação de pacotes de software.md",
+    "Linux - Configuração do FlatPak.md",
+    "materias/Linux/Alguns comandos.md",
     "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - Configuração do SMTP.md",
+    "Cyber - Descrição SMTP.md",
+    "materias/cyber/Cyber - Técnicas.md",
     "Cyber - DNS.md",
-    "tooldev-dns.webp",
-    "Cyber - NFS.md",
+    "CMD - Trabalhando com diretórios e arquivos.md",
+    "Pasted image 20240704184059.png",
+    "Pasted image 20240704183944.png",
+    "Pasted image 20240704183851.png",
+    "Pasted image 20240704183452.png",
+    "Pasted image 20240704183324.png",
+    "Pasted image 20240704183220.png",
+    "Pasted image 20240704183207.png",
+    "Pasted image 20240704183046.png",
+    "Pasted image 20240704182516.png",
+    "Pasted image 20240704182316.png",
+    "cursos/HTB/HTB - Introdução a linha de comando do Windows/HTB - Introdução a linha de comando do Windows - CMD.md",
+    "CMD - Navegação do sistema.md",
+    "materias/linguagens/CMD.md",
+    "cursos/HTB/HTB - Introdução a linha de comando do Windows",
+    "materias/linguagens/PowerShell.md",
+    "materias/Windows.md",
+    "Windows Server - Remover um usuário.md",
     "cursos/Windows Server/Active Directory e Políticas de grupo.md",
+    "Windows Server - Pasta compartilhada (Restrita por usuário).md",
+    "Windows Server - Limitando as máquinas em que o usuário pode fazer logon.md",
+    "Windows Server - Limitando quando o usuário pode fazer login.md",
     "Powershell - Criando usuários.md",
-    "Pasted image 20240702181007.png",
-    "Pasted image 20240702180915.png",
-    "Windows Server - Criar e configurar grupo.md",
-    "Windows Server - Lixeira do Active Directory.md",
-    "Pasted image 20240702175941.png",
-    "Pasted image 20240702175743.png",
-    "Pasted image 20240702175645.png",
-    "Pasted image 20240702175345.png",
-    "Windows Server - Criar configurações de senha e aplicar a usuários.md",
-    "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "materias/Rede/IfraEstrutura/Roteamento.md",
-    "Pasted image 20240702091315.png",
-    "Pasted image 20240702083815.png",
-    "Pasted image 20240702083642.png",
-    "Linux - Configuração de rede.md",
-    "Inglês - Relative Pronouns.md",
-    "Inglês - Impersonal Passive voice and Personal Voice.md",
-    "Cyber - SMB.md",
-    "Cyber -.md",
-    "Cyber - FTP.md",
+    "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "materias/Rede/IfraEstrutura",
     "materias/Rede",
     "cursos/CCNA - Gustavo Kalau",
@@ -205,9 +208,6 @@
     "materias/Linux",
     "Untitled",
     "pdfs/LinuxNotesForProfessionals.pdf",
-    "materias/WordSkills",
-    "cursos/HTB/HTB - Footprinting",
-    "materias/cyber",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

@@ -11,6 +11,9 @@
 - [[Windows Server - Criar e configurar grupo]]
 - [[Windows Server - Lixeira do Active Directory]]
 - [[Powershell - Criando usuários]]
+- [[Windows Server - Limitando quando o usuário pode fazer login]]
+- [[Windows Server - Limitando as máquinas em que o usuário pode fazer logon]]
+- [[Windows Server - Pasta compartilhada (Restrita por usuário)]]
 
 
 

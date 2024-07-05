@@ -1,4 +1,4 @@
 # CMD
 
-- [ ] [[CMD - Conseguindo ajuda]]
-- [ ] [[CMD - Navegação do sistema]]
+- [[CMD - Conseguindo ajuda]]
+- [[CMD - Navegação do sistema]]
