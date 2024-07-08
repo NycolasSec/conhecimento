@@ -48,6 +48,20 @@ ln -s /home/user/newfile-link2.txt /tmp/newfile-symlink.txt
 ```
 
 
+---
+```bash
+split -l 20 wordlist.txt wl
+```
+Ele pegará o arquivo ``wordlist.txt`` e dividirá em arquivos de 20 linhas, renomeando eles para ``wl*``
+
+
+```bash
+wc -l wl*
+```
+Vai contar as linhas de todos os arquivos que começam com wl
+
+---
+
 
 
 

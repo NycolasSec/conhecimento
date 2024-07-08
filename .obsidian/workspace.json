@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2ca9a3d5f55a3a",
+        "id": "f7eaa1919cac55c0",
         "type": "tabs",
         "children": [
           {
-            "id": "daf5c78d53657240",
+            "id": "932d8c0849a7de22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
+                "file": "materias/Linux/Distros/RedHat Enterprise Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c77309cf08deb79f",
+            "id": "1692968e8066ce3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
+                "file": "Linux - RHEL - SAMBA.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
+                "file": "Linux - RHEL - SAMBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - Acesso Remoto com Chave pública e privada.md",
+                "file": "Linux - RHEL - SAMBA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - Acesso Remoto com Chave pública e privada.md"
+                "file": "Linux - RHEL - SAMBA.md"
               }
             }
           }
@@ -160,8 +160,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c77309cf08deb79f",
+  "active": "1692968e8066ce3e",
   "lastOpenFiles": [
+    "Pasted image 20240708173346.png",
+    "Pasted image 20240708173311.png",
+    "Pasted image 20240708173249.png",
+    "materias/Linux/Distros/RedHat Enterprise Linux.md",
+    "Linux - RHEL - SAMBA.md",
+    "Linux - RHEL - firewalld.md",
+    "materias/Linux/escopo de atividade/Alguns comandos.md",
+    "materias/Linux/Serviços.md",
+    "materias/Linux/Distros",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
+    "materias/Linux/escopo de atividade/Serviços.md",
+    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "materias/Linux/escopo de atividade/Administração do sistema.md",
+    "materias/Rede/Escopos de atividades/Infra.md",
+    "materias/Rede/Escopos de atividades",
+    "materias/Linux/escopo de atividade/Hardening.md",
+    "materias/Linux/escopo de atividade",
+    "Cyber - IMAP POP3.md",
+    "Pasted image 20240708104855.png",
+    "Cyber - Configuração do SMTP.md",
     "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
     "Linux - Acesso Remoto com Chave pública e privada.md",
     "Linux - Acesso Remoto (OpenSSH).md",
@@ -170,9 +190,6 @@
     "Linux - Instalação de um aplicativo na linha de comando.md",
     "Linux - Instalação de pacotes de software.md",
     "Linux - Configuração do FlatPak.md",
-    "materias/Linux/Alguns comandos.md",
-    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
-    "Cyber - Configuração do SMTP.md",
     "Cyber - Descrição SMTP.md",
     "materias/cyber/Cyber - Técnicas.md",
     "Cyber - DNS.md",
@@ -184,30 +201,13 @@
     "Pasted image 20240704183324.png",
     "Pasted image 20240704183220.png",
     "Pasted image 20240704183207.png",
-    "Pasted image 20240704183046.png",
-    "Pasted image 20240704182516.png",
-    "Pasted image 20240704182316.png",
     "cursos/HTB/HTB - Introdução a linha de comando do Windows/HTB - Introdução a linha de comando do Windows - CMD.md",
     "CMD - Navegação do sistema.md",
-    "materias/linguagens/CMD.md",
     "cursos/HTB/HTB - Introdução a linha de comando do Windows",
-    "materias/linguagens/PowerShell.md",
-    "materias/Windows.md",
-    "Windows Server - Remover um usuário.md",
-    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
-    "Windows Server - Pasta compartilhada (Restrita por usuário).md",
-    "Windows Server - Limitando as máquinas em que o usuário pode fazer logon.md",
-    "Windows Server - Limitando quando o usuário pode fazer login.md",
-    "Powershell - Criando usuários.md",
-    "materias/Rede/IfraEstrutura/Roteamento.md",
-    "materias/Rede/IfraEstrutura/Redes - Etherchannel.md",
     "materias/Rede/IfraEstrutura",
     "materias/Rede",
     "cursos/CCNA - Gustavo Kalau",
     "materias/linguagens/ingles",
-    "materias/Linux",
-    "Untitled",
-    "pdfs/LinuxNotesForProfessionals.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

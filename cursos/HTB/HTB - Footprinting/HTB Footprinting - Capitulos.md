@@ -1,5 +1,5 @@
 
-# HTB Footprinting - Capitulos
+# HTB Footprinting - Capítulos
 
 ## Introdução
 
@@ -20,6 +20,7 @@
 - [[Cyber - DNS]]
 - [[Cyber - Descrição SMTP]]
 - [[Cyber - Configuração do SMTP]]
+- [[Cyber - IMAP POP3]]
 
 
 
