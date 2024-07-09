@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f7eaa1919cac55c0",
+        "id": "9d5246eb1543629a",
         "type": "tabs",
         "children": [
           {
-            "id": "932d8c0849a7de22",
+            "id": "cff0c1d85bfb4378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materias/Linux/Distros/RedHat Enterprise Linux.md",
+                "file": "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1692968e8066ce3e",
+            "id": "5516cf2c8da1b986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - RHEL - SAMBA.md",
+                "file": "Cyber - Definição e fundamentos do SIEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - RHEL - SAMBA.md",
+                "file": "Cyber - Definição e fundamentos do SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - RHEL - SAMBA.md",
+                "file": "Cyber - Definição e fundamentos do SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - RHEL - SAMBA.md"
+                "file": "Cyber - Definição e fundamentos do SIEM.md"
               }
             }
           }
@@ -160,54 +160,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1692968e8066ce3e",
+  "active": "5516cf2c8da1b986",
   "lastOpenFiles": [
-    "Pasted image 20240708173346.png",
-    "Pasted image 20240708173311.png",
-    "Pasted image 20240708173249.png",
-    "materias/Linux/Distros/RedHat Enterprise Linux.md",
-    "Linux - RHEL - SAMBA.md",
-    "Linux - RHEL - firewalld.md",
-    "materias/Linux/escopo de atividade/Alguns comandos.md",
-    "materias/Linux/Serviços.md",
-    "materias/Linux/Distros",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
-    "materias/Linux/escopo de atividade/Serviços.md",
-    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+    "Cyber - Definição e fundamentos do SIEM.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM",
+    "cursos/HTB/HTB - Introdução a linha de comando do Windows/HTB - Introdução a linha de comando do Windows - CMD.md",
+    "CMD - Encontrando arquivos e diretórios.md",
+    "CMD - Coletando informações do sistema.md",
+    "Pasted image 20240709174146.png",
+    "InformationTypesChart_Updated.webp",
+    "CMD - Trabalhando com diretórios e arquivos.md",
+    "cursos/Windows Server/Windows Server - Servidor de Arquivos.md",
+    "Windows Server - Template para cotas.md",
+    "Windows Server - Template para triagem.md",
+    "Pasted image 20240709165953.png",
+    "Pasted image 20240709165755.png",
+    "Pasted image 20240709165111.png",
+    "Pasted image 20240709165053.png",
+    "Pasted image 20240709165029.png",
+    "Pasted image 20240709164904.png",
+    "Pasted image 20240709164052.png",
+    "Pasted image 20240709163723.png",
+    "Windows Server - Criando servidor de arquivos básico.md",
+    "Untitled 7.md",
+    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
     "materias/Linux/escopo de atividade/Administração do sistema.md",
-    "materias/Rede/Escopos de atividades/Infra.md",
+    "materias/Linux/Distros/RedHat Enterprise Linux.md",
+    "Linux - RHEL - firewalld.md",
+    "cursos/HTB/HTB - BashScript/HTB - BashScript_Capitulos.md",
+    "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
+    "Cyber - Metodologia de enumeração.md",
+    "ACLs.md",
+    "BashScript - Argumentos em bashScript.md",
+    "BashScript - Aritméticos.md",
+    "materias/Rede/Teórico.md",
+    "Redes - Máscara de rede.md",
+    "Redes - Protocolo IP.md",
+    "Redes - Domínio de Broadcast e de Colisão.md",
+    "Redes - Padrões, CISMA.md",
+    "materias/Linux/Distros",
     "materias/Rede/Escopos de atividades",
-    "materias/Linux/escopo de atividade/Hardening.md",
     "materias/Linux/escopo de atividade",
-    "Cyber - IMAP POP3.md",
-    "Pasted image 20240708104855.png",
-    "Cyber - Configuração do SMTP.md",
-    "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
-    "Linux - Acesso Remoto com Chave pública e privada.md",
-    "Linux - Acesso Remoto (OpenSSH).md",
     "cursos/Untitled/Untitled",
     "cursos/RHEL",
-    "Linux - Instalação de um aplicativo na linha de comando.md",
-    "Linux - Instalação de pacotes de software.md",
-    "Linux - Configuração do FlatPak.md",
-    "Cyber - Descrição SMTP.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Cyber - DNS.md",
-    "CMD - Trabalhando com diretórios e arquivos.md",
-    "Pasted image 20240704184059.png",
-    "Pasted image 20240704183944.png",
-    "Pasted image 20240704183851.png",
-    "Pasted image 20240704183452.png",
-    "Pasted image 20240704183324.png",
-    "Pasted image 20240704183220.png",
-    "Pasted image 20240704183207.png",
-    "cursos/HTB/HTB - Introdução a linha de comando do Windows/HTB - Introdução a linha de comando do Windows - CMD.md",
-    "CMD - Navegação do sistema.md",
     "cursos/HTB/HTB - Introdução a linha de comando do Windows",
     "materias/Rede/IfraEstrutura",
     "materias/Rede",
     "cursos/CCNA - Gustavo Kalau",
-    "materias/linguagens/ingles",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
