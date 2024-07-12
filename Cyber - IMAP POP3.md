@@ -142,7 +142,7 @@ openssl s_client -connect 10.129.14.128:pop3s
 openssl s_client -connect 10.129.14.128:imaps
 ```
 
-
+Depois que tivermos iniciado com sucesso uma conexão e efetuado login no servidor de e-mail de destino, podemos usar os comandos acima para trabalhar e navegar no servidor.
 
 
 

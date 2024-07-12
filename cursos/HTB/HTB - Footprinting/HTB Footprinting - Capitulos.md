@@ -22,6 +22,16 @@
 - [[Cyber - Configuração do SMTP]]
 - [[Cyber - IMAP POP3]]
 
+#### SNMP
+[[Cyber - SNMP]]
+[[Redes - SNMP]]
+[[Linux - SNMP]]
+
+#### MySQL
+[[Redes - MySQL]]
+[[Linux - MySQL]]
+[[Cyber - MySQL]]
+
 
 
 

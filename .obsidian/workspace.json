@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9d5246eb1543629a",
+        "id": "2c91cdf1f2e3cafa",
         "type": "tabs",
         "children": [
           {
-            "id": "cff0c1d85bfb4378",
+            "id": "78a22a678ce20640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5516cf2c8da1b986",
+            "id": "0f46c034fdf4009f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber - Definição e fundamentos do SIEM.md",
+                "file": "Linux - RHEL - SAMBA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
+    "width": 695.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - Definição e fundamentos do SIEM.md",
+                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - Definição e fundamentos do SIEM.md",
+                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber - Definição e fundamentos do SIEM.md"
+                "file": "materias/Linux/Assuntos/Assuntos.md"
               }
             }
           }
@@ -160,54 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5516cf2c8da1b986",
+  "active": "78a22a678ce20640",
   "lastOpenFiles": [
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
-    "Cyber - Definição e fundamentos do SIEM.md",
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM",
-    "cursos/HTB/HTB - Introdução a linha de comando do Windows/HTB - Introdução a linha de comando do Windows - CMD.md",
-    "CMD - Encontrando arquivos e diretórios.md",
-    "CMD - Coletando informações do sistema.md",
-    "Pasted image 20240709174146.png",
-    "InformationTypesChart_Updated.webp",
-    "CMD - Trabalhando com diretórios e arquivos.md",
-    "cursos/Windows Server/Windows Server - Servidor de Arquivos.md",
-    "Windows Server - Template para cotas.md",
-    "Windows Server - Template para triagem.md",
-    "Pasted image 20240709165953.png",
-    "Pasted image 20240709165755.png",
-    "Pasted image 20240709165111.png",
-    "Pasted image 20240709165053.png",
-    "Pasted image 20240709165029.png",
-    "Pasted image 20240709164904.png",
-    "Pasted image 20240709164052.png",
-    "Pasted image 20240709163723.png",
-    "Windows Server - Criando servidor de arquivos básico.md",
-    "Untitled 7.md",
-    "cursos/Windows Server/Active Directory e Políticas de grupo.md",
-    "materias/Linux/escopo de atividade/Administração do sistema.md",
-    "materias/Linux/Distros/RedHat Enterprise Linux.md",
+    "Linux - RHEL - SAMBA.md",
+    "materias/Linux/Assuntos/Assuntos.md",
+    "Linux - Configuração de rede.md",
     "Linux - RHEL - firewalld.md",
-    "cursos/HTB/HTB - BashScript/HTB - BashScript_Capitulos.md",
+    "materias/Windows/Windows.md",
+    "materias/Windows",
+    "materias/WordSkills/Descritivo Técnico - 2_Padrões Ocupacionais da WorldSkills (WSOS).md",
+    "materias/WordSkills/Descritivo Técnico - 1_introdução.md",
+    "materias/Linux/Linux - Listas/Serviços.md",
+    "materias/Linux/Assuntos",
+    "materias/Linux/Linux - Listas.md",
+    "materias/Linux/Linux - Listas",
+    "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
+    "materias/Links.md",
+    "materias/Linux/Distros/RedHat Enterprise Linux.md",
+    "Linux - ACLs.md",
+    "Linux - Intervalos de UID.md",
+    "Pasted image 20240712173356.png",
+    "Pasted image 20240712173044.png",
+    "Pasted image 20240712173016.png",
+    "Linux - Permissões avançadas.md",
+    "materias/Linux/escopo de atividade/Serviços.md",
+    "materias/Linux/escopo de atividade/Hardening.md",
+    "Pasted image 20240712153018.png",
+    "A Cebola Alcachofra da segurança.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+    "Cyber - Introdução a Elastic Stack.md",
+    "Redes - MySQL.md",
+    "Linux - MySQL.md",
+    "Cyber - MySQL.md",
     "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
-    "Cyber - Metodologia de enumeração.md",
-    "ACLs.md",
-    "BashScript - Argumentos em bashScript.md",
-    "BashScript - Aritméticos.md",
-    "materias/Rede/Teórico.md",
-    "Redes - Máscara de rede.md",
-    "Redes - Protocolo IP.md",
-    "Redes - Domínio de Broadcast e de Colisão.md",
-    "Redes - Padrões, CISMA.md",
+    "A conta administrativa.md",
+    "Cyber - SNMP.md",
+    "image12.webp",
+    "image11.webp",
+    "image10.webp",
+    "image9.webp",
+    "image8.webp",
+    "image7.webp",
+    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM",
     "materias/Linux/Distros",
     "materias/Rede/Escopos de atividades",
     "materias/Linux/escopo de atividade",
     "cursos/Untitled/Untitled",
     "cursos/RHEL",
-    "cursos/HTB/HTB - Introdução a linha de comando do Windows",
-    "materias/Rede/IfraEstrutura",
-    "materias/Rede",
-    "cursos/CCNA - Gustavo Kalau",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

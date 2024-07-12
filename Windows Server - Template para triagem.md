@@ -1,5 +1,5 @@
 #### Roles and Features
-- `File Server Resource Manager
+- `File Server Resource Manager`
 
 ---
 
@@ -40,4 +40,4 @@ E aqui definimos :
 - Em qual pasta será aplicada a triagem.
 - Qual modelo vamos aplicar, ou se vamos personalizar um.
 ![[Pasted image 20240709165953.png]]
-E vamos em **Create**
+E vamos em **Create**.

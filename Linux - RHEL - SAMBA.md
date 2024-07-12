@@ -143,7 +143,6 @@ Assim permitimos que o SAMBA pode acessar as pastas.
 - `P` : Assim ele será salvo como padrão, e será salvo ao rebootarmos.
 
 Mas ainda precisamos restaurar as permissões do pasta em específico.
-
 ```bash
 sudo restorecon -R /public_share/
 ```

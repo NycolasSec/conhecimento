@@ -1,3 +1,6 @@
 [[Windows Server - Criando servidor de arquivos básico]]
-[[Windows Server - Template para cotas]]]]
+[[Windows Server - Template para cotas]]
 [[Windows Server - Template para triagem]]
+[[Windows Server - Relatório de arquivos]]
+[[Windows Server - Relatório agendado]]
+[[Windows Server - DFS (Sistema de arquivos distribuido)]]
