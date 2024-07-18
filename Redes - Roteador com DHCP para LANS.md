@@ -1,11 +1,9 @@
 ## Roteador 
-
 - Temos que criar sub interfaces para direcionar para cada VLAN
 - Também temos de encapsula-las e indicar para qual VLAN cada uma será usada
 - A porta do switch deve estar como trunk para que mostre ao roteador as VLANS
 
 ## Criando sub interfaces
-
 ```
 Router(config)#interface gigabitEthernet 0/0/0
 Router(config-if)#no shutdown

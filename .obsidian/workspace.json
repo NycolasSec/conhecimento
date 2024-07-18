@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c91cdf1f2e3cafa",
+        "id": "728cd8dde2e6bfb6",
         "type": "tabs",
         "children": [
           {
-            "id": "78a22a678ce20640",
+            "id": "31d80dd38ed1f66b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materias/Linux/Assuntos/Assuntos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f46c034fdf4009f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux - RHEL - SAMBA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.5,
+    "width": 301.5,
     "collapsed": true
   },
   "right": {
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "materias/Linux/Assuntos/Assuntos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,54 +139,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78a22a678ce20640",
+  "active": "31d80dd38ed1f66b",
   "lastOpenFiles": [
-    "Linux - RHEL - SAMBA.md",
-    "materias/Linux/Assuntos/Assuntos.md",
-    "Linux - Configuração de rede.md",
-    "Linux - RHEL - firewalld.md",
-    "materias/Windows/Windows.md",
-    "materias/Windows",
-    "materias/WordSkills/Descritivo Técnico - 2_Padrões Ocupacionais da WorldSkills (WSOS).md",
-    "materias/WordSkills/Descritivo Técnico - 1_introdução.md",
-    "materias/Linux/Linux - Listas/Serviços.md",
-    "materias/Linux/Assuntos",
-    "materias/Linux/Linux - Listas.md",
-    "materias/Linux/Linux - Listas",
-    "cursos/RHEL/RHEL - Configurações básicas e acesso remoto.md",
-    "materias/Links.md",
-    "materias/Linux/Distros/RedHat Enterprise Linux.md",
-    "Linux - ACLs.md",
-    "Linux - Intervalos de UID.md",
-    "Pasted image 20240712173356.png",
-    "Pasted image 20240712173044.png",
-    "Pasted image 20240712173016.png",
-    "Linux - Permissões avançadas.md",
-    "materias/Linux/escopo de atividade/Serviços.md",
-    "materias/Linux/escopo de atividade/Hardening.md",
-    "Pasted image 20240712153018.png",
-    "A Cebola Alcachofra da segurança.md",
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
-    "Cyber - Introdução a Elastic Stack.md",
-    "Redes - MySQL.md",
-    "Linux - MySQL.md",
-    "Cyber - MySQL.md",
+    "Cyber - MSSQL.md",
     "cursos/HTB/HTB - Footprinting/HTB Footprinting - Capitulos.md",
-    "A conta administrativa.md",
-    "Cyber - SNMP.md",
-    "image12.webp",
-    "image11.webp",
-    "image10.webp",
-    "image9.webp",
-    "image8.webp",
-    "image7.webp",
+    "Redes - MSSQL.md",
+    "Linux - MSSQL.md",
+    "Cyber - SMB.md",
+    "Cyber - Reverse Shell na mão.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "materias/cyber/Cyber - Ferramentas.md",
+    "materias/cyber/Cyber - Assuntos.md",
+    "Cyber - Subdomain enumeration.md",
+    "Cyber - DNS.md",
+    "materias/Rede/Teórico.md",
+    "Redes - Camada 5 à 7.md",
+    "smb-actions.webp",
+    "ftp-example.webp",
+    "https.webp",
+    "materias/Rede/Assuntos/Redes - Configurações.md",
+    "Redes - SSH em equipamentos cisco.md",
+    "Redes - Backup de configurações em FTP Server.md",
+    "Redes - Etherchannel.md",
+    "materias/Rede/IfraEstrutura/Roteamento.md",
+    "materias/Rede/IfraEstrutura/Redes - Implementando o OSPF.md",
+    "materias/Rede/IfraEstrutura/Redes - Autenticação OSPF.md",
+    "materias/Rede/IfraEstrutura/EIGRP.md",
+    "materias/Rede/IfraEstrutura/Modos de configuração.md",
+    "materias/Rede/IfraEstrutura/Configurar roteador cisco.md",
+    "materias/Rede/IfraEstrutura/Configuração de interfaces.md",
+    "materias/Rede/IfraEstrutura/Entregar servidor dns.md",
+    "Redes - Roteador com DHCP para LANS.md",
+    "Pasted image 20240718084652.png",
+    "materias/Rede/Assuntos",
+    "ntfs.webp",
+    "smb_diagram.webp",
+    "Pasted image 20240716164332.png",
+    "Pasted image 20240716164317.png",
+    "Pasted image 20240716163326.png",
+    "Pasted image 20240716161953.png",
+    "materias/Windows",
+    "materias/Linux/Assuntos",
+    "materias/Linux/Linux - Listas",
     "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal",
     "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM",
     "materias/Linux/Distros",
     "materias/Rede/Escopos de atividades",
     "materias/Linux/escopo de atividade",
     "cursos/Untitled/Untitled",
-    "cursos/RHEL",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

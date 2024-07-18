@@ -15,6 +15,11 @@ Aqui atribuímos o ip privado e a máscara, para que o serviço DHCP saiba os ip
 Aqui especificamos qual o roteador padrão.
 
 ```
+(dhcp-config) # dns-server 192.168.0.2
+```
+Agora o DHCP também vai enviar o servidor DNS
+
+```
 (config) #ip dhcp excluded-address 192.168.0.1
 ```
 Assim dizemos para ele não distribuir esse ip na rede

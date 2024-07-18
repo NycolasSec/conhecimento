@@ -32,6 +32,14 @@
 [[Linux - MySQL]]
 [[Cyber - MySQL]]
 
+#### MSSQL
+[[Cyber - MSSQL]]
+[[Redes - MSSQL]]
+[[Linux - MSSQL]]
+
+#### Oracle TNS
+[[Cyber - TNS]]
+
 
 
 

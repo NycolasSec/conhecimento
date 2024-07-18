@@ -181,4 +181,12 @@ total 0
 Agora a permissão 744 foi aplicada a pasta e as subpastas.
 
 ---
+
+## umask
+é uma máscara de exclusão de permissões padrão, sendo seu padrão ``0022``, ou seja, ao criarmos um arquivo ela faz contraste coma máscara de criação padrão deste arquivo.
+
+Quando criamos uma pasta sua permissão padrão é: `0777`, mas como temos o umask de : `0022` que retira as permissões de escrita de Grupo e Outros, ficaria. `0755`
+
+
+---
 Agora podemos ir para [[Linux - Permissões especiais]]

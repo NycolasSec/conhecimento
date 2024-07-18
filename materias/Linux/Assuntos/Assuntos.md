@@ -8,6 +8,7 @@
 ## Permissões
 [[Linux - Permissões avançadas]]
 [[Linux - Permissões especiais]]
+[[Linux - umask]]
 [[Linux - ACLs]]
 
 ## Segurança
