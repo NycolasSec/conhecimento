@@ -6,7 +6,7 @@ Esteganografia
 [[Cyber - Reverse Shell na mão]]
 
 ```sh
-script -qc /bin/bash dev/null
+script -qc /bin/bash /dev/null
 ```
 Quando nos conectamos, o shell não é muito explícito, com esse comando ele fica mais completo.
 
@@ -27,7 +27,5 @@ Wazuh
 ---
 
 https://github.com/int0x33/nc.exe/blob/master/nc64.exe?source=post_page-----a2ddc3557403----------------------
-
-
 
 **winpeas.exe** is a script that will search for all possible paths to escalate privileges on Windows hosts.
