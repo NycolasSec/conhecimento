@@ -10,8 +10,23 @@ O protocolo HTTP suporta vários métodos tais como GET, POST, HEAD, PUT, DELETE
 
 Os mais utilizados são o método **GET** para requisitar recursos e o método **POST** para enviar dados como por exemplo formulários de páginas.
 
-![[Pasted image 20240618113214.png]]
+#### GET
+Ler dados do Servidor
 
+#### POST
+Enviar dados para o servidor
+
+#### PUT
+Enviar dados para o servidor(Criar/Atualizar)
+
+#### DELETE
+Deletar dados do Servidor
+
+#### PATCH
+Atualizar dados no Servidor
+
+
+![[Pasted image 20240618113214.png]]
 
 
 ---

@@ -3,8 +3,6 @@ xpsec - https://xpsec.academy/
 
 https://www.linkedin.com/feed/update/urn:li:activity:7097268027980754946/
 
-![[Pasted image 20240712153018.png]]  
-
 ## Cursos
 
 Mobile Forensics Starter: [https://lnkd.in/dj6ZziFu](https://lnkd.in/dj6ZziFu)

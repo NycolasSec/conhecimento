@@ -1,0 +1,1 @@
+XSS DOM Based se concentra na injeção de comando sem alguma entrada de dados que não trata de forma correta os dados. Mas dessa vez quem é responsável pelo processamento do input é o frontend.

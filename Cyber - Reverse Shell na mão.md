@@ -1,4 +1,3 @@
-
 ## PHP
 No PHP podemos executar comando no SO com o comando 
 `<?php system()>`, desse jeito : 

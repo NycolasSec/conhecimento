@@ -11,4 +11,6 @@
 - [[Cyber - Movimento lateral]]
 - [[Cyber - Prova de conceito]]
 - [[Cyber - Pós engajamento]]
-- 
+
+## Quebra de hashs
+[[Cyber - Quebrando hash de zip]]

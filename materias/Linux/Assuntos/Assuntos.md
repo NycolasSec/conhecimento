@@ -14,14 +14,17 @@
 ## Segurança
 [[Linux - RHEL - firewalld]]
 
-## Servidor de arquivos
-[[Linux - RHEL - SAMBA]]
+
 
 ## Configurações básicas de acesso remoto
 [[Linux - Acesso Remoto (OpenSSH)]]
 [[Linux - Acesso Remoto com Chave pública e privada]]
 
+[[Linux - Console da web]]
 
+## Arquivos
+[[Linux - Montagem e desmontagem de arquivos]]
+[[Linux - Pesquisa de arquivos]]
 
 
 
