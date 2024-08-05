@@ -11,11 +11,28 @@
             "id": "a5b6718faa9ababb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752503980ff89e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber - SQL Injection.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyber - SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cyber - SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyber - SQL Injection.md"
+              }
             }
           }
         ]
@@ -139,44 +160,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5b6718faa9ababb",
+  "active": "752503980ff89e00",
   "lastOpenFiles": [
-    "Cyber - SQL Injection.md",
     "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
+    "Cyber - SQL Injection.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Cyber - Reverse Shell.md",
+    "Cyber - Fuzzing.md",
+    "Untitled 9.md",
+    "materias/cyber/Tips.md",
+    "Cyber - Open Redirect.md",
+    "Cyber - CRLF.md",
+    "Pasted image 20240805131311.png",
+    "Pasted image 20240805130812.png",
+    "Pasted image 20240805125851.png",
+    "Cyber - Session Hijacking.md",
+    "Pasted image 20240805124556.png",
+    "Pasted image 20240805124445.png",
+    "Pasted image 20240805124110.png",
+    "Pasted image 20240805124046.png",
+    "Cyber - CSRF.md",
+    "Cyber - Command Injection.md",
+    "Cyber - XSS Reflected.md",
     "Cyber - XSS Stored.md",
     "Cyber - XSS DOM Based.md",
-    "Cyber - XSS Reflected.md",
     "Pasted image 20240802191722.png",
     "Pasted image 20240802191545.png",
     "Pasted image 20240802191522.png",
-    "Pasted image 20240802191352.png",
-    "Pasted image 20240802185637.png",
-    "Pasted image 20240802185627.png",
     "Cyber - Git Exposed.md",
     "Cyber - DNS.md",
-    "Cyber - Fuzzing.md",
-    "Pasted image 20240802172711.png",
-    "Pasted image 20240802172342.png",
     "Cyber - Enumeração de portas.md",
     "Cyber - Web Recon.md",
-    "materias/cyber/Tips.md",
     "Cyber - API.md",
-    "Pasted image 20240802125809.png",
-    "Pasted image 20240802125717.png",
     "Cyber - cookies.md",
     "Redes - HTTP e HTTPS.md",
     "Cyber - Métodos HTTP.md",
     "Cyber - Introdução ao DNS.md",
     "Cyber - Processo de um pentest.md",
     "Cyber - Análise de vulnerabilidade.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/17. Swiss Army Knife.md",
-    "Cyber - Netcat.md",
-    "Cyber - Swiss Army Knife.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/11. TCP IP para pentesters.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/13. BashScripting para pentesters.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/16. Python para Pentesters.md",
-    "cursos/Novo Pentest Profissional - DESEC/capitulos/14. Powershell  para pentesters.md",
-    "Cyber - Vulnerabilidade, Exploit, Risco e Ameaça.md",
     "cursos/HackingClub",
     "cursos/HTB/HTB - Linux Privilege escalation",
     "materias/Rede/Assuntos",

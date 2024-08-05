@@ -19,3 +19,11 @@
 [[Cyber - XSS DOM Based]]
 
 [[Cyber - SQL Injection]]
+[[Cyber - Command Injection]]
+
+[[Cyber - CSRF]]
+[[Cyber - Session Hijacking]]
+[[Cyber - CRLF]]
+[[Cyber - Open Redirect]]
+
+#block17
