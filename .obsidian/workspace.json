@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb77f453d0511f5",
+        "id": "fdbcd2bc60f4fa6d",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b6718faa9ababb",
+            "id": "2142e3b2f559c082",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "752503980ff89e00",
+            "id": "700553b406f75573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber - SQL Injection.md",
-                "mode": "preview",
+                "file": "Cyber - SQL Injection Error Based.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - SQL Injection.md",
+                "file": "Cyber - SQL Injection Error Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - SQL Injection.md",
+                "file": "Cyber - SQL Injection Error Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber - SQL Injection.md"
+                "file": "Cyber - SQL Injection Error Based.md"
               }
             }
           }
@@ -160,17 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "752503980ff89e00",
+  "active": "700553b406f75573",
   "lastOpenFiles": [
     "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
+    "Cyber - SQL Injection Error Based.md",
+    "Cyber - Session Hijacking via XSS.md",
+    "Linux - Filtrar conteúdo.md",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Fluxo de trabalho.md",
+    "Linux - Descritores de arquivos.md",
+    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
+    "Cyber - API.md",
+    "Cyber - GraphQL.md",
+    "Cyber - XSS Reflected.md",
+    "Cyber - NoSQL Injection.md",
     "Cyber - SQL Injection.md",
+    "Cyber - Miss Configuration.md",
+    "Cyber - Unrestricted File Upload.md",
+    "Cyber - RFI.md",
+    "Cyber - IDOR.md",
+    "nosql-injection-graphic.svg",
+    "Cyber - CSRF.md",
+    "Cyber - LFI.md",
+    "Cyber - Open Redirect.md",
     "materias/cyber/Cyber - Técnicas.md",
+    "materias/cyber/Tips.md",
+    "Cyber - CRLF.md",
     "Cyber - Reverse Shell.md",
     "Cyber - Fuzzing.md",
     "Untitled 9.md",
-    "materias/cyber/Tips.md",
-    "Cyber - Open Redirect.md",
-    "Cyber - CRLF.md",
     "Pasted image 20240805131311.png",
     "Pasted image 20240805130812.png",
     "Pasted image 20240805125851.png",
@@ -179,25 +196,8 @@
     "Pasted image 20240805124445.png",
     "Pasted image 20240805124110.png",
     "Pasted image 20240805124046.png",
-    "Cyber - CSRF.md",
-    "Cyber - Command Injection.md",
-    "Cyber - XSS Reflected.md",
-    "Cyber - XSS Stored.md",
-    "Cyber - XSS DOM Based.md",
     "Pasted image 20240802191722.png",
     "Pasted image 20240802191545.png",
-    "Pasted image 20240802191522.png",
-    "Cyber - Git Exposed.md",
-    "Cyber - DNS.md",
-    "Cyber - Enumeração de portas.md",
-    "Cyber - Web Recon.md",
-    "Cyber - API.md",
-    "Cyber - cookies.md",
-    "Redes - HTTP e HTTPS.md",
-    "Cyber - Métodos HTTP.md",
-    "Cyber - Introdução ao DNS.md",
-    "Cyber - Processo de um pentest.md",
-    "Cyber - Análise de vulnerabilidade.md",
     "cursos/HackingClub",
     "cursos/HTB/HTB - Linux Privilege escalation",
     "materias/Rede/Assuntos",

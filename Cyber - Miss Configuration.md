@@ -1,0 +1,3 @@
+Miss Configurations, por si só não são vulnerabilidades, mas podem gerar ou intensificar uma vulnerabilidade.
+
+Ela se trata de configurações erradas de segurança ou ou a falta de configurações, como deixar a senha default de algum serviço como o tomcat, deixar o modo do GraphQL Introspection habilitado em produção, deixar o ``package.json`` visível e etc...

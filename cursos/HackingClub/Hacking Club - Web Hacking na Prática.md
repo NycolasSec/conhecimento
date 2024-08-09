@@ -19,11 +19,23 @@
 [[Cyber - XSS DOM Based]]
 
 [[Cyber - SQL Injection]]
+[[Cyber - NoSQL Injection]]
 [[Cyber - Command Injection]]
 
 [[Cyber - CSRF]]
 [[Cyber - Session Hijacking]]
 [[Cyber - CRLF]]
 [[Cyber - Open Redirect]]
+[[Cyber - LFI]]
+[[Cyber - RFI]]
+[[Cyber - IDOR]]
 
-#block17
+[[Cyber - Unrestricted File Upload]]
+
+[[Cyber - GraphQL]]
+[[Cyber - Miss Configuration]]
+
+## Exploração Avançada (Web)
+ [[Cyber - Session Hijacking via XSS]]
+ [[Cyber - SQL Injection Error Based]]
+ 
