@@ -1,0 +1,7 @@
+O desenvolvimento de ferramentas tem muitas vantagens. Além do fato de praticarmos e aprendermos linguagens de programação específicas durante o processo de desenvolvimento, também entendemos como tais programas são desenvolvidos e como funciona a comunicação entre servidor e cliente. Isso nos dá uma melhor compreensão das estruturas dos programas e algum repertório, o que nos ajudará a entender os processos de forma mais rápida e fácil.
+
+É necessário ter esse entendimento para pensar fora da caixa e testar potenciais fraquezas no programa que podem estar presentes. Finalmente, os desenvolvedores também têm dificuldades com o desenvolvimento, o que frequentemente leva a vulnerabilidades do programa. Isso pode ser certas funções, bibliotecas ou até mesmo o manuseio de valores específicos.
+
+Nas próximas seções, voltaremos ao DNS e nos aprofundaremos um pouco mais. Muito provavelmente, já lidamos com alguns registros DNS e sabemos quais informações eles podem fornecer. Trabalhar com algumas ferramentas e recursos é uma abordagem padrão, mas é sempre melhor usar uma ferramenta que escrevemos e sabemos precisamente o que ela faz e como.
+
+Antes de começarmos a desenvolver nossa ferramenta, precisamos das informações com as quais queremos trabalhar. Portanto, é essencial entender cada passo da interação com o servidor para rastreá-lo e reproduzi-lo. Para obter ou consultar essas informações, precisamos entender como a comunicação entre os serviços, neste caso, o DNS, funciona e como ela é estruturada.

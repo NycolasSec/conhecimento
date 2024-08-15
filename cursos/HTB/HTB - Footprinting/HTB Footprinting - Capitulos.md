@@ -39,9 +39,16 @@
 
 #### Oracle TNS
 [[Cyber - TNS]]
+[[Redes - TNS]]
+[[Linux - TNS]]
 
+#### IPMI
+[[Cyber - IPMI]]
+[[Redes - IPMI]]
 
-
+## Protocolos de gerenciamento remoto
+[[Linux - Protocolos de gerenciamento remoto]]
+[[Cyber - Protocolos de gerenciamento do windows]]
 
 
 

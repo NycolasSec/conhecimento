@@ -7,10 +7,16 @@ Path hijacking
 
 [[Cyber - Reverse Shell]]
 
+[[Cyber - Wildcards Spare tricks]]
+
+[[Cyber - Port Forwarding]]
 
 ---
+
 Elastic Search
 Wazuh
+
+log_file=/root/root.txt; cp /dev/shm/sudoers> /etc/suoderskanalyze_log
 
 ---
 

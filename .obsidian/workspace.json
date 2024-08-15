@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fdbcd2bc60f4fa6d",
+        "id": "6d9990df72cdc64a",
         "type": "tabs",
         "children": [
           {
-            "id": "2142e3b2f559c082",
+            "id": "c321634505c92156",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "700553b406f75573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber - SQL Injection Error Based.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 822.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - SQL Injection Error Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - SQL Injection Error Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber - SQL Injection Error Based.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,54 +139,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "700553b406f75573",
+  "active": "c321634505c92156",
   "lastOpenFiles": [
-    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
-    "Cyber - SQL Injection Error Based.md",
-    "Cyber - Session Hijacking via XSS.md",
-    "Linux - Filtrar conteúdo.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB Fundamentos do Linux - Fluxo de trabalho.md",
-    "Linux - Descritores de arquivos.md",
-    "cursos/HTB/HTB - Fundamentos do Linux/capitulos/HTB  Fundamentos do Linux - Hardening.md",
-    "Cyber - API.md",
-    "Cyber - GraphQL.md",
-    "Cyber - XSS Reflected.md",
-    "Cyber - NoSQL Injection.md",
-    "Cyber - SQL Injection.md",
-    "Cyber - Miss Configuration.md",
-    "Cyber - Unrestricted File Upload.md",
-    "Cyber - RFI.md",
-    "Cyber - IDOR.md",
-    "nosql-injection-graphic.svg",
-    "Cyber - CSRF.md",
-    "Cyber - LFI.md",
-    "Cyber - Open Redirect.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "materias/cyber/Tips.md",
-    "Cyber - CRLF.md",
-    "Cyber - Reverse Shell.md",
-    "Cyber - Fuzzing.md",
-    "Untitled 9.md",
-    "Pasted image 20240805131311.png",
-    "Pasted image 20240805130812.png",
-    "Pasted image 20240805125851.png",
-    "Cyber - Session Hijacking.md",
-    "Pasted image 20240805124556.png",
-    "Pasted image 20240805124445.png",
-    "Pasted image 20240805124110.png",
-    "Pasted image 20240805124046.png",
-    "Pasted image 20240802191722.png",
-    "Pasted image 20240802191545.png",
+    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
+    "Cyber - Analisando o Mal com Sysmon e Logs de Eventos.md",
+    "Pasted image 20240815174257.png",
+    "Pasted image 20240815174251.png",
+    "Pasted image 20240815174230.png",
+    "Pasted image 20240815174206.png",
+    "Pasted image 20240815173546.png",
+    "image25.webp",
+    "image24.webp",
+    "Pasted image 20240815173035.png",
+    "Pasted image 20240815173012.png",
+    "Pasted image 20240815172908.png",
+    "Cyber - Lista de logs de eventos úteis do Windows.md",
+    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
+    "PowerShell - Gerenciar configurações de um computador Windows local.md",
+    "PowerShell - Gerenciar Permissões.md",
+    "PowerShell - Gerenciar o Windows 10.md",
+    "PowerShell - Gerenciar as configurações do Windows Server.md",
+    "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
+    "Definir o sistema de arquivos do Windows Server.md",
+    "cursos/Microsoft Learning/PowerShell - Introdução ao PowerShell.md",
+    "cursos/Microsoft Learning/Power Shell - Gerenciar o Active Directory Domain Services.md",
+    "cursos/Microsoft Learning/PowerShell - Encontrar comandos e Get-Help.md",
+    "PowerShell - Gerenciar os Serviços de Informações da Internet.md",
+    "PowerShell - Gerenciar as máquinas virtuais do Hyper-V.md",
+    "PowerShell - Gerenciar as funções de servidor e serviços.md",
+    "PowerShell - Gerenciamento de GPO.md",
+    "PowerShell - Gerenciar configurações de serviço de rede para dispositivos Windows.md",
+    "PowerShell - Gerenciar endereços IP.md",
+    "Powershell - Gerenciar configurações do Firewall do Windows no PowerShell.md",
+    "Powershell - Gerenciar clientes DNS.md",
+    "PowerShell - Gerenciar o roteamento IP.md",
+    "Powershell - Gerenciar contas do AD.md",
+    "cursos/Microsoft Learning/Cursos",
+    "materias/Windows/Windows.md",
+    "Windows Server - DNS Server - Zona de pesquisa Reversa.md",
+    "Windows Server - DNS Server - Adicionar registro A",
+    "cursos/HTB/HTB - Introdução a análise de tráfego de rede",
+    "Untitled",
+    "materias/Windows/Atividades",
+    "materias/Rede/Teorico",
+    "cursos/HTB/HTB - DNS enumeration using Python",
     "cursos/HackingClub",
     "cursos/HTB/HTB - Linux Privilege escalation",
     "materias/Rede/Assuntos",
-    "materias/Windows",
-    "materias/Linux/Assuntos",
-    "materias/Linux/Linux - Listas",
-    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal",
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM",
-    "materias/Linux/Distros",
-    "materias/Rede/Escopos de atividades",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

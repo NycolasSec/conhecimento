@@ -13,5 +13,16 @@
 
 ## Escalonamento de privilégios baseados em permissões
 [[Cyber - Linux Privilege Escalation - Permissões especiais]]
+[[Cyber - Linux Privilege Escalation - Abuso de direitos de sudo]]
+[[Cyber - Linux Privilege Escalation - Privilégios de grupo]]
+[[Cyber - Linux Privilege Escalation - Capabilities]]
+
+## O script abaixo pode ser usado para executar esse ataque de escalonamento de privilégios:
+[[Cyber - Linux Privilege Escalation - Serviços Vulneráveis]]
+[[Cyber - Linux Privilege Escalation - Abuso de Cron Job]]
+[[Cyber - Linux Privilege Escalation - Containers]]
+[[Cyber - Linux Privilege Escalation - Docker]]
+
+
 
 
