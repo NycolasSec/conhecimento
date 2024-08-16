@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9990df72cdc64a",
+        "id": "7a7f849da2ecb3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c321634505c92156",
+            "id": "d042d7759154ffe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9635595ebcddbd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber - SubDomínios.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 822.5,
+    "width": 418.5,
     "collapsed": true
   },
   "right": {
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyber - SubDomínios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cyber - SubDomínios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyber - SubDomínios.md"
+              }
             }
           }
         ]
@@ -139,44 +160,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c321634505c92156",
+  "active": "9635595ebcddbd4b",
   "lastOpenFiles": [
-    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
+    "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+    "Cyber - SubDomínios.md",
+    "materias/Windows/Atividades/Windows Server - Atividades.md",
+    "Windows Server - Atividade - Servidor DNS.md",
+    "materias/Windows/Atividades/Atividade_Windows_Server_2022.md",
     "Cyber - Analisando o Mal com Sysmon e Logs de Eventos.md",
-    "Pasted image 20240815174257.png",
-    "Pasted image 20240815174251.png",
-    "Pasted image 20240815174230.png",
-    "Pasted image 20240815174206.png",
-    "Pasted image 20240815173546.png",
-    "image25.webp",
-    "image24.webp",
-    "Pasted image 20240815173035.png",
-    "Pasted image 20240815173012.png",
-    "Pasted image 20240815172908.png",
-    "Cyber - Lista de logs de eventos úteis do Windows.md",
+    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
+    "Cyber - SSH - Assinando Chaves com certificado.md",
+    "Cyber - PHAR - PHP.md",
+    "materias/Linux/Assuntos/Assuntos.md",
+    "Linux - Acesso Remoto com Chave pública e privada.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Cyber - Port Forwarding.md",
+    "Cyber - Escavando o DNS.md",
+    "Cyber - SQL Injection Error Based.md",
+    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
     "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
-    "PowerShell - Gerenciar configurações de um computador Windows local.md",
-    "PowerShell - Gerenciar Permissões.md",
-    "PowerShell - Gerenciar o Windows 10.md",
-    "PowerShell - Gerenciar as configurações do Windows Server.md",
     "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
-    "Definir o sistema de arquivos do Windows Server.md",
-    "cursos/Microsoft Learning/PowerShell - Introdução ao PowerShell.md",
-    "cursos/Microsoft Learning/Power Shell - Gerenciar o Active Directory Domain Services.md",
-    "cursos/Microsoft Learning/PowerShell - Encontrar comandos e Get-Help.md",
-    "PowerShell - Gerenciar os Serviços de Informações da Internet.md",
-    "PowerShell - Gerenciar as máquinas virtuais do Hyper-V.md",
-    "PowerShell - Gerenciar as funções de servidor e serviços.md",
-    "PowerShell - Gerenciamento de GPO.md",
-    "PowerShell - Gerenciar configurações de serviço de rede para dispositivos Windows.md",
-    "PowerShell - Gerenciar endereços IP.md",
-    "Powershell - Gerenciar configurações do Firewall do Windows no PowerShell.md",
-    "Powershell - Gerenciar clientes DNS.md",
-    "PowerShell - Gerenciar o roteamento IP.md",
-    "Powershell - Gerenciar contas do AD.md",
+    "images/0-PT-Process-LA.webp",
+    "Pasted image 20240816093941.png",
+    "Pasted image 20240816093939.png",
+    "Pasted image 20240816093914.png",
+    "Cyber - Coleta de informações DNS.md",
+    "Pasted image 20240816090825.png",
+    "Pasted image 20240816090809.png",
+    "Cyber - DNS.md",
+    "Cyber - Usando o WHOIS.md",
+    "Pasted image 20240816085425.png",
+    "Cyber - WHOIS.md",
+    "Pasted image 20240816083850.png",
+    "Cyber - Coleta de informações - Edição Web - Introdução.md",
+    "Pasted image 20240816080740.png",
+    "cursos/HTB/HTB - Coleta de informações - Edição Web",
+    "cursos/HackingClub/Hacking Club - Web Hacking.md",
+    "Pasted image 20240815174257.png",
+    "Cyber - Lista de logs de eventos úteis do Windows.md",
     "cursos/Microsoft Learning/Cursos",
-    "materias/Windows/Windows.md",
-    "Windows Server - DNS Server - Zona de pesquisa Reversa.md",
     "Windows Server - DNS Server - Adicionar registro A",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede",
     "Untitled",
@@ -185,7 +208,6 @@
     "cursos/HTB/HTB - DNS enumeration using Python",
     "cursos/HackingClub",
     "cursos/HTB/HTB - Linux Privilege escalation",
-    "materias/Rede/Assuntos",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

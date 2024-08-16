@@ -11,6 +11,10 @@ Path hijacking
 
 [[Cyber - Port Forwarding]]
 
+[[Cyber - PHAR - PHP]]
+
+[[Cyber - SSH - Assinando Chaves com certificado ]]
+
 ---
 
 Elastic Search
