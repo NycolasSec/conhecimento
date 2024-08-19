@@ -27,7 +27,7 @@ sso depende de fontes externas de informação para descobrir subdomínios sem c
 
 Outra abordagem passiva envolve utilizar `search engines`como Google ou DuckDuckGo. Ao empregar operadores de busca especializados (por exemplo, `site:`), você pode filtrar resultados para mostrar apenas subdomínios relacionados ao domínio alvo.
 
-
+Cada um desses métodos tem seus pontos fortes e fracos. A enumeração ativa oferece mais controle e potencial para descoberta abrangente, mas pode ser mais detectável. A enumeração passiva é mais furtiva, mas pode não descobrir todos os subdomínios existentes. A combinação de ambas as abordagens fornece uma estratégia de enumeração de subdomínio mais completa e eficaz.
 
 
 

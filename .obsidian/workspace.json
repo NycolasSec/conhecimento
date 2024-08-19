@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7f849da2ecb3bc",
+        "id": "e309d59ffd0bfa0d",
         "type": "tabs",
         "children": [
           {
-            "id": "d042d7759154ffe8",
+            "id": "f51af10bd7ea2a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9635595ebcddbd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber - SubDomínios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - SubDomínios.md",
+                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - SubDomínios.md",
+                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber - SubDomínios.md"
+                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md"
               }
             }
           }
@@ -160,10 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9635595ebcddbd4b",
+  "active": "f51af10bd7ea2a8a",
   "lastOpenFiles": [
+    "Cyber - FingerPrinting.md",
     "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
-    "Cyber - SubDomínios.md",
+    "Cyber - Registros de Transparência de Certificados.md",
+    "Cyber - Virtual Hosts.md",
+    "Pasted image 20240819091409.png",
+    "Pasted image 20240819091352.png",
+    "materias/Links.md",
+    "materias/Flags - Juice Shop.md",
+    "Cyber - Transferência de zona DNS.md",
+    "Pasted image 20240819082503.png",
+    "Pasted image 20240819082443.png",
+    "Cyber - Subdomain Brute-Force.md",
+    "Cyber - Subdomains.md",
     "materias/Windows/Atividades/Windows Server - Atividades.md",
     "Windows Server - Atividade - Servidor DNS.md",
     "materias/Windows/Atividades/Atividade_Windows_Server_2022.md",
@@ -185,20 +183,9 @@
     "Pasted image 20240816093941.png",
     "Pasted image 20240816093939.png",
     "Pasted image 20240816093914.png",
-    "Cyber - Coleta de informações DNS.md",
     "Pasted image 20240816090825.png",
     "Pasted image 20240816090809.png",
-    "Cyber - DNS.md",
-    "Cyber - Usando o WHOIS.md",
-    "Pasted image 20240816085425.png",
-    "Cyber - WHOIS.md",
-    "Pasted image 20240816083850.png",
-    "Cyber - Coleta de informações - Edição Web - Introdução.md",
-    "Pasted image 20240816080740.png",
     "cursos/HTB/HTB - Coleta de informações - Edição Web",
-    "cursos/HackingClub/Hacking Club - Web Hacking.md",
-    "Pasted image 20240815174257.png",
-    "Cyber - Lista de logs de eventos úteis do Windows.md",
     "cursos/Microsoft Learning/Cursos",
     "Windows Server - DNS Server - Adicionar registro A",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede",

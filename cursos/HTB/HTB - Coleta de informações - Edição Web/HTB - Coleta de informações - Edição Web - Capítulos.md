@@ -8,4 +8,12 @@
 ## DNS e subdomínios
 [[Cyber - Coleta de informações DNS]]
 [[Cyber - Escavando o DNS]]
-[[Cyber - SubDomínios]]
+[[Cyber - Subdomains]]
+[[Cyber - Subdomain Brute-Force]]
+[[Cyber - Transferência de zona DNS]]
+[[Cyber - Virtual Hosts]]
+[[Cyber - Registros de Transparência de Certificados]]
+
+## Fingerprinting
+
+[[Cyber - FingerPrinting]]
