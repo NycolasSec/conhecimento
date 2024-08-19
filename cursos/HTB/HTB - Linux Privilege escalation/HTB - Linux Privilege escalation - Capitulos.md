@@ -22,6 +22,9 @@
 [[Cyber - Linux Privilege Escalation - Abuso de Cron Job]]
 [[Cyber - Linux Privilege Escalation - Containers]]
 [[Cyber - Linux Privilege Escalation - Docker]]
+[[Cyber - Linux Privilege escalation - Kurbenetes]]
+[[Cyber - Linux Privilege Escalation - Logrotate]]
+[[Cyber - Linux Privilege Escalation - Técnicas Diversas]]
 
 
 

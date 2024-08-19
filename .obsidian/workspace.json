@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd9ca039fd139e2",
+        "id": "914938c5984baaf9",
         "type": "tabs",
         "children": [
           {
-            "id": "3214ae45671b7289",
+            "id": "add1dc9df2aa7ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5357e267040f0a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber - Visão Geral do Windows Forensics.md",
+                "file": "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
+    "width": 299.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+                "file": "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+                "file": "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md"
+                "file": "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md"
               }
             }
           }
@@ -159,8 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3214ae45671b7289",
+  "active": "add1dc9df2aa7ae5",
   "lastOpenFiles": [
+    "Cyber - Linux Privilege Escalation - Técnicas Diversas.md",
+    "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
+    "Cyber - Linux Privilege Escalation - Logrotate.md",
+    "Linux - Apache.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/Linux/Assuntos/Assuntos.md",
+    "Linux - Console da web.md",
+    "Linux - Pesquisa de arquivos.md",
+    "materias/Linux/Linux - Listas/Serviços.md",
+    "cursos/RedHat/Red Hat - Administração de sistemas Red Hat/Capítulos.md",
+    "Linux - RedHat - Escreva Scripts Bash Simples.md",
+    "cursos/RedHat/Red Hat - Administração de sistemas Red Hat",
+    "cursos/RedHat/Cursos feitos.md",
+    "Cyber - Linux Privilege escalation - Kurbenetes.md",
+    "cursos/RedHat",
+    "Cyber - Linux Privilege Escalation - Docker.md",
+    "images/image1.webp",
     "Cyber - Visão Geral do Windows Forensics.md",
     "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
     "Cyber - Introdução ao Forense Digital.md",
@@ -178,35 +183,18 @@
     "Pasted image 20240819082503.png",
     "Pasted image 20240819082443.png",
     "Cyber - Subdomain Brute-Force.md",
-    "Cyber - Subdomains.md",
-    "materias/Windows/Atividades/Windows Server - Atividades.md",
-    "Windows Server - Atividade - Servidor DNS.md",
-    "materias/Windows/Atividades/Atividade_Windows_Server_2022.md",
-    "Cyber - Analisando o Mal com Sysmon e Logs de Eventos.md",
-    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
-    "Cyber - SSH - Assinando Chaves com certificado.md",
-    "Cyber - PHAR - PHP.md",
-    "materias/Linux/Assuntos/Assuntos.md",
-    "Linux - Acesso Remoto com Chave pública e privada.md",
-    "materias/Linux/Assuntos/Serviços.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Cyber - Port Forwarding.md",
-    "Cyber - Escavando o DNS.md",
     "images/0-PT-Process-LA.webp",
     "Pasted image 20240816093941.png",
     "Pasted image 20240816093939.png",
     "Pasted image 20240816093914.png",
     "Pasted image 20240816090825.png",
-    "Pasted image 20240816090809.png",
     "cursos/HTB/HTB - Coleta de informações - Edição Web",
     "cursos/Microsoft Learning/Cursos",
     "Windows Server - DNS Server - Adicionar registro A",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede",
-    "Untitled",
     "materias/Windows/Atividades",
     "materias/Rede/Teorico",
     "cursos/HTB/HTB - DNS enumeration using Python",
-    "cursos/HackingClub",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
