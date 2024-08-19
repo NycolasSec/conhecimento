@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e309d59ffd0bfa0d",
+        "id": "ebd9ca039fd139e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f51af10bd7ea2a8a",
+            "id": "3214ae45671b7289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5357e267040f0a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber - Visão Geral do Windows Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md"
+                "file": "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md"
               }
             }
           }
@@ -147,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f51af10bd7ea2a8a",
+  "active": "3214ae45671b7289",
   "lastOpenFiles": [
-    "Cyber - FingerPrinting.md",
+    "Cyber - Visão Geral do Windows Forensics.md",
+    "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+    "Cyber - Introdução ao Forense Digital.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+    "cursos/HTB/HTB - Introdução a forense digital",
     "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+    "Cyber - FingerPrinting.md",
     "Cyber - Registros de Transparência de Certificados.md",
     "Cyber - Virtual Hosts.md",
     "Pasted image 20240819091409.png",
@@ -175,10 +192,6 @@
     "materias/cyber/Cyber - Técnicas.md",
     "Cyber - Port Forwarding.md",
     "Cyber - Escavando o DNS.md",
-    "Cyber - SQL Injection Error Based.md",
-    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
-    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
-    "cursos/Microsoft Learning/Gerenciar Servidores de arquivos do Windows Server.md",
     "images/0-PT-Process-LA.webp",
     "Pasted image 20240816093941.png",
     "Pasted image 20240816093939.png",
@@ -194,7 +207,6 @@
     "materias/Rede/Teorico",
     "cursos/HTB/HTB - DNS enumeration using Python",
     "cursos/HackingClub",
-    "cursos/HTB/HTB - Linux Privilege escalation",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
