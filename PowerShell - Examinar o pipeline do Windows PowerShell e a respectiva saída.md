@@ -1,0 +1,7 @@
+O PowerShell permite a execução de comandos em um pipeline, onde a saída de um comando serve como entrada para o próximo, formando uma cadeia de comandos. Cada comando no pipeline é executado em sequência, da esquerda para a direita, e é separado pelo caractere pipe (|). Quando você interage com o PowerShell no console, cada linha de comando é tratada como um pipeline único. Após a execução, a saída do último comando é exibida, e um novo prompt aparece para você inserir mais comandos.
+
+## Saída do PipeLine
+
+No PowerShell, os comandos não geram texto como saída, mas sim objetos, que são estruturas de dados na memória. Esses objetos podem ser comparados a linhas de uma tabela, onde cada coluna representa uma propriedade do objeto, como nome ou status. Por exemplo, o comando `Get-Service` retorna uma coleção de objetos de serviço, com propriedades como `Name` e `Status`.
+
+Essa abordagem difere de outros shells baseados em texto, onde seria necessário analisar e manipular texto para extrair informações específicas. No PowerShell, como os comandos produzem objetos, é possível acessar diretamente as propriedades desejadas sem precisar se preocupar com o formato do texto. Isso facilita a criação de pipelines de comandos, onde a saída de um comando pode ser usada diretamente como entrada para outro, simplificando tarefas complexas de administração e automação.

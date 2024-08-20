@@ -25,6 +25,7 @@
 [[Cyber - Linux Privilege escalation - Kurbenetes]]
 [[Cyber - Linux Privilege Escalation - Logrotate]]
 [[Cyber - Linux Privilege Escalation - Técnicas Diversas]]
+[[Cyber - Linux Privilege Escalation - Kernel Exploits]]
 
 
 

@@ -8,6 +8,10 @@
 
 [[PowerShell - Gerenciar configurações de um computador Windows local]]
 
+## Trabalhar com o pipeline do Windows PowerShell
+
+[[PowerShell - Compreensão do pipeline do Windows PowerShell]]
+[[PowerShell - Selecionar, classificar e medir objetos usando o pipeline]]
 
 
 

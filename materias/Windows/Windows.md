@@ -19,3 +19,7 @@
 [[Windows Server - DNS Server - Zona de pesquisa Direta]]
 [[Windows Server - DNS Server - Zona de pesquisa Reversa]]
 [[Windows Server - DNS Server - Adicionar registro A e PTR]]
+[[Windows Server - DNS Server - Adicionar registro MX]]
+[[Windows Server - DNS Server - Adicionar Registro CNAME]]
+
+[[Windows Server - DNS Server - Zona Secundária]]
