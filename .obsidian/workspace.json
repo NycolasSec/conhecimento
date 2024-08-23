@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6149b30962d32b",
+        "id": "86f01b3a12a5e468",
         "type": "tabs",
         "children": [
           {
-            "id": "2be2749790f8e019",
+            "id": "e23218a5fbb82705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
+                "file": "materias/Linux/Linux - CentOS 9 - Configurações.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9aeba162b81984d6",
+            "id": "0bfc25c8a866d5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell - Selecionar, classificar e medir objetos usando o pipeline.md",
+                "file": "Linux - CentOS - BIND.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf5f19d368e271c1",
+            "id": "215f1c4ddcbae23f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowerShell - Criar e formatar propriedades calculadas no pipeline.md",
+                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.51103591918945,
+    "width": 229.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell - Criar e formatar propriedades calculadas no pipeline.md",
+                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell - Criar e formatar propriedades calculadas no pipeline.md",
+                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell - Criar e formatar propriedades calculadas no pipeline.md"
+                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md"
               }
             }
           }
@@ -172,54 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5f19d368e271c1",
+  "active": "215f1c4ddcbae23f",
   "lastOpenFiles": [
-    "PowerShell - Selecionar, classificar e medir objetos usando o pipeline.md",
-    "PowerShell - Criar e formatar propriedades calculadas no pipeline.md",
-    "PowerShell - Selecionar propriedades de objeto no pipeline.md",
-    "PowerShell - Selecionar um conjunto de objetos no pipeline.md",
-    "PowerShell - Medir Objetos no pipeline.md",
-    "PowerShell - Classificar e agrupar objetos por propriedade no pipeline.md",
-    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
-    "PowerShell - Compreensão do pipeline do Windows PowerShell.md",
-    "PowerShell - Controlar a formatação da saída do pipeline.md",
-    "PowerShell - Descobrir membros do objeto no PowerShell.md",
-    "PowerShell - Examinar o pipeline do Windows PowerShell e a respectiva saída.md",
-    "cursos/Microsoft Learning/Power Shell - Gerenciar o Active Directory Domain Services.md",
-    "Powershell - Gerenciar unidades organizacionais e objetos do AD.md",
-    "materias/linguagens/PowerShell.md",
-    "PowerShell - Gerenciar configurações de um computador Windows local.md",
-    "apache-default.webp",
+    "Linux - CentOS - BIND.md",
+    "Linux - CentOS - BIND - Inicial.md",
+    "Linux - CentOS - BIND - Servidor DNS Primário.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "Linux - RHEL - SAMBA.md",
+    "materias/Linux/Linux - CentOS 9 - Configurações.md",
+    "materias/Linux/Assuntos/Assuntos.md",
+    "cursos/RedHat/Red Hat - Administração de sistemas Red Hat/Capítulos.md",
+    "Linux - CentOS 9 - Firewall e SELinux.md",
+    "Pasted image 20240823153414.png",
+    "Linux - CentOS 9 - Adicionando contas de usuários.md",
     "materias/Windows/Windows.md",
-    "Windows Server - DNS Server - Zona Secundária.md",
-    "Windows Server - Atividade - Servidor DNS.md",
-    "Windows Server - DNS Server - Adicionar Registro CNAME.md",
-    "Pasted image 20240820155722.png",
-    "Pasted image 20240820155459.png",
-    "Pasted image 20240820155416.png",
-    "Windows Server - DNS Server - Adicionar registro A e PTR.md",
-    "Windows Server - DNS Server - Adicionar registro MX.md",
-    "materias/Windows/Atividades/Windows Server - Atividades.md",
-    "Windows Server - DNS Server - Zona de pesquisa Direta.md",
-    "cursos/HTB/HTB - DNS enumeration using Python/HTB - DNS enumeration using Python - Capitulos.md",
-    "DNS.md",
-    "Ataques DNS.md",
-    "Pasted image 20240820085606.png",
-    "Pasted image 20240820085117.png",
-    "Pasted image 20240820084726.png",
-    "Pasted image 20240820083733.png",
-    "Pasted image 20240820083541.png",
-    "Pasted image 20240820082143.png",
+    "materias/Windows/Assuntos.md",
+    "materias/Linux/CentOS 9 Stream",
+    "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+    "Cyber - Técnicas e ferramentas de aquisição de evidências.md",
+    "Pasted image 20240823133418.png",
+    "Pasted image 20240823133312.png",
+    "Pasted image 20240823133159.png",
+    "Pasted image 20240823133148.png",
+    "Pasted image 20240823133038.png",
+    "Pasted image 20240823132944.png",
+    "Pasted image 20240823132903.png",
+    "Pasted image 20240823132849.png",
+    "Pasted image 20240823132743.png",
+    "cursos/HTB/HTB - Transferência de arquivos/HTB - Transferência de arquivos.md",
+    "Cyber - Transferindo arquivos com código.md",
+    "Cyber - Métodos de transferência de arquivos Linux.md",
+    "Cyber - Métodos de transferência de arquivos do Windows.md",
+    "cursos/HTB/HTB - BashScript/HTB - BashScript_Capitulos.md",
+    "cursos/HTB/Untitled",
+    "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
+    "Cyber - Reverse Shell.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Cyber - Reverse Shell na mão.md",
+    "Cyber - Linux Privilege Escalation - Polkit.md",
+    "Cyber - Linux Privilege Escalation - Técnicas Diversas.md",
+    "materiais/Design System Colors - Rocketseat.md",
+    "cursos/HTB/HTB - Transferência de arquivos",
+    "materiais",
     "materias/cyber/cves",
-    "Untitled",
     "cursos/RedHat/Red Hat - Administração de sistemas Red Hat",
     "cursos/RedHat",
     "cursos/HTB/HTB - Introdução a forense digital",
     "cursos/HTB/HTB - Coleta de informações - Edição Web",
     "cursos/Microsoft Learning/Cursos",
-    "Windows Server - DNS Server - Adicionar registro A",
-    "cursos/HTB/HTB - Introdução a análise de tráfego de rede",
-    "materias/Windows/Atividades",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

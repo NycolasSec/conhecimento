@@ -12,6 +12,7 @@
 [[Redes - Máscara de rede]]
 [[Redes - Subneting em IPv4 - Parte 2]]
 [[Redes - Subneting em IPv4 - Parte 3]]
+[[Redes - VLSM]]
 
 
 

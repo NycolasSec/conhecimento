@@ -25,8 +25,19 @@
 [[Cyber - Linux Privilege escalation - Kurbenetes]]
 [[Cyber - Linux Privilege Escalation - Logrotate]]
 [[Cyber - Linux Privilege Escalation - Técnicas Diversas]]
+
+## Escalação de privilégios baseada em Linux Internals
 [[Cyber - Linux Privilege Escalation - Kernel Exploits]]
+[[Cyber - Linux Privilege Escalation - Bibliotecas Compartilhadas]]
+[[Cyber - Linux Privilege Escalation - Shared Object Hijacking]]
+[[Cyber - Linux Privilege Escalation - Python Library Hijacking]]
 
+## Recent Zero Days
+[[Cyber - Linux Privilege Escalation - Sudo]]
+[[Cyber - Linux Privilege Escalation - Polkit]]
+[[Cyber - Linux Privilege Escalation - Dirty Pipe]]
+[[Cyber - Linux Privilege Escalation - NetFilter]]
 
+![[Pasted image 20240823090017.png]]
 
 

@@ -15,5 +15,19 @@
 [[Cyber - Registros de Transparência de Certificados]]
 
 ## Fingerprinting
-
 [[Cyber - FingerPrinting]]
+
+## Crawling
+[[Cyber - Crawling]]
+[[Cyber - robots.txt]]
+[[Cyber - Well-Known URIs]]
+[[Cyber - Creepy Crawlies]]
+
+## Search Engine Discovery
+[[Cyber - Search Engine Discovery]]
+
+## Arquivos da Web
+[[Cyber - Arquivos da Web]]
+
+## RECON automático
+[[Cyber - RECON Automático]]

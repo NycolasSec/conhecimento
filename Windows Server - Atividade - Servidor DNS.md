@@ -1,3 +1,10 @@
+#### Configuração inicial
+
+- [ ] Edite as configurações do adaptador Ethernet.
+	- [ ] Desabilite o DHCP
+	- [ ] Defina um IP válido na rede.
+	- [ ] Defina o Gateway.
+
 #### Instalação
 
 - [ ] Instale os recursos do Servidor DNS.
@@ -43,3 +50,7 @@
 	- [ ] Para o Registro A do  `smb`.
 	- [ ] Para o Registro A do  `mail`.
 	- [ ] Para o Registro A do  `bkp.
+
+#### Servidor Secundário
+
+- [ ] Crie um segundo servidor DNS e crie uma zona secundária para a zona do servidor primário.
