@@ -27,8 +27,11 @@
 [[Linux - Pesquisa de arquivos]]
 
 
+Certificados.
+Certificados com openssl.
 
-
+## Network
+[[Linux - IP estático]]
 
 
 

@@ -24,6 +24,7 @@ options {
         listen-on port 53 { 127.0.0.1; 10.128.10.11; };
 #        listen-on-v6 port 53 { ::1; };
 <SNIP>
+}
 ```
 Aqui definimos a porta e o endereço IP privado; Podemos configurar o IPv4 e IPv6. Se não quisermos usar basta comentarmos s linha.
 
@@ -32,6 +33,14 @@ Aqui definimos a porta e o endereço IP privado; Podemos configurar o IPv4 e IPv
 options {
 		allow-transfer { 10.128.20.12; };
 		allow-query { trusted; };
+<SNIP>
 }
 ```
 Definimos qual host pode fazer a transferência de zona, e quais hosts podem fazer ``queries``; nesse caso os que estiverem no ``acl trusted``.
+
+**Arquivo de zonas**
+```conf
+include "/etc/named/named.conf.local";
+```
+Precisamos adicionar essa linha para incluir o arquivo ``named.conf.local`` ás nossas configurações.
+

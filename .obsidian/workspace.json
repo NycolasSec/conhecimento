@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "86f01b3a12a5e468",
+        "id": "c7a3161db5f91fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "e23218a5fbb82705",
+            "id": "e033d7a88972dc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materias/Linux/Linux - CentOS 9 - Configurações.md",
+                "file": "cursos/RedHat/Cursos feitos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bfc25c8a866d5bf",
+            "id": "dce13964ec153d25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - CentOS - BIND.md",
+                "file": "materias/Linux/Assuntos/Assuntos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "215f1c4ddcbae23f",
+            "id": "be82adce28e34699",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
+                "file": "Linux - IP estático.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.51103591918945,
+    "width": 585.5110359191895,
     "collapsed": true
   },
   "right": {
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
+                "file": "Linux - IP estático.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md",
+                "file": "Linux - IP estático.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - CentOS - BIND - Servidor DNS Primário.md"
+                "file": "Linux - IP estático.md"
               }
             }
           }
@@ -172,46 +172,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215f1c4ddcbae23f",
+  "active": "be82adce28e34699",
   "lastOpenFiles": [
-    "Linux - CentOS - BIND.md",
-    "Linux - CentOS - BIND - Inicial.md",
-    "Linux - CentOS - BIND - Servidor DNS Primário.md",
-    "materias/Linux/Assuntos/Serviços.md",
-    "Linux - RHEL - SAMBA.md",
-    "materias/Linux/Linux - CentOS 9 - Configurações.md",
     "materias/Linux/Assuntos/Assuntos.md",
+    "Linux - IP estático.md",
+    "cursos/RedHat/Cursos feitos.md",
     "cursos/RedHat/Red Hat - Administração de sistemas Red Hat/Capítulos.md",
-    "Linux - CentOS 9 - Firewall e SELinux.md",
-    "Pasted image 20240823153414.png",
-    "Linux - CentOS 9 - Adicionando contas de usuários.md",
-    "materias/Windows/Windows.md",
-    "materias/Windows/Assuntos.md",
-    "materias/Linux/CentOS 9 Stream",
+    "Linux - CentOS - BIND - Arquivo de zona de encaminhamento.md",
+    "Linux - CentOS - BIND.md",
+    "Linux - CentOS - BIND - Servidor DNS Primário.md",
+    "cursos/RedHat/RedHat - Introdução aos Fundamentos do Linux/capitulos/RedHat - Introdução aos Fundamentos do Linux - 7_Redes Linux e recursos do sistema.md",
+    "Noções básicas de rede.md",
+    "Linux - CentOS - BIND - Inicial.md",
+    "Linux - CentOS - BIND - Arquivo local.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/Linux/Alguns comandos.md",
+    "materias/Linux/escopo de atividade/Administração do sistema.md",
+    "materias/Linux/escopo de atividade/Serviços.md",
+    "materias/Linux/escopo de atividade/Hardening.md",
+    "materias/Linux/Linux - CentOS 9 - Configurações.md",
+    "materias/Linux/Linux - Listas/Serviços.md",
+    "A necessidade do IPv6.md",
+    "Cyber - Memória Forense.md",
     "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
-    "Cyber - Técnicas e ferramentas de aquisição de evidências.md",
+    "cursos/HTB/HTB - Transferência de arquivos/HTB - Transferência de arquivos.md",
+    "Cyber - Evitando detecção de transferência de arquivos.md",
+    "Pasted image 20240826113208.png",
+    "Pasted image 20240826113145.png",
+    "Cyber - Detecção de transferência de arquivos.md",
+    "Cyber - Living off The Land.md",
+    "Pasted image 20240826103249.png",
+    "Pasted image 20240826103025.png",
+    "Cyber - Capturando arquivos via HTTP, HTTPS.md",
+    "Pasted image 20240826090422.png",
+    "Pasted image 20240826090408.png",
+    "Pasted image 20240823153414.png",
+    "materias/Linux/CentOS 9 Stream",
     "Pasted image 20240823133418.png",
     "Pasted image 20240823133312.png",
     "Pasted image 20240823133159.png",
-    "Pasted image 20240823133148.png",
-    "Pasted image 20240823133038.png",
-    "Pasted image 20240823132944.png",
-    "Pasted image 20240823132903.png",
-    "Pasted image 20240823132849.png",
-    "Pasted image 20240823132743.png",
-    "cursos/HTB/HTB - Transferência de arquivos/HTB - Transferência de arquivos.md",
-    "Cyber - Transferindo arquivos com código.md",
-    "Cyber - Métodos de transferência de arquivos Linux.md",
-    "Cyber - Métodos de transferência de arquivos do Windows.md",
-    "cursos/HTB/HTB - BashScript/HTB - BashScript_Capitulos.md",
     "cursos/HTB/Untitled",
-    "cursos/HTB/HTB - Linux Privilege escalation/HTB - Linux Privilege escalation - Capitulos.md",
-    "Cyber - Reverse Shell.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Cyber - Reverse Shell na mão.md",
-    "Cyber - Linux Privilege Escalation - Polkit.md",
-    "Cyber - Linux Privilege Escalation - Técnicas Diversas.md",
-    "materiais/Design System Colors - Rocketseat.md",
     "cursos/HTB/HTB - Transferência de arquivos",
     "materiais",
     "materias/cyber/cves",
