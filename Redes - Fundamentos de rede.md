@@ -13,6 +13,7 @@
 [[Redes - Subneting em IPv4 - Parte 2]]
 [[Redes - Subneting em IPv4 - Parte 3]]
 [[Redes - VLSM]]
+[[Redes - VLSM - Exemplo]]
 
 
 

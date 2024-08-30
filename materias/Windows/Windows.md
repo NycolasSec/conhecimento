@@ -23,3 +23,6 @@
 [[Windows Server - DNS Server - Adicionar Registro CNAME]]
 
 [[Windows Server - DNS Server - Zona Secundária]]
+[[Windows Server - DNS Server - Stub Zone]]
+[[Windows Server - DNS Server - Definindo um Forwarder]]
+[[Windows Server - DNS Server - Definindo um Conditional Forwarder]]

@@ -1,0 +1,3 @@
+1. **Tipos de Dados**: Em programação, o tipo de uma variável define os valores que podem ser armazenados nela. Tipos comuns incluem `int` (inteiro) e `float` (ponto flutuante). Um valor atribuído a uma variável deve corresponder ao seu tipo; por exemplo, um `int` só pode receber valores inteiros, enquanto um `float` aceita números com casas decimais.
+
+2. **Declaração de Variáveis**: Para criar uma variável, você deve declará-la. A declaração é uma instrução que associa um nome de variável a um tipo específico. A sintaxe para declarar uma variável em C é simples: você especifica o tipo seguido pelo nome da variável. Se precisar declarar várias variáveis do mesmo tipo, você pode separá-las por vírgulas. A declaração termina com um ponto e vírgula.

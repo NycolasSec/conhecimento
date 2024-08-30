@@ -26,6 +26,159 @@ Característica aqui é uma visão retrospectiva, como na análise descritiva in
     - Depois de filtrar o ruído, é hora de cavar para nossos alvos — filtrar coisas como `ftp-data`encontrar quaisquer arquivos transferidos e reconstruí-los. Para HTTP, podemos filtrar `http.request.method == "GET"`para ver quaisquer solicitações GET que correspondam aos nomes de arquivo que estamos procurando. Isso pode nos mostrar quem adquiriu os arquivos e potencialmente outras transferências internas para a rede nos mesmos protocolos.
 
 ## Análise preditiva
+Avalia dados históricos e atuais para criar um modelo preditivo de probabilidades futuras. Com base nos resultados de análises descritivas e diagnósticas, esse método de análise de dados torna possível identificar tendências, detectar desvios de valores esperados em um estágio inicial e prever ocorrências futuras com a maior precisão possível.
+
+7. `Note-taking and mind mapping of the found results`
+    
+    - Anotar tudo o que fazemos, vemos ou encontramos ao longo da investigação é crucial. Garanta que estamos tomando notas amplas, incluindo:
+    
+    - Períodos em que capturamos o tráfego.
+    - Hosts suspeitos na rede.
+    - Conversas contendo os arquivos em questão. (para incluir carimbos de data/hora e números de pacotes)
+8. `Summary of the analysis (what did we find?)`
+    - Por fim, resuma o que descobrimos, explicando os detalhes relevantes para que os superiores possam decidir colocar os hosts afetados em quarentena ou executar uma resposta a incidentes mais significativa.
+    - Nossa análise afetará as decisões tomadas, por isso é essencial ser o mais claro e conciso possível.
+
+Ao avaliar os dados que encontramos, comparando-os com nosso tráfego de base e dados ruins conhecidos, como marcadores de infiltração ou exploração, estamos realizando a Análise Preditiva. Nesse processo, pintamos um quadro claro para que ações apropriadas possam ser tomadas em resposta.
+
+## Análise prescritiva
+A análise prescritiva foca em identificar ações para prevenir problemas futuros ou desencadear processos específicos. Com base nos resultados de um fluxo de trabalho, decisões são tomadas para resolver e evitar a recorrência do problema. Após a solução, é importante refletir e documentar as lições aprendidas, fortalecendo processos futuros ao identificar o que funcionou, o que não ajudou e o que pode ser melhorado.
+
+1. `What is the issue?`
+    - Suspeita de violação? Problema de rede?
+2. `Define our scope and the goal (what are we looking for? which time period?)`
+    - alvo: vários hosts potencialmente baixando um arquivo malicioso de bad.example.com
+    - quando: nas últimas 48 horas + 2 horas a partir de agora.
+    - informações de suporte: nomes de arquivo/tipos 'superbad.exe' 'new-crypto-miner.exe'
+3. `Define our target(s) (net / host(s) / protocol)`
+    - escopo: 192.168.100.0/24 os protocolos de rede utilizados foram HTTP e FTP.
+4. `Capture network traffic`
+    - conecte-se a um link com acesso à rede 192.168.100.0/24 para capturar tráfego ao vivo para tentar pegar um dos executáveis ​​em transferência. Veja se um administrador pode extrair dados PCAP e/ou netflow do nosso SIEM para os dados históricos.
+5. `Identification of required network traffic components (filtering)`
+    - assim que tivermos tráfego, filtre qualquer tráfego que não seja necessário para esta investigação para incluir; qualquer tráfego que corresponda à nossa linha de base comum e mantenha qualquer coisa relevante para o escopo. `HTTP e FTP da sub-rede, qualquer coisa transferindo ou contendo uma solicitação GET para os arquivos executáveis ​​suspeitos.
+6. `An understanding of captured network traffic`
+    - Depois de filtrar o ruído, é hora de cavar nossos alvos — filtrar coisas como `ftp-data`encontrar quaisquer arquivos transferidos e reconstruí-los. Para HTTP, podemos filtrar `http.request.method == "GET"`para ver quaisquer solicitações GET que correspondam aos nomes de arquivo que estamos procurando. Isso pode nos mostrar quem adquiriu os arquivos e outras transferências potenciais internas para a rede nos mesmos protocolos.
+7. `Note-taking and mind mapping of the found results.`
+    
+    - Anotar tudo o que fazemos, vemos ou encontramos ao longo da investigação é crucial. Garanta que estamos tomando notas amplas, incluindo:
+    
+    - Períodos em que capturamos o tráfego.
+    - Hosts suspeitos na rede.
+    - Conversas contendo os arquivos em questão. (para incluir carimbos de data/hora e números de pacotes)
+8. `Summary of the analysis (what did we find?)`
+    - Por fim, resuma o que foi encontrado, explicando os detalhes relevantes para que os superiores possam tomar uma decisão informada sobre colocar os hosts afetados em quarentena ou executar uma resposta a incidentes mais significativa.
+    - Nossa análise afetará as decisões tomadas, por isso é essencial ser o mais claro e conciso possível.
+
+Esse processo costuma ser cíclico e executado várias vezes com base na análise original da captura para construir uma imagem maior. 
+
+Suponha que uma resposta a incidentes em larga escala seja considerada necessária. Nesse caso, podemos ter que reanalisar o PCAP capturado anteriormente para verificar quaisquer conversas que envolvam os hosts afetados dentro de vários minutos da transferência executável para garantir que ele não se espalhou por outra rota, como um exemplo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

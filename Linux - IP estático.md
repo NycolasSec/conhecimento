@@ -21,7 +21,7 @@ GATEWAY=192.168.1.1
 ```
 
 
-**E para finalizar é necessario configurar o dns:**
+**E para finalizar é necessário configurar o dns:**
 ```txt
 vim /etc/resolv.conf
 ```
