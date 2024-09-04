@@ -13,8 +13,10 @@
 [[Redes - Subneting em IPv4 - Parte 2]]
 [[Redes - Subneting em IPv4 - Parte 3]]
 [[Redes - VLSM]]
-[[Redes - VLSM - Exemplo]]
+[[Redes - VLSM - Exemplo 001]]
+[[Redes - IPV4 Sumarização]]
 
+### Uso de endereços
 
 
 

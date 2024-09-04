@@ -142,7 +142,7 @@ TimeCreated           Id ProviderName             LevelDisplayName Message
 
 O comando acima recupera eventos com IDs 1 e 3 do log de eventos `Microsoft-Windows-Sysmon/Operational`, seleciona propriedades específicas desses eventos e os exibe em um formato de tabela.
 
->[!NOTA] **Nota** : Se observarmos os IDs de eventos Sysmon 1 e 3 (relacionados a binários "perigosos" ou incomuns) ocorrendo em um curto período de tempo, isso pode indicar a presença de um processo se comunicando com um servidor de Comando e Controle (C2).
+>[!NOTE] **Nota** : Se observarmos os IDs de eventos Sysmon 1 e 3 (relacionados a binários "perigosos" ou incomuns) ocorrendo em um curto período de tempo, isso pode indicar a presença de um processo se comunicando com um servidor de Comando e Controle (C2).
 
 Para eventos exportados, o comando equivalente é o seguinte.
 ```powershell

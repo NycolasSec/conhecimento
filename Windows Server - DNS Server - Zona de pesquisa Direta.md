@@ -17,6 +17,7 @@ Add-DnsServerPrimaryZone -Name "srv.corp" -ZoneFile "srv.corp.dns" -DynamicUpdat
 Get-DnsServerZone
 ```
 ![[Pasted image 20240813165624.png]]
+
 ##### Deleta uma zona de pesquisa
 ```powershell
 Remove-DnsServerZone "srv.world" -PassThru

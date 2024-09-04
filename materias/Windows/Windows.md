@@ -26,3 +26,9 @@
 [[Windows Server - DNS Server - Stub Zone]]
 [[Windows Server - DNS Server - Definindo um Forwarder]]
 [[Windows Server - DNS Server - Definindo um Conditional Forwarder]]
+
+---
+
+## DHCP Server
+[[Windows Server - DHCP Server - Servidor DHCP]]
+[[Windows Server - DHCP Server - Cliente DHCP]]

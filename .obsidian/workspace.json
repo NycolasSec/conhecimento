@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b624ba0d662eff5",
+        "id": "c9c4e91346a9b783",
         "type": "tabs",
         "children": [
           {
-            "id": "ad4b527b22dbd9eb",
+            "id": "bef1cb78d4520c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8eeb59ed01ca7cf7",
+            "id": "9894243cd09dc39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação - Introdução aos operadores.md",
+                "file": "C - Deslocamento de bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
+    "width": 222.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação - Introdução aos operadores.md",
+                "file": "C - Deslocamento de bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação - Introdução aos operadores.md",
+                "file": "C - Deslocamento de bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação - Introdução aos operadores.md"
+                "file": "C - Deslocamento de bits.md"
               }
             }
           }
@@ -152,52 +152,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8eeb59ed01ca7cf7",
+  "active": "9894243cd09dc39d",
   "lastOpenFiles": [
     "cursos/NetAcad/NetAcad - C Essentials 1/NetAcad - CE1 - Módulos.md",
-    "Programação - Introdução aos operadores.md",
-    "Programação - Compreendendo números de ponto flutuante.md",
-    "C - Números de ponto flutuante na vida real e na linguagem C.md",
-    "Pasted image 20240830190006.png",
-    "Programação - Números de ponto flutuante.md",
-    "Programação - Números através das lentes de um computador.md",
-    "C - Palavras chaves.md",
-    "Pasted image 20240830181806.png",
-    "C - Valores de variáveis.md",
-    "C - Declarações de variáveis.md",
-    "C - Tipos de variáveis.md",
-    "C - Nomes de variáveis.md",
-    "cursos/RedHat/Cursos feitos.md",
-    "Linux - Montagem automática do armazenamento NAS.md",
-    "Pasted image 20240830175151.png",
-    "Pasted image 20240830174957.png",
-    "Pasted image 20240830174942.png",
-    "Pasted image 20240830174401.png",
-    "Pasted image 20240830174313.png",
-    "Pasted image 20240830173343.png",
-    "Pasted image 20240830173303.png",
-    "Pasted image 20240830172856.png",
-    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
-    "Linux - Gerenciar armazenamento NAS com NFS.md",
-    "Linux - Gerenciamento do espaço de swap.md",
-    "Linux - Adição de partições, sistemas de arquivos e montagens persistentes.md",
-    "Linux - Influência no agendamento de processos.md",
-    "Linux - Ajuste dos perfis de ajuste.md",
-    "cursos/HTB/HTB - Shells e Payloads/HTB - Shells e Payloads.md",
-    "Cyber - PHP WebShell.md",
-    "Cyber - Antak WebShell.md",
-    "Cyber - Laudanum, uma Webshell para governar todos eles.md",
-    "Cyber - Introdução aos Web Shells.md",
-    "Cyber - Gerando Shells Interativos.md",
-    "Cyber - Infiltrando Unix&Linux.md",
+    "C - Deslocamento de bits.md",
+    "C - lidar com bits únicos.md",
+    "Excalidraw/Drawing 2024-09-04 09.36.46.excalidraw.md",
+    "C - Potência de 2.md",
+    "C - continue e break.md",
+    "C - Loop for.md",
+    "C - Do While Program.md",
+    "C - Loop While exemplos.md",
+    "C - A simple program with While.md",
+    "C - Metamorfose ou conversão de dados.md",
+    "C - Outro tipo de float.md",
+    "C - Não somente int.md",
+    "Pasted image 20240904080339.png",
+    "C - Entrada Saída Formatada.md",
+    "C - Input.md",
+    "C - Input and Output.md",
+    "Programação - Characters, os blocos de construção dos dados de texto.md",
+    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
+    "Cyber - Analisando o Mal com Sysmon e Logs de Eventos.md",
+    "Cyber - Lista de logs de eventos úteis do Windows.md",
+    "Cyber - Logs de eventos do Windows.md",
+    "Cyber - Evento Get-Win.md",
+    "Cyber - Aproveitando o ETW.md",
+    "Pasted image 20240903160539.png",
+    "Cyber - Rastreamento de eventos para Windows (ETW).md",
+    "Pasted image 20240903152120.png",
+    "materias/Windows/Windows.md",
+    "Windows Server - DHCP Server - Servidor DHCP.md",
+    "Pasted image 20240903132106.png",
+    "Pasted image 20240903113524.png",
+    "Pasted image 20240903102950.png",
+    "Excalidraw",
+    "Pasted image 20240902185611.png",
+    "Pasted image 20240902155220.png",
+    "Pasted image 20240902155207.png",
+    "Pasted image 20240902155205.png",
+    "cursos/HTB/HTB - Password Attacks",
     "cursos/NetAcad/NetAcad - C Essentials 1",
     "cursos/NetAcad",
     "cursos/RedHat/RedHat - System Administration 2",
@@ -206,8 +209,6 @@
     "cursos/HTB/HTB - Transferência de arquivos",
     "materiais",
     "materias/cyber/cves",
-    "cursos/RedHat/Red Hat - Administração de sistemas Red Hat",
-    "cursos/RedHat",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

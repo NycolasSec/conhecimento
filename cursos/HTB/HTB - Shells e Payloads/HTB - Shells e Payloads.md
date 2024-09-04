@@ -25,3 +25,5 @@
 [[Cyber - Laudanum, uma Webshell para governar todos eles]]
 [[Cyber - Antak WebShell]]
 [[Cyber - PHP WebShell]]
+
+![[Pasted image 20240902104056.png]]

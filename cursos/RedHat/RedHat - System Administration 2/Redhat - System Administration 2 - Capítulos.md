@@ -4,6 +4,9 @@
 [[Linux - BashScript - Loops e condições]]
 [[Linux - BashScript - Corresponder texto de output com expressões regulares]]
 
+## 2 - Agendar tarefas futuras
+[[Linux -Agendamento de um trabalho adiado do usuário]]
+
 ## 3 - Analisar e armazenar logs
 [[Linux - Descrição da arquitetura de log do sistema]]
 [[Linux - Análise dos arquivos do syslog]]
@@ -23,5 +26,7 @@
 [[Linux - Gerenciar armazenamento NAS com NFS]]
 [[Linux - Montagem automática do armazenamento NAS]]
 
-
+## 11 - Gerenciar segurança na rede
+[[Linux - Gerenciar firewalls do servidor]]
+[[Linux - Rotulagem de portas SELinux]]
 

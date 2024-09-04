@@ -9,3 +9,12 @@
 
 ## Analisando logs de eventos do Windows em massa
 [[Cyber - Evento Get-Win]]
+
+
+![[Pasted image 20240903160539.png]]
+
+#### Procurando por DLLs não assinadas - analisando logs de eventos:
+
+```powershell
+Get-WinEvent -FilterHashtable @{Path="./*.evetx";ID=7} | Where-Object {$_.Properties[12].Value -eq "false"} | Select-Object -Property *
+```
