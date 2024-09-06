@@ -16,8 +16,12 @@
 [[Redes - VLSM - Exemplo 001]]
 [[Redes - IPV4 Sumarização]]
 
-### Uso de endereços
+## Uso de endereços
+[[Redes - Endereço público, privado e reservado]]
 
+## IPv6 Configuração e Verificação
+[[Redes - Apresentação IPv6]]
+[[Redes - Comparação de Cabeçalho IPv4 e IPv6]]
 
 
 

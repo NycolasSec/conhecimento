@@ -4,3 +4,4 @@
 
 ## Exame e análise de evidências
 [[Cyber - Memória Forense]]
+[[Cyber - Forense de disco]]

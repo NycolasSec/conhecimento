@@ -6,6 +6,7 @@
 
 ## 2 - Agendar tarefas futuras
 [[Linux -Agendamento de um trabalho adiado do usuário]]
+[[Linux - Agendamento de trabalhos recorrentes do usuário]]
 
 ## 3 - Analisar e armazenar logs
 [[Linux - Descrição da arquitetura de log do sistema]]

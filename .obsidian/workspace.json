@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c4e91346a9b783",
+        "id": "20efac9787f1d67a",
         "type": "tabs",
         "children": [
           {
-            "id": "bef1cb78d4520c23",
+            "id": "f59f3563f84bb6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/NetAcad/NetAcad - C Essentials 1/NetAcad - CE1 - Módulos.md",
+                "file": "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9894243cd09dc39d",
+            "id": "d627a2422410ff51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C - Deslocamento de bits.md",
+                "file": "materias/cyber/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C - Deslocamento de bits.md",
+                "file": "materias/cyber/Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C - Deslocamento de bits.md",
+                "file": "materias/cyber/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C - Deslocamento de bits.md"
+                "file": "materias/cyber/Tips.md"
               }
             }
           }
@@ -161,45 +160,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9894243cd09dc39d",
+  "active": "d627a2422410ff51",
   "lastOpenFiles": [
-    "cursos/NetAcad/NetAcad - C Essentials 1/NetAcad - CE1 - Módulos.md",
-    "C - Deslocamento de bits.md",
-    "C - lidar com bits únicos.md",
-    "Excalidraw/Drawing 2024-09-04 09.36.46.excalidraw.md",
-    "C - Potência de 2.md",
-    "C - continue e break.md",
-    "C - Loop for.md",
-    "C - Do While Program.md",
-    "C - Loop While exemplos.md",
-    "C - A simple program with While.md",
-    "C - Metamorfose ou conversão de dados.md",
-    "C - Outro tipo de float.md",
-    "C - Não somente int.md",
-    "Pasted image 20240904080339.png",
-    "C - Entrada Saída Formatada.md",
-    "C - Input.md",
-    "C - Input and Output.md",
-    "Programação - Characters, os blocos de construção dos dados de texto.md",
+    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
+    "materias/cyber/Tips.md",
+    "Cyber - Atacando LSASS.md",
+    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
+    "Linux - Agendamento de trabalhos recorrentes do usuário.md",
+    "Linux -Agendamento de um trabalho adiado do usuário.md",
+    "cursos/HTB/HTB - Shells e Payloads/HTB - Shells e Payloads.md",
     "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
-    "Cyber - Analisando o Mal com Sysmon e Logs de Eventos.md",
-    "Cyber - Lista de logs de eventos úteis do Windows.md",
-    "Cyber - Logs de eventos do Windows.md",
-    "Cyber - Evento Get-Win.md",
-    "Cyber - Aproveitando o ETW.md",
-    "Pasted image 20240903160539.png",
-    "Cyber - Rastreamento de eventos para Windows (ETW).md",
-    "Pasted image 20240903152120.png",
-    "materias/Windows/Windows.md",
-    "Windows Server - DHCP Server - Servidor DHCP.md",
-    "Pasted image 20240903132106.png",
-    "Pasted image 20240903113524.png",
-    "Pasted image 20240903102950.png",
+    "materias/Rede/Redes.md",
+    "cursos/Microsoft Learning/módulos/Windows Server - Introdução ao AD DS.md",
+    "Redes - Fundamentos de rede.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
+    "cursos/Microsoft Learning/Power Shell - Gerenciar o Active Directory Domain Services.md",
+    "Linux - Gerenciar firewalls do servidor.md",
+    "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+    "Cyber - Forense de disco.md",
+    "Pasted image 20240906133943.png",
+    "Pasted image 20240906133822.png",
+    "Pasted image 20240906133755.png",
+    "Pasted image 20240906133739.png",
+    "Pasted image 20240906133713.png",
+    "Pasted image 20240906133656.png",
+    "Pasted image 20240906133644.png",
+    "Pasted image 20240906133612.png",
+    "Pasted image 20240906133529.png",
+    "Pasted image 20240906133520.png",
+    "Cyber - Memória Forense.md",
+    "Cyber - Atacando o Sam.md",
+    "Cyber - Reutilizações de senha, senhas padrão.md",
+    "Cyber - Mutações de senhas.md",
+    "Cyber - Serviços de rede.md",
+    "Cyber - John The Ripper.md",
+    "Windows Server - Definir Usuários, Grupos e Computadores do AD DS.md",
+    "Windows Server - Definir Florestas e domínios do AD DS.md",
+    "Windows Server - Definir OUs.md",
+    "cursos/Microsoft Learning/módulos",
     "Excalidraw",
-    "Pasted image 20240902185611.png",
-    "Pasted image 20240902155220.png",
-    "Pasted image 20240902155207.png",
-    "Pasted image 20240902155205.png",
     "cursos/HTB/HTB - Password Attacks",
     "cursos/NetAcad/NetAcad - C Essentials 1",
     "cursos/NetAcad",
@@ -208,7 +208,6 @@
     "materias/Linux/CentOS 9 Stream",
     "cursos/HTB/HTB - Transferência de arquivos",
     "materiais",
-    "materias/cyber/cves",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

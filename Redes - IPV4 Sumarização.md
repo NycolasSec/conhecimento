@@ -52,6 +52,70 @@ Somamos todos os bits que são iguais no endereços. Os bits dos primeiros octet
 Com isso teríamos o novo endereço :
 **192.168.0.0/19**
 
+### Exemplo 3
+
+#### Topologia
+![[Pasted image 20240905082248.png]]
+
+#### Octetos iguais
+Verificamos os octetos que são iguais.
+10.0.**110**.0/24
+10.0.**115**.0/24
+10.0.**200**.0/24
+
+#### Bits iguais
+Abrimos os octetos a nível de bit, e verificamos quais são iguais.
+
+| 10.0.**110**.0 | 10.0.**115**.0 | 10.0.**200**.0 |
+| -------------- | -------------- | -------------- |
+| 01101110       | 01110011       | 11001000       |
+Nesse caso eles não tem bits iguais nesse octeto. Mas como sabemos que o octeto anterior é igual em todos, usaremos ele.
+
+#### Novo endereço
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
