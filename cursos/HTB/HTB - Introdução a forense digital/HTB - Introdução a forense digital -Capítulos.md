@@ -5,3 +5,4 @@
 ## Exame e análise de evidências
 [[Cyber - Memória Forense]]
 [[Cyber - Forense de disco]]
+[[Cyber - Ferramentas de análise e exame de triagem rápida]]

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "20efac9787f1d67a",
+        "id": "d37436338d5dd73c",
         "type": "tabs",
         "children": [
           {
-            "id": "f59f3563f84bb6a1",
+            "id": "52142b9a5c7f6005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d627a2422410ff51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materias/cyber/Tips.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 308.5
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materias/cyber/Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materias/cyber/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "materias/cyber/Tips.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,44 +139,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d627a2422410ff51",
+  "active": "52142b9a5c7f6005",
   "lastOpenFiles": [
-    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-    "materias/cyber/Tips.md",
-    "Cyber - Atacando LSASS.md",
-    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
-    "Linux - Agendamento de trabalhos recorrentes do usuário.md",
-    "Linux -Agendamento de um trabalho adiado do usuário.md",
-    "cursos/HTB/HTB - Shells e Payloads/HTB - Shells e Payloads.md",
-    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
-    "materias/Rede/Redes.md",
-    "cursos/Microsoft Learning/módulos/Windows Server - Introdução ao AD DS.md",
-    "Redes - Fundamentos de rede.md",
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
-    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
-    "cursos/Microsoft Learning/Power Shell - Gerenciar o Active Directory Domain Services.md",
-    "Linux - Gerenciar firewalls do servidor.md",
     "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
-    "Cyber - Forense de disco.md",
-    "Pasted image 20240906133943.png",
-    "Pasted image 20240906133822.png",
-    "Pasted image 20240906133755.png",
-    "Pasted image 20240906133739.png",
-    "Pasted image 20240906133713.png",
-    "Pasted image 20240906133656.png",
-    "Pasted image 20240906133644.png",
-    "Pasted image 20240906133612.png",
-    "Pasted image 20240906133529.png",
-    "Pasted image 20240906133520.png",
-    "Cyber - Memória Forense.md",
+    "Cyber - Ferramentas de análise e exame de triagem rápida.md",
+    "Pasted image 20240909194412.png",
+    "Pasted image 20240909194255.png",
+    "Pasted image 20240909194246.png",
+    "Pasted image 20240909194130.png",
+    "Pasted image 20240909194020.png",
+    "Pasted image 20240909193952.png",
+    "Pasted image 20240909193934.png",
+    "Pasted image 20240909193633.png",
+    "Pasted image 20240909193521.png",
+    "Pasted image 20240909192013.png",
+    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
+    "Linux - Investigação e solução de problemas do SELinux.md",
+    "Linux - Ajuste da política SELinux com booleanos.md",
+    "Excalidraw/Sumarizacao.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-03 10.55.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 18.01.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 18.01.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 18.01.31.excalidraw.md",
+    "Linux - Controle de contextos de arquivo do SELinux.md",
+    "Linux - Alteração do modo de implantação do SELinux.md",
+    "Sem título.md",
+    "Linux - Sincronização de arquivos entre sistemas.md",
+    "Linux - Transferência de arquivos entre sistemas com segurança.md",
+    "Linux - Gerenciamento de arquivos tar compactados.md",
+    "Linux - Gerenciamento de arquivos temporários.md",
+    "Excalidraw/Drawing 2024-09-04 09.36.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-05 08.22.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 14.43.56.excalidraw.md",
+    "Linux - Agendamento de trabalhos recorrentes do sistema.md",
+    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
+    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
+    "Cyber - Atacando LSASS.md",
     "Cyber - Atacando o Sam.md",
-    "Cyber - Reutilizações de senha, senhas padrão.md",
-    "Cyber - Mutações de senhas.md",
-    "Cyber - Serviços de rede.md",
-    "Cyber - John The Ripper.md",
-    "Windows Server - Definir Usuários, Grupos e Computadores do AD DS.md",
-    "Windows Server - Definir Florestas e domínios do AD DS.md",
-    "Windows Server - Definir OUs.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",
