@@ -1,9 +1,6 @@
 [[Cyber - Type Confusion]]
-[[Cyber - Exploiting XSS-stealing cookies]]
 
-Esteganografia
-SSRF
-Path hijacking
+[[Cyber - Exploiting XSS-stealing cookies]]
 
 [[Cyber - Reverse Shell]]
 
@@ -46,3 +43,9 @@ https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits?tab=readme-ov-fi
 https://github.com/xkaneiki/CVE-2023-0386
 ./fuse ./ovlcap/lower ./gc &
 ./exp
+
+
+netstat -tnlp
+
+#### Port Fowarding ssh
+sudo ssh -L 8080:127.0.0.1:8080 michael@sightless.htb

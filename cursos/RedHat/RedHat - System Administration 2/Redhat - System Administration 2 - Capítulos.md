@@ -35,6 +35,10 @@
 [[Linux - Adição de partições, sistemas de arquivos e montagens persistentes]]
 [[Linux - Gerenciamento do espaço de swap]]
 
+## 8- Gerenciar a pilha de armazenamento
+[[Linux - Criação e extensão de volumes lógicos]]
+[[Linux - Gerenciamento de armazenamento em camadas]]
+
 ## 9 - Acessar o armazenamento NAS
 [[Linux - Gerenciar armazenamento NAS com NFS]]
 [[Linux - Montagem automática do armazenamento NAS]]
@@ -43,4 +47,7 @@
 [[Linux - Gerenciar firewalls do servidor]]
 [[Linux - Rotulagem de portas SELinux]]
 
-## 13 - Introdução aos contêineres
+## 13 - Executar contêineres
+[[Linux - Introdução aos contêineres]]
+[[Linux -Criação de contêineres com o Podman]]
+[[Linux - Gerenciamento do ciclo de vida de contêineres]]

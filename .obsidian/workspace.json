@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d37436338d5dd73c",
+        "id": "252bf0c9702c0f24",
         "type": "tabs",
         "children": [
           {
-            "id": "52142b9a5c7f6005",
+            "id": "f944cc102dca6035",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "587fdecbe492cd4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber - Busca de credenciais no Windows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 448.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyber - Busca de credenciais no Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cyber - Busca de credenciais no Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyber - Busca de credenciais no Windows.md"
+              }
             }
           }
         ]
@@ -139,43 +161,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52142b9a5c7f6005",
+  "active": "587fdecbe492cd4d",
   "lastOpenFiles": [
-    "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
-    "Cyber - Ferramentas de análise e exame de triagem rápida.md",
-    "Pasted image 20240909194412.png",
-    "Pasted image 20240909194255.png",
-    "Pasted image 20240909194246.png",
-    "Pasted image 20240909194130.png",
-    "Pasted image 20240909194020.png",
-    "Pasted image 20240909193952.png",
-    "Pasted image 20240909193934.png",
-    "Pasted image 20240909193633.png",
-    "Pasted image 20240909193521.png",
-    "Pasted image 20240909192013.png",
-    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
-    "Linux - Investigação e solução de problemas do SELinux.md",
-    "Linux - Ajuste da política SELinux com booleanos.md",
-    "Excalidraw/Sumarizacao.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-03 10.55.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 18.01.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 18.01.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 18.01.31.excalidraw.md",
-    "Linux - Controle de contextos de arquivo do SELinux.md",
-    "Linux - Alteração do modo de implantação do SELinux.md",
-    "Sem título.md",
-    "Linux - Sincronização de arquivos entre sistemas.md",
-    "Linux - Transferência de arquivos entre sistemas com segurança.md",
-    "Linux - Gerenciamento de arquivos tar compactados.md",
-    "Linux - Gerenciamento de arquivos temporários.md",
-    "Excalidraw/Drawing 2024-09-04 09.36.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-05 08.22.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 14.43.56.excalidraw.md",
-    "Linux - Agendamento de trabalhos recorrentes do sistema.md",
+    "Pasted image 20240913194325.png",
+    "Pasted image 20240913193732.png",
     "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-    "cursos/HTB/HTB - Fundamentos de monitoramento de segurança e SIEM/HTB - Definição e fundamentos de segurança e SIEM - capitulos.md",
-    "Cyber - Atacando LSASS.md",
-    "Cyber - Atacando o Sam.md",
+    "Cyber - Busca de credenciais no Windows.md",
+    "Cyber - Atacando o Active Directory e NTDS.dit.md",
+    "Pasted image 20240913171101.png",
+    "Pasted image 20240913171023.png",
+    "Pasted image 20240913170643.png",
+    "Pasted image 20240913170548.png",
+    "Pasted image 20240913161752.png",
+    "Pasted image 20240913161445.png",
+    "Pasted image 20240913161350.png",
+    "Pasted image 20240913160534.png",
+    "Pasted image 20240913160155.png",
+    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
+    "Linux - Gerenciamento do ciclo de vida de contêineres.md",
+    "Linux -Criação de contêineres com o Podman.md",
+    "Linux - Introdução aos contêineres.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Cyber - Reverse Shell.md",
+    "Cyber - Reverse Shell na mão.md",
+    "Linux - Gerenciamento de armazenamento em camadas.md",
+    "Linux - Criação e extensão de volumes lógicos.md",
+    "Cyber - Armazenamento de credenciais.md",
+    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
+    "Cyber - SQL Injection.md",
+    "materias/cyber/Tips.md",
+    "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+    "Cyber - Creepy Crawlies.md",
+    "Cyber - Well-Known URIs.md",
+    "Cyber - robots.txt.md",
+    "Cyber - Crawling.md",
+    "Redes - Fundamentos de rede.md",
+    "materias/Rede/Redes.md",
+    "Redes - IPv6 Interface ID.md",
+    "Redes - Apresentação IPv6.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",

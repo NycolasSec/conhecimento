@@ -10,7 +10,8 @@
 ## Ataques de senha local no windows
 [[Cyber - Atacando o Sam]]
 [[Cyber - Atacando LSASS]]
-
+[[Cyber - Atacando o Active Directory e NTDS.dit]]
+[[Cyber - Busca de credenciais no Windows]]
 
 
 

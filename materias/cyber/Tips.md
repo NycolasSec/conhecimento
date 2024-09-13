@@ -15,3 +15,4 @@ O sort vai tirar os repetidos
 ```bash
 sed -n '/^[[:alnum:][:punct:]]\{11,\}$/p' mut_password.list > mut_pass.list
 ```
+Vai retiraras linhas que tiverem menos de 11 caracteres.

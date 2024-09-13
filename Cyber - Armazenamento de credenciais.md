@@ -15,10 +15,10 @@ htb-student:$y$j9T$3QSBB6CbHEu...SNIP...f8Ms:18955:0:99999:7:::
 
 O `/etc/shadow`arquivo tem um formato exclusivo no qual as entradas são inseridas e salvas quando novos usuários são criados.
 
-|   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|
-|htb-student:|$y$j9T$3QSBB6CbHEu...SNIP...f8Ms:|18955:|0:|99999:|7:|:|:|:|
-|`<username>`:|`<encrypted password>`:|`<day of last change>`:|`<min age>`:|`<max age>`:|`<warning period>`:|`<inactivity period>`:|`<expiration date>`:|`<reserved field>`|
+|               |                                    |                         |              |              |                     |                        |                      |                    |
+| ------------- | ---------------------------------- | ----------------------- | ------------ | ------------ | ------------------- | ---------------------- | -------------------- | ------------------ |
+| htb-student:  | \$y$j9T$3QSBB6CbHEu...SNIP...f8Ms: | 18955:                  | 0:           | 99999:       | 7:                  | :                      | :                    | :                  |
+| `<username>`: | `<encrypted password>`:            | `<day of last change>`: | `<min age>`: | `<max age>`: | `<warning period>`: | `<inactivity period>`: | `<expiration date>`: | `<reserved field>` |
 
 A criptografia da senha neste arquivo é formatada da seguinte forma:
 

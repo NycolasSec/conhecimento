@@ -22,6 +22,7 @@
 ## IPv6 Configuração e Verificação
 [[Redes - Apresentação IPv6]]
 [[Redes - Comparação de Cabeçalho IPv4 e IPv6]]
+[[Redes - IPv6 Interface ID]]
 
 
 
