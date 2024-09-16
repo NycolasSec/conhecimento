@@ -21,3 +21,13 @@ Quando nos conectamos, o shell não é muito explícito, com esse comando ele fi
 - https://r.0x7359.com/10.0.20.5:1337
 - https://www.youtube.com/watch?v=ljyXvn23BkM
 
+
+
+```bash
+
+root@Kali:~# python3 depix.py \
+    -p /home/CTF/GreenHorn/greenhorn-000.ppm \
+    -s images/searchimages/debruinseq_notepad_Windows10_closeAndSpaced.png \
+    -o /home/CTF/GreenHorn/output0.png
+
+```

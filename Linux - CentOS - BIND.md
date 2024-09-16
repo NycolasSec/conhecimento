@@ -4,3 +4,6 @@
 [[Linux - CentOS - BIND - Arquivo local]]
 
 [[Linux - CentOS - BIND - Arquivo de zona de encaminhamento]]
+
+
+[[Linux - Configurando DNS com BIND9]]

@@ -66,5 +66,3 @@ Aqui estão alguns outros lugares que devemos ter em mente ao procurar credencia
 - Arquivos como pass.txt, passwords.docx, passwords.xlsx encontrados em sistemas de usuários, compartilhamentos, [Sharepoint](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
 
 Você obteve acesso à estação de trabalho Windows 10 de um administrador de TI e iniciou seu processo de busca de credenciais pesquisando-as em locais de armazenamento comuns.
-
-`Connect to the target and use what you've learned to discover the answers to the challenge questions`.

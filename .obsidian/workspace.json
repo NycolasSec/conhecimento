@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "252bf0c9702c0f24",
+        "id": "0e4c02596d041ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "f944cc102dca6035",
+            "id": "e6967362678ecd74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587fdecbe492cd4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber - Busca de credenciais no Windows.md",
+                "file": "Linux - Configurando DNS com BIND9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - Busca de credenciais no Windows.md",
+                "file": "Linux - Configurando DNS com BIND9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - Busca de credenciais no Windows.md",
+                "file": "Linux - Configurando DNS com BIND9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber - Busca de credenciais no Windows.md"
+                "file": "Linux - Configurando DNS com BIND9.md"
               }
             }
           }
@@ -161,12 +148,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "587fdecbe492cd4d",
+  "active": "e6967362678ecd74",
   "lastOpenFiles": [
+    "Linux - CentOS - BIND.md",
+    "Linux - CentOS - BIND - Arquivo de zona de encaminhamento.md",
+    "Linux - Configurando DNS com BIND9.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "Linux - CentOS - BIND - Arquivo local.md",
+    "Linux - CentOS - BIND - Servidor DNS Primário.md",
+    "Linux - CentOS - BIND - Inicial.md",
+    "materias/Linux/Assuntos/Assuntos.md",
+    "materias/cyber/Cyber - Assuntos.md",
+    "Cyber - Reverse Shell.md",
+    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "Cyber - Busca de credenciais no Windows.md",
     "Pasted image 20240913194325.png",
     "Pasted image 20240913193732.png",
-    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-    "Cyber - Busca de credenciais no Windows.md",
     "Cyber - Atacando o Active Directory e NTDS.dit.md",
     "Pasted image 20240913171101.png",
     "Pasted image 20240913171023.png",
@@ -176,13 +174,10 @@
     "Pasted image 20240913161445.png",
     "Pasted image 20240913161350.png",
     "Pasted image 20240913160534.png",
-    "Pasted image 20240913160155.png",
     "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
     "Linux - Gerenciamento do ciclo de vida de contêineres.md",
     "Linux -Criação de contêineres com o Podman.md",
     "Linux - Introdução aos contêineres.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Cyber - Reverse Shell.md",
     "Cyber - Reverse Shell na mão.md",
     "Linux - Gerenciamento de armazenamento em camadas.md",
     "Linux - Criação e extensão de volumes lógicos.md",
@@ -191,14 +186,6 @@
     "Cyber - SQL Injection.md",
     "materias/cyber/Tips.md",
     "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
-    "Cyber - Creepy Crawlies.md",
-    "Cyber - Well-Known URIs.md",
-    "Cyber - robots.txt.md",
-    "Cyber - Crawling.md",
-    "Redes - Fundamentos de rede.md",
-    "materias/Rede/Redes.md",
-    "Redes - IPv6 Interface ID.md",
-    "Redes - Apresentação IPv6.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",

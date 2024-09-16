@@ -13,7 +13,7 @@ Agora vamos editar nosso arquivo de zona de avanço:
 sudo vi /etc/named/zones/db.nyc3.example.com
 ```
 
-Primeiro, você vai querer adicionar o registro SOA. Substitua o FQDN ns1 destacado pelo seu próprio FQDN, então substitua o segundo “ [nyc3.example.com](http://nyc3.example.com/) ” pelo seu próprio domínio. Toda vez que você editar um arquivo de zona, você deve incrementar o valor _serial_ antes de reiniciar o `named`processo – nós o incrementaremos para “3”. Ele deve ficar parecido com isto:
+Primeiro, você vai querer adicionar o registro SOA. Substitua o FQDN ns1 destacado pelo seu próprio FQDN, então substitua o segundo “ [nyc3.example.com](http://nyc3.example.com/) ” pelo seu próprio domínio. Toda vez que você editar um arquivo de zona, você deve incrementar o valor _serial_ antes de reiniciar o `named` processo – nós o incrementaremos para “3”. Ele deve ficar parecido com isto:
 
 ```conf
 @       IN      SOA     ns1.nyc3.example.com. admin.nyc3.example.com. (
