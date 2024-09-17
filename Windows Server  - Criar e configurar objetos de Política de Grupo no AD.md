@@ -1,0 +1,6 @@
+[[Windows Server - Definir objetos de política de grupo]]
+[[Windows Server - Implementar o escopo e a herança de Objetos de Política de Grupo]]
+[[Windows Server - Definir objetos de política de grupo baseados em domínio]]
+[[Windows Server - Criar e configurar um Objeto da Política de Grupo baseado em domínio]]
+[[Windows Server - Configurar uma política de senha do domínio]]
+[[Windows Server - Configurar e aplicar uma política de senha refinada]]

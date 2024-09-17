@@ -18,3 +18,5 @@ New-ADUser -name 'Atylas Ramos' -SamAccountName atylasRamos -UserPrincipalName a
 ```
 
 [Nesse Link](https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-aduser?view=windowsserver2022-ps) Tem todas as opções do comando.
+
+LastName,Address

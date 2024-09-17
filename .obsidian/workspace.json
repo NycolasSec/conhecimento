@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4c02596d041ba8",
+        "id": "79979a196d35a360",
         "type": "tabs",
         "children": [
           {
-            "id": "e6967362678ecd74",
+            "id": "c759ffb1483f0bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - Configurando DNS com BIND9.md",
+                "file": "Windows Server - Delegar permissões no Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
+    "width": 292.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - Configurando DNS com BIND9.md",
+                "file": "Windows Server - Delegar permissões no Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - Configurando DNS com BIND9.md",
+                "file": "Windows Server - Delegar permissões no Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - Configurando DNS com BIND9.md"
+                "file": "Windows Server - Delegar permissões no Active Directory.md"
               }
             }
           }
@@ -148,44 +148,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6967362678ecd74",
+  "active": "c759ffb1483f0bf5",
   "lastOpenFiles": [
-    "Linux - CentOS - BIND.md",
-    "Linux - CentOS - BIND - Arquivo de zona de encaminhamento.md",
-    "Linux - Configurando DNS com BIND9.md",
-    "materias/Linux/Assuntos/Serviços.md",
-    "Linux - CentOS - BIND - Arquivo local.md",
-    "Linux - CentOS - BIND - Servidor DNS Primário.md",
-    "Linux - CentOS - BIND - Inicial.md",
-    "materias/Linux/Assuntos/Assuntos.md",
-    "materias/cyber/Cyber - Assuntos.md",
-    "Cyber - Reverse Shell.md",
-    "cursos/HTB/HTB - Password Attacks/HTB - Password Attacks - Capítulos.md",
-    "materias/cyber/Cyber - Técnicas.md",
-    "Cyber - Busca de credenciais no Windows.md",
-    "Pasted image 20240913194325.png",
-    "Pasted image 20240913193732.png",
-    "Cyber - Atacando o Active Directory e NTDS.dit.md",
-    "Pasted image 20240913171101.png",
-    "Pasted image 20240913171023.png",
-    "Pasted image 20240913170643.png",
-    "Pasted image 20240913170548.png",
-    "Pasted image 20240913161752.png",
-    "Pasted image 20240913161445.png",
-    "Pasted image 20240913161350.png",
-    "Pasted image 20240913160534.png",
-    "cursos/RedHat/RedHat - System Administration 2/Redhat - System Administration 2 - Capítulos.md",
-    "Linux - Gerenciamento do ciclo de vida de contêineres.md",
-    "Linux -Criação de contêineres com o Podman.md",
-    "Linux - Introdução aos contêineres.md",
-    "Cyber - Reverse Shell na mão.md",
-    "Linux - Gerenciamento de armazenamento em camadas.md",
-    "Linux - Criação e extensão de volumes lógicos.md",
-    "Cyber - Armazenamento de credenciais.md",
-    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
-    "Cyber - SQL Injection.md",
-    "materias/cyber/Tips.md",
-    "cursos/HTB/HTB - Coleta de informações - Edição Web/HTB - Coleta de informações - Edição Web - Capítulos.md",
+    "Windows Server - Gerenciar a segurança no Active Directory.md",
+    "Windows Server - Proteger contas de usuário com o grupo Usuários Protegidos.md",
+    "Windows Server - Descrever o Windows Defender Credential Guard.md",
+    "Windows Server - Bloquear a autenticação do Windows NTLM.md",
+    "Windows Server - Localizar contas problemáticas.md",
+    "Windows Server - Delegar permissões no Active Directory.md",
+    "Windows Server - Configurar direitos de conta de usuário para restringir o acesso.md",
+    "Windows Server - Configurar direitos de conta de usuário.md",
+    "cursos/Microsoft Learning/módulos/Modulos.md",
+    "Windows Server  - Criar e configurar objetos de Política de Grupo no AD.md",
+    "Windows Server - Criar e configurar um Objeto da Política de Grupo baseado em domínio.md",
+    "Windows Server - Configurar uma política de senha do domínio.md",
+    "Windows Server - Configurar e aplicar uma política de senha refinada.md",
+    "Windows Server - Definir objetos de política de grupo.md",
+    "Windows Server - Implementar o escopo e a herança de Objetos de Política de Grupo.md",
+    "Windows Server - Definir objetos de política de grupo baseados em domínio.md",
+    "Windows Server - Criar e e gerenciar objetos do AD.md",
+    "Pasted image 20240917174051.png",
+    "Pasted image 20240917173727.png",
+    "Pasted image 20240917173543.png",
+    "Pasted image 20240917172759.png",
+    "Pasted image 20240917171825.png",
+    "Pasted image 20240917171319.png",
+    "Pasted image 20240917171238.png",
+    "Windows Server  - Manter controladores de domínio do AD DS.md",
+    "Windows Server - Executar tarefas de gerenciamento em massa para contas de usuário.md",
+    "Windows Server - Configurar objetos no Active Directory.md",
+    "Windows Server - Criar objetos no AD.md",
+    "Windows Server - Gerenciar objetos e suas propriedades no AD.md",
+    "Pasted image 20240917163905.png",
+    "Pasted image 20240917163820.png",
+    "Pasted image 20240917163458.png",
+    "Windows Server - Definir Unidades Organizacionais.md",
+    "Windows Server - Unidades Organizacionais.md",
+    "Windows Server - Definir usuários, grupos e computadores do AD.md",
+    "Windows Server - Implantar e gerenciar controladores de domínio do AD.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",
