@@ -59,9 +59,7 @@ A análise prescritiva foca em identificar ações para prevenir problemas futur
 6. `An understanding of captured network traffic`
     - Depois de filtrar o ruído, é hora de cavar nossos alvos — filtrar coisas como `ftp-data`encontrar quaisquer arquivos transferidos e reconstruí-los. Para HTTP, podemos filtrar `http.request.method == "GET"`para ver quaisquer solicitações GET que correspondam aos nomes de arquivo que estamos procurando. Isso pode nos mostrar quem adquiriu os arquivos e outras transferências potenciais internas para a rede nos mesmos protocolos.
 7. `Note-taking and mind mapping of the found results.`
-    
     - Anotar tudo o que fazemos, vemos ou encontramos ao longo da investigação é crucial. Garanta que estamos tomando notas amplas, incluindo:
-    
     - Períodos em que capturamos o tráfego.
     - Hosts suspeitos na rede.
     - Conversas contendo os arquivos em questão. (para incluir carimbos de data/hora e números de pacotes)
@@ -74,6 +72,25 @@ Esse processo costuma ser cíclico e executado várias vezes com base na anális
 Suponha que uma resposta a incidentes em larga escala seja considerada necessária. Nesse caso, podemos ter que reanalisar o PCAP capturado anteriormente para verificar quaisquer conversas que envolvam os hosts afetados dentro de vários minutos da transferência executável para garantir que ele não se espalhou por outra rota, como um exemplo.
 
 
+#### Principais componentes de uma análise eficaz
+
+1. **Conheça o seu ambiente**: Manter inventários de ativos e mapas de rede é fundamental para identificar se um host pertence à rede ou é uma ameaça potencial.
+   
+2. **Posicionamento adequado**: Colocar as ferramentas de captura de tráfego perto da fonte do problema, seja na entrada da rede ou no mesmo segmento que o host suspeito, é crucial para uma análise precisa.
+
+3. **Persistência**: Problemas podem ser intermitentes e difíceis de detectar. A persistência é necessária para capturar atividades maliciosas que ocorrem esporadicamente, como conexões de Comando e Controle.
+
+## Abordagem de análise
+
+Na abordagem de análise, comece verificando protocolos padrão como HTTP/S, FTP e tráfego TCP/UDP, eliminando o que não for relevante para a investigação. Em seguida, analise protocolos de comunicação entre redes, como SSH, RDP ou Telnet, e compare com as políticas de segurança da organização.
+
+Procure por **padrões** de comportamento, como hosts realizando check-ins diários em horários específicos, e fique atento a comunicações entre hosts na rede interna, que são incomuns em uma configuração padrão.
+
+Identifique eventos **únicos** ou anômalos, como mudanças nos padrões de acesso ou tráfego incomum, que podem indicar comportamento malicioso.
+
+Por fim, **não hesite em pedir ajuda** e utilizar ferramentas adicionais como Snort, Security Onion, Firewalls e SIEMs para enriquecer sua análise e melhorar a detecção de ameaças.
+
+Esse processo requer aprendizado contínuo e o uso de diversas ferramentas para melhor proteção do ambiente.
 
 
 

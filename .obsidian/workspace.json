@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79979a196d35a360",
+        "id": "9511d101300e4e70",
         "type": "tabs",
         "children": [
           {
-            "id": "c759ffb1483f0bf5",
+            "id": "2a1b7346b33d14bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Server - Delegar permissões no Active Directory.md",
+                "file": "Linux - CentOS - Apache - Inicial.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
+    "width": 285.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Server - Delegar permissões no Active Directory.md",
+                "file": "Linux - CentOS - Apache - Inicial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Server - Delegar permissões no Active Directory.md",
+                "file": "Linux - CentOS - Apache - Inicial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Server - Delegar permissões no Active Directory.md"
+                "file": "Linux - CentOS - Apache - Inicial.md"
               }
             }
           }
@@ -148,44 +148,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c759ffb1483f0bf5",
+  "active": "2a1b7346b33d14bf",
   "lastOpenFiles": [
+    "Linux - CentOS - Apache.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "Cyber - Reverse Shell.md",
+    "materias/cyber/Cyber - Técnicas.md",
+    "materias/Windows/Atividades/Windows Server - Atividades.md",
+    "Windows Server - Conta Local - Administrar serviços de domínio Active Directory.md",
+    "materias/Windows/Atividades/Windows - Atividades.md",
+    "Redes - Fundamentos de rede.md",
+    "Redes - IPv6 Interface ID.md",
+    "materias/Rede/Redes.md",
+    "materias/Rede/Redes - Configurações.md",
+    "materias/Rede/Redes - Atividades.md",
+    "Linux - CentOS - BIND.md",
+    "Linux - CentOS - Apache - Virtual hostings.md",
+    "Excalidraw/Drawing 2024-09-18 16.36.43.excalidraw.md",
+    "Linux - CentOS - Apache - Inicial.md",
+    "Cyber - Fundamentos do Tcpdump.md",
+    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
+    "Pasted image 20240918111831.png",
+    "Pasted image 20240918111754.png",
+    "Pasted image 20240918102339.png",
+    "Pasted image 20240918102013.png",
+    "Pasted image 20240918101912.png",
+    "Pasted image 20240918101833.png",
+    "Pasted image 20240918101510.png",
+    "Pasted image 20240918100800.png",
+    "Pasted image 20240918100716.png",
+    "Pasted image 20240918094422.png",
+    "Cyber - Análise de tráfego de rede na prática.md",
+    "Cyber - Processo de análise de tráfego de rede.md",
+    "Windows Server - Delegar permissões no Active Directory.md",
     "Windows Server - Gerenciar a segurança no Active Directory.md",
     "Windows Server - Proteger contas de usuário com o grupo Usuários Protegidos.md",
     "Windows Server - Descrever o Windows Defender Credential Guard.md",
     "Windows Server - Bloquear a autenticação do Windows NTLM.md",
     "Windows Server - Localizar contas problemáticas.md",
-    "Windows Server - Delegar permissões no Active Directory.md",
-    "Windows Server - Configurar direitos de conta de usuário para restringir o acesso.md",
-    "Windows Server - Configurar direitos de conta de usuário.md",
-    "cursos/Microsoft Learning/módulos/Modulos.md",
-    "Windows Server  - Criar e configurar objetos de Política de Grupo no AD.md",
-    "Windows Server - Criar e configurar um Objeto da Política de Grupo baseado em domínio.md",
-    "Windows Server - Configurar uma política de senha do domínio.md",
-    "Windows Server - Configurar e aplicar uma política de senha refinada.md",
-    "Windows Server - Definir objetos de política de grupo.md",
-    "Windows Server - Implementar o escopo e a herança de Objetos de Política de Grupo.md",
-    "Windows Server - Definir objetos de política de grupo baseados em domínio.md",
-    "Windows Server - Criar e e gerenciar objetos do AD.md",
-    "Pasted image 20240917174051.png",
-    "Pasted image 20240917173727.png",
-    "Pasted image 20240917173543.png",
-    "Pasted image 20240917172759.png",
-    "Pasted image 20240917171825.png",
-    "Pasted image 20240917171319.png",
-    "Pasted image 20240917171238.png",
-    "Windows Server  - Manter controladores de domínio do AD DS.md",
-    "Windows Server - Executar tarefas de gerenciamento em massa para contas de usuário.md",
-    "Windows Server - Configurar objetos no Active Directory.md",
-    "Windows Server - Criar objetos no AD.md",
-    "Windows Server - Gerenciar objetos e suas propriedades no AD.md",
-    "Pasted image 20240917163905.png",
-    "Pasted image 20240917163820.png",
-    "Pasted image 20240917163458.png",
-    "Windows Server - Definir Unidades Organizacionais.md",
-    "Windows Server - Unidades Organizacionais.md",
-    "Windows Server - Definir usuários, grupos e computadores do AD.md",
-    "Windows Server - Implantar e gerenciar controladores de domínio do AD.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",

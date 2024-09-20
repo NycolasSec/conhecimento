@@ -1,6 +1,6 @@
 
 ## Servidor Web
-[[Linux - Apache]]
+[[Linux - CentOS - Apache]]
 
 ## Servidor de arquivos
 [[Linux - RHEL - SAMBA]]

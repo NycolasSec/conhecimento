@@ -1,12 +1,9 @@
+[[Linux - CentOS - Apache - Inicial]]
+[[Linux - CentOS - Apache - Virtual hostings]]
+
+
 ## Instalação
 
-### Debian
-```sh
-apt install apache2
-systemctl start apache2
-```
-
-### RHEL
 ```sh
 dnf install httpd
 systemctl start httpd
