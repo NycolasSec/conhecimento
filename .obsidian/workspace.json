@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9511d101300e4e70",
+        "id": "877918a2e06c4836",
         "type": "tabs",
         "children": [
           {
-            "id": "2a1b7346b33d14bf",
+            "id": "2e2a952ada4bd3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux - CentOS - Apache - Inicial.md",
+                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1663e88c88cead1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C - Declarando e inicializando estruturas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - CentOS - Apache - Inicial.md",
+                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - CentOS - Apache - Inicial.md",
+                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux - CentOS - Apache - Inicial.md"
+                "file": "C -  Explorando interação de Estruturas e ponteiros.md"
               }
             }
           }
@@ -148,44 +160,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a1b7346b33d14bf",
+  "active": "2e2a952ada4bd3a6",
   "lastOpenFiles": [
-    "Linux - CentOS - Apache.md",
-    "materias/Linux/Assuntos/Serviços.md",
-    "Cyber - Reverse Shell.md",
+    "cursos/NetAcad/NetAcad - C Essentials 2/NetAcad - CE2 - Módulos.md",
+    "C - Declarando e inicializando estruturas.md",
+    "C -  Explorando interação de Estruturas e ponteiros.md",
+    "C - Estruturas e por que precisamos delas.md",
+    "cursos/NetAcad/NetAcad - C Essentials 1/NetAcad - CE1 - Módulos.md",
+    "cursos/NetAcad/NetAcad - C Essentials 1/Sem título.md",
+    "cursos/NetAcad/NetAcad - C Essentials 2",
+    "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
+    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+    "cursos/Microsoft Learning/módulos/Modulos.md",
+    "materias/Linux/Linux - CentOS 9 - Configurações.md",
+    "Redes - CA.md",
+    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
+    "Pasted image 20240923155210.png",
+    "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
+    "Cyber - Visão Geral do Windows Forensics.md",
     "materias/cyber/Cyber - Técnicas.md",
-    "materias/Windows/Atividades/Windows Server - Atividades.md",
-    "Windows Server - Conta Local - Administrar serviços de domínio Active Directory.md",
-    "materias/Windows/Atividades/Windows - Atividades.md",
-    "Redes - Fundamentos de rede.md",
-    "Redes - IPv6 Interface ID.md",
-    "materias/Rede/Redes.md",
-    "materias/Rede/Redes - Configurações.md",
-    "materias/Rede/Redes - Atividades.md",
-    "Linux - CentOS - BIND.md",
-    "Linux - CentOS - Apache - Virtual hostings.md",
-    "Excalidraw/Drawing 2024-09-18 16.36.43.excalidraw.md",
-    "Linux - CentOS - Apache - Inicial.md",
-    "Cyber - Fundamentos do Tcpdump.md",
+    "materias/cyber/Tips.md",
+    "Cyber - Exibição de dumps de time.md",
+    "Pasted image 20240923141756.png",
+    "Pasted image 20240923141454.png",
+    "Pasted image 20240923140952.png",
+    "Cyber - Exibição de logs do Linux no Linux.md",
+    "Pasted image 20240923140932.png",
+    "Pasted image 20240923140916.png",
+    "Pasted image 20240923140723.png",
+    "Pasted image 20240923140719.png",
+    "Pasted image 20240923140628.png",
+    "Pasted image 20240923140606.png",
+    "Cyber-Exibição.md",
+    "Cyber.md",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
-    "Pasted image 20240918111831.png",
-    "Pasted image 20240918111754.png",
-    "Pasted image 20240918102339.png",
-    "Pasted image 20240918102013.png",
-    "Pasted image 20240918101912.png",
-    "Pasted image 20240918101833.png",
-    "Pasted image 20240918101510.png",
-    "Pasted image 20240918100800.png",
-    "Pasted image 20240918100716.png",
-    "Pasted image 20240918094422.png",
-    "Cyber - Análise de tráfego de rede na prática.md",
-    "Cyber - Processo de análise de tráfego de rede.md",
-    "Windows Server - Delegar permissões no Active Directory.md",
-    "Windows Server - Gerenciar a segurança no Active Directory.md",
-    "Windows Server - Proteger contas de usuário com o grupo Usuários Protegidos.md",
-    "Windows Server - Descrever o Windows Defender Credential Guard.md",
-    "Windows Server - Bloquear a autenticação do Windows NTLM.md",
-    "Windows Server - Localizar contas problemáticas.md",
+    "[[Cyber.md",
+    "Cyber - Filter a TCP handshake.md",
+    "Linux - CentOS - Apache - Inicial.md",
+    "Cyber - Filtrar pacotes tcp.md",
+    "Cyber - Filtragem de pacotes com Tcpdump.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",
@@ -195,7 +208,6 @@
     "cursos/HTB/HTB - Shells e Payloads",
     "materias/Linux/CentOS 9 Stream",
     "cursos/HTB/HTB - Transferência de arquivos",
-    "materiais",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

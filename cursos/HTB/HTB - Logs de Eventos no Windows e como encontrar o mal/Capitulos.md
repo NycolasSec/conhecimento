@@ -15,6 +15,13 @@
 
 ![[Pasted image 20240903160539.png]]
 
+#### Contando linhas de um comando
+```powershell
+PS C:\Users\nycol\OneDrive\Documentos\share> Get-WinEvent -FilterHashtable @{Path=".\Microsoft-Windows-Sysmon-Operational.evtx";ID=11} | Measure-Object -Line
+```
+![[Pasted image 20240923155210.png]]
+
+
 #### Procurando por DLLs não assinadas - analisando logs de eventos:
 
 ```powershell
@@ -29,7 +36,7 @@ Get-WinEvent -FilterHashtable @{Path=".\PowershellExec.evtx";ID=7} | Where-Objec
 
 #### 
 ```powershell
-PS C:\Logs\PowershellExec> Get-WinEvent -FilterHashtable @{Path=".\PowershellExec.evtx";ID=7} | Where-Object {$_.Properties[3].Value -eq "3776"} | Select-Object -Index 0 | Format-Table -AutoSize -Wrap
+Get-WinEvent -FilterHashtable @{Path=".\PowershellExec.evtx";ID=7} | Where-Object {$_.Properties[3].Value -eq "3776"} | Select-Object -Index 0 | Format-Table -AutoSize -Wrap
 ```
 ![[Pasted image 20240905142501.png]]
 

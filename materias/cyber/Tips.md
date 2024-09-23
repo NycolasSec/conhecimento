@@ -16,3 +16,8 @@ O sort vai tirar os repetidos
 sed -n '/^[[:alnum:][:punct:]]\{11,\}$/p' mut_password.list > mut_pass.list
 ```
 Vai retiraras linhas que tiverem menos de 11 caracteres.
+
+[[Cyber - Filtrar pacotes tcp]]
+
+[[Cyber - Exibição de logs do Linux no Linux]]
+[[Cyber - Exibição de dumps de time]]

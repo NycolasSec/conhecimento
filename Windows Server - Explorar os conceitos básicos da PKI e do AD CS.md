@@ -1,0 +1,52 @@
+ Para obter certificados para sua infraestrutura de AD DS, você pode solicitá-los de uma AC pública ou emiti-los usando sua própria infraestrutura. O AD CS é uma tecnologia de identidade do Windows Server que permite que você implemente o PKI na sua **organização**.
+
+## O que é a PKI?
+A PKI é a combinação de software, tecnologias de criptografia, processos e serviços, a qual permite que uma organização proteja dados, comunicações e transações de negócios.
+
+A PKI conta com a troca de certificados digitais entre usuários autenticados e recursos confiáveis. Você usa certificados para proteger os dados e gerenciar as credenciais de identificação de usuários e computadores dentro e fora da sua organização.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
