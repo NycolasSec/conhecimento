@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "877918a2e06c4836",
+        "id": "0577855be15625a1",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2a952ada4bd3a6",
+            "id": "540841601cec3369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
+                "file": "cursos/NetAcad/NetAcad - C Essentials 2/NetAcad - CE2 - Módulos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1663e88c88cead1f",
+            "id": "ca915c8ea542da25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C - Declarando e inicializando estruturas.md",
+                "file": "C - Introdução aos arquivos e fluxos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
+                "file": "C - Introdução aos arquivos e fluxos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C -  Explorando interação de Estruturas e ponteiros.md",
+                "file": "C - Introdução aos arquivos e fluxos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C -  Explorando interação de Estruturas e ponteiros.md"
+                "file": "C - Introdução aos arquivos e fluxos.md"
               }
             }
           }
@@ -160,11 +161,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e2a952ada4bd3a6",
+  "active": "ca915c8ea542da25",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-26 14.58.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-26 14.58.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-26 14.57.08.excalidraw.md",
+    "C - Introdução aos arquivos e fluxos.md",
     "cursos/NetAcad/NetAcad - C Essentials 2/NetAcad - CE2 - Módulos.md",
-    "C - Declarando e inicializando estruturas.md",
+    "C - Passando arrays para funções.md",
+    "C - Passando Estruturas e Strings como Parâmetros de Função.md",
+    "C - Parâmetros escalares em definições de funções.md",
+    "Pasted image 20240926082614.png",
+    "Pasted image 20240926082330.png",
     "C -  Explorando interação de Estruturas e ponteiros.md",
+    "C - Declarando e inicializando estruturas.md",
     "C - Estruturas e por que precisamos delas.md",
     "cursos/NetAcad/NetAcad - C Essentials 1/NetAcad - CE1 - Módulos.md",
     "cursos/NetAcad/NetAcad - C Essentials 1/Sem título.md",
@@ -189,16 +199,7 @@
     "Pasted image 20240923140916.png",
     "Pasted image 20240923140723.png",
     "Pasted image 20240923140719.png",
-    "Pasted image 20240923140628.png",
-    "Pasted image 20240923140606.png",
     "Cyber-Exibição.md",
-    "Cyber.md",
-    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
-    "[[Cyber.md",
-    "Cyber - Filter a TCP handshake.md",
-    "Linux - CentOS - Apache - Inicial.md",
-    "Cyber - Filtrar pacotes tcp.md",
-    "Cyber - Filtragem de pacotes com Tcpdump.md",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",
     "cursos/HTB/HTB - Password Attacks",
