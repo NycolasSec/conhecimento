@@ -23,8 +23,10 @@
 [[Redes - Apresentação IPv6]]
 [[Redes - Comparação de Cabeçalho IPv4 e IPv6]]
 [[Redes - IPv6 Interface ID]]
+[[Redes - IPv6 Tipos de endereços]]
 
-
+## Introdução a Wireless
+[[Redes - SSID e Criptografia]]
 
 
 

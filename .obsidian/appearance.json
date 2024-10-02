@@ -7,5 +7,7 @@
   "baseFontSize": 22,
   "theme": "obsidian",
   "interfaceFontFamily": "SF Pro Text",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

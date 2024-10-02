@@ -1,7 +1,7 @@
 {
   "Appearance-dark@@card-layout-open-dark": false,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
-  "Appearance-dark@@accent-dark": "#c4a7e7",
+  "Appearance-dark@@accent-dark": "#8a96e5",
   "Appearance-dark@@accent-color-override-dark": true,
   "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-CSS-dark",
   "Appearance-dark@@background-mod-left-CSS-dark": "radial-gradient(100% 50% at 100% 50%, rgba(90, 109, 237, 0.1) 0%, rgba(255, 255, 255, 0) 100%)",
@@ -15,10 +15,10 @@
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-CSS-dark",
   "Appearance-dark@@background-underlying-CSS-dark": "linear-gradient(168.44deg, #2E335A 1.62%, #1C1B33 95.72%)",
   "Appearance-dark@@background-underlying-CSS-blend-mode-dark": "normal",
-  "Appearance-dark@@background-tertiary@@dark": "#393552",
-  "Appearance-dark@@text-normal@@dark": "#e0def4",
-  "Appearance-dark@@text-muted@@dark": "#908caa",
-  "Appearance-dark@@text-faint@@dark": "#6e6a86",
+  "Appearance-dark@@background-tertiary@@dark": "#343746",
+  "Appearance-dark@@text-normal@@dark": "#F8F8F2",
+  "Appearance-dark@@text-muted@@dark": "#949FBE",
+  "Appearance-dark@@text-faint@@dark": "#6272A4",
   "Appearance-dark@@card-border-radius-dark": "0px",
   "Appearance-dark@@card-shadow-dark": "none",
   "Appearance-dark@@background-activated-tab-header-dark": "radial-gradient(50% 150% at 50% 150%, #8015A7 0%, rgba(97, 54, 144, 0) 100%)",
@@ -40,7 +40,10 @@
   "Appearance-dark@@interactive-hover@@dark": "#4b4b63",
   "Appearance-dark@@link-external-color@@dark": "#50FA7B",
   "Appearance-dark@@link-external-color-hover@@dark": "#50FA7B",
-  "Appearance-dark@@background-primary@@dark": "#2a273f",
-  "Appearance-dark@@background-secondary@@dark": "#232136",
-  "Editor@@border-focus-mode": false
+  "Appearance-dark@@background-primary@@dark": "#282A36",
+  "Appearance-dark@@background-secondary@@dark": "#21222C",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@all-dark-pdf": true,
+  "blue-topaz-theme@@ob-pdf-style-selection-dark": "pdf-style-default-dark",
+  "blue-topaz-theme@@ob-pdf-style-selection-light": "pdf-style-default-light"
 }
