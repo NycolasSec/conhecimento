@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7af0f22e007081a1",
+        "id": "3a28e2ce5c236b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ab2da56e9c0ba5",
+            "id": "3a70e1d58c93e9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Server - Gerenciar mestres de operações do AD DS.md",
+                "file": "Linux - CentOS - Apache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8221ca60a8eb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeup/sherlocks - htb/Unit42 - htb.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Server - Gerenciar mestres de operações do AD DS.md",
+                "file": "Linux - CentOS - Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Server - Gerenciar mestres de operações do AD DS.md",
+                "file": "Linux - CentOS - Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Server - Gerenciar mestres de operações do AD DS.md"
+                "file": "Linux - CentOS - Apache.md"
               }
             }
           }
@@ -148,17 +160,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2ab2da56e9c0ba5",
+  "active": "3a70e1d58c93e9e3",
   "lastOpenFiles": [
+    "Writeup/sherlocks - htb/Unit42 - htb.md",
+    "Linux - CentOS - Apache.md",
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/Linux/Alguns comandos.md",
+    "Redes - CA.md",
+    "materias/Linux/Linux - CentOS 9 - Configurações.md",
+    "materias/cyber/Cyber - Sysmon Logs.md",
+    "Pasted image 20241002145206.png",
+    "Pasted image 20241002145114.png",
+    "Pasted image 20241002144554.png",
+    "Pasted image 20241002143935.png",
+    "Pasted image 20241002143410.png",
+    "Pasted image 20241002143144.png",
+    "Pasted image 20241002141553.png",
+    "Pasted image 20241002135443.png",
+    "Pasted image 20241002134823.png",
+    "Pasted image 20241002133506.png",
+    "materias/cyber/Tips.md",
+    "cursos/HackingClub/Hacking Club - Web Hacking na Prática.md",
+    "Cyber - SQL Injection Error Based.md",
+    "Cyber - Session Hijacking via XSS.md",
+    "Windows Server - Gerenciar mestres de operações do AD DS.md",
     "Windows Server - Gerenciar funções FSMO e controladores de domínio do AD DS.md",
     "Windows Server - Gerenciar o esquema do AD DS.md",
     "Windows Server - Gerenciar a função de catálogo global do AD DS.md",
-    "Pasted image 20241001183043.png",
-    "Pasted image 20241001182836.png",
-    "Windows Server - Gerenciar mestres de operações do AD DS.md",
     "Windows Server - Manter os controladores de domínio do AD DS.md",
     "Windows Server - Implantar os controladores de domínio do AD DS.md",
-    "Pasted image 20241001161153.png",
     "cursos/Microsoft Learning/módulos/Modulos.md",
     "Windows Server - Introdução ao AD DS.md",
     "Windows Server - Gerenciar a segurança no Active Directory.md",
@@ -168,25 +198,8 @@
     "Redes - Fundamentos de rede.md",
     "Redes - SSID e Criptografia.md",
     "Redes - IPv6 Tipos de endereços.md",
-    "materias/Rede/Redes.md",
-    "Redes - IPv6 Interface ID.md",
-    "Cyber - Evento Get-Win.md",
-    "Writeup/sherlocks - htb/Unit42 - htb.md",
-    "cursos/HTB/HTB - Logs de Eventos no Windows e como encontrar o mal/Capitulos.md",
-    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
-    "Pasted image 20240930105124.png",
-    "Cyber - Analisando com Wireshark.md",
     "Writeup/sherlocks - htb",
     "Writeup",
-    "materias/linguagens/ingles/word list.md",
-    "wireshark-interface.webp",
-    "materias/linguagens/ingles/Gramatica.md",
-    "termshark-help.webp",
-    "termshark.webp",
-    "Pasted image 20240930092838.png",
-    "materias/cyber/Cyber - Assuntos.md",
-    "Pasted image 20240926082614.png",
-    "Pasted image 20240926082330.png",
     "cursos/NetAcad/NetAcad - C Essentials 2",
     "cursos/Microsoft Learning/módulos",
     "Excalidraw",

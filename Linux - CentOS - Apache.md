@@ -1,7 +1,6 @@
 [[Linux - CentOS - Apache - Inicial]]
 [[Linux - CentOS - Apache - Virtual hostings]]
 
-
 ## Instalação
 
 ```sh
