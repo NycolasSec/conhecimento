@@ -27,8 +27,10 @@
 
 ## Introdução a Wireless
 [[Redes - SSID e Criptografia]]
+[[Redes - Rf Power e DB]]
 
-
+## Fundamentos de virtualização
+[[Redes - Virtualização]]
 
 
 

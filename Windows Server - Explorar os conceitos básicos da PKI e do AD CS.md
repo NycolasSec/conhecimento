@@ -5,9 +5,10 @@ A PKI é a combinação de software, tecnologias de criptografia, processos e se
 
 A PKI conta com a troca de certificados digitais entre usuários autenticados e recursos confiáveis. Você usa certificados para proteger os dados e gerenciar as credenciais de identificação de usuários e computadores dentro e fora da sua organização.
 
+## O que é o AD CS?
+Você pode implementar uma solução PKI usando a função do Windows Server do AD CS. O AD CS fornece todos os componentes relacionados à PKI no formato de serviços de função.
 
-
-
+Cada serviço de função é responsável por uma parte específica da infraestrutura de certificado durante o trabalho em conjunto para formar uma solução completa.
 
 
 
