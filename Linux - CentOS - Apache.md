@@ -1,5 +1,5 @@
 [[Linux - CentOS - Apache - Inicial]]
-[[Linux - CentOS - Apache - Virtual hostings]]
+[[Linux - CentOS - Apache - Virtual hosts]]
 
 ## Instalação
 
