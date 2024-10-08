@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c00427e5cf25e86c",
+        "id": "bf7514e0f5a7feb5",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b2f92e5b09ce64",
+            "id": "43961218a221a288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pfSense - Criação de Aliases.md",
+                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "86f8c2ca3c90eeda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pfSense - NAT com Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04bab8f2edf6a6df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pfSense - NAT com Port Forwarding.md",
+                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pfSense - NAT com Port Forwarding.md",
+                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pfSense - NAT com Port Forwarding.md"
+                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md"
               }
             }
           }
@@ -171,24 +148,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86f8c2ca3c90eeda",
+  "active": "43961218a221a288",
   "lastOpenFiles": [
+    "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
+    "Windows Server - Gerenciar relações de confiança de certificado.md",
+    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+    "Windows Server - Gerenciar a revogação de certificado.md",
+    "Pasted image 20241008164129.png",
+    "Windows Server - Gerenciar o registro de certificado.md",
+    "Excalidraw/Sumarizacao.excalidraw.md",
+    "Excalidraw/HyperVisorsTypes.excalidraw.md",
+    "Excalidraw/ap-overlapping.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-03 09.57.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-03 12.45.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-07 08.23.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md",
+    "Pasted image 20241008160315.png",
+    "Windows Server - Projetar e implementar o AD CS.md",
+    "Pasted image 20241008151854.png",
+    "Pasted image 20241008151336.png",
+    "cursos/Microsoft Learning/módulos/Modulos.md",
+    "pfSense - Criação de Aliases.md",
+    "pfSense - NAT com Port Forwarding.md",
     "Pasted image 20241008143305.png",
     "Pasted image 20241008143136.png",
     "Pasted image 20241008142540.png",
     "Pasted image 20241008142427.png",
     "Pasted image 20241008141452.png",
-    "pfSense - Criação de Aliases.md",
-    "pfSense - NAT com Port Forwarding.md",
-    "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md",
     "Pasted image 20241008134645.png",
     "Cyber - pfSense.md",
     "materias/cyber/Cyber - Configurações.md",
-    "Pasted image 20241008111304.png",
-    "Pasted image 20241008111235.png",
-    "Pasted image 20241008111043.png",
-    "Pasted image 20241008110959.png",
-    "Pasted image 20241008110214.png",
     "materias/Rede/Redes.md",
     "Redes - Fundamentos de rede.md",
     "Redes - Switch.md",
@@ -197,18 +186,6 @@
     "Linux - Criando uma CA com openSSL.md",
     "Linux - CentOS - Apache - Virtual hosts.md",
     "materias/Linux/Assuntos/Serviços.md",
-    "materias/Linux/Assuntos/Assuntos.md",
-    "Linux - CentOS - Apache - Inicial.md",
-    "Cyber - Analisando com Wireshark.md",
-    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
-    "Cyber - Familiarizando com o Wireshark.md",
-    "materias/cyber/Cyber - Assuntos.md",
-    "Excalidraw/Drawing 2024-10-07 08.23.37.excalidraw.md",
-    "Writeup/sherlocks - htb/Unit42 - htb.md",
-    "cursos/LATAM 2024 - CyberGames_Fundamentos Ciber/exames/CyberGames_Fundamentos Ciber - Exame de Ponto de Verificação  - segurança de rede.md",
-    "Redes - TLS.md",
-    "Redes - PKI.md",
-    "Redes - CSR.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",
