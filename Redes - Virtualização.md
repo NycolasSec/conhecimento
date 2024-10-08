@@ -30,5 +30,5 @@ Existem dois tipos de hypervisors :
 É a camada de virtualização que irá traduzir as requisições ao recursos do hardware.
 
 #### Underlaying
-Se refere aos recursos do hardware domo memória, CPU, disco rígido e outros.
+Se refere aos recursos do hardware como memória, CPU, disco rígido e outros.
 

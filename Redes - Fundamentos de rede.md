@@ -32,7 +32,10 @@
 ## Fundamentos de virtualização
 [[Redes - Virtualização]]
 
+## Lan e switching
+[[Redes - Switch]]
 
+## Introdução ao IOS
 
 
 
