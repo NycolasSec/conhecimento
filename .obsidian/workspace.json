@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3beff33c32ed0358",
+            "id": "d2b2f92e5b09ce64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes - Fundamentos de rede.md",
+                "file": "pfSense - Criação de Aliases.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "86f8c2ca3c90eeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pfSense - NAT com Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04bab8f2edf6a6df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "6e350f3182938e8a",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes - Fundamentos de rede.md",
+                "file": "pfSense - NAT com Port Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes - Fundamentos de rede.md",
+                "file": "pfSense - NAT com Port Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes - Fundamentos de rede.md"
+                "file": "pfSense - NAT com Port Forwarding.md"
               }
             }
           }
@@ -147,28 +171,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3beff33c32ed0358",
+  "active": "86f8c2ca3c90eeda",
   "lastOpenFiles": [
+    "Pasted image 20241008143305.png",
+    "Pasted image 20241008143136.png",
+    "Pasted image 20241008142540.png",
+    "Pasted image 20241008142427.png",
+    "Pasted image 20241008141452.png",
+    "pfSense - Criação de Aliases.md",
+    "pfSense - NAT com Port Forwarding.md",
+    "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md",
+    "Pasted image 20241008134645.png",
+    "Cyber - pfSense.md",
+    "materias/cyber/Cyber - Configurações.md",
+    "Pasted image 20241008111304.png",
+    "Pasted image 20241008111235.png",
+    "Pasted image 20241008111043.png",
+    "Pasted image 20241008110959.png",
+    "Pasted image 20241008110214.png",
     "materias/Rede/Redes.md",
-    "Redes - Switch.md",
     "Redes - Fundamentos de rede.md",
+    "Redes - Switch.md",
     "Redes - Virtualização.md",
     "Linux - CentOS - Apache.md",
     "Linux - Criando uma CA com openSSL.md",
     "Linux - CentOS - Apache - Virtual hosts.md",
     "materias/Linux/Assuntos/Serviços.md",
     "materias/Linux/Assuntos/Assuntos.md",
-    "Pasted image 20241007154126.png",
     "Linux - CentOS - Apache - Inicial.md",
     "Cyber - Analisando com Wireshark.md",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
     "Cyber - Familiarizando com o Wireshark.md",
-    "display-filter.webp",
-    "how-to-add-cap.webp",
-    "capture-filter-list.webp",
-    "Pasted image 20241007084100.jpg",
-    "first-capture-ws.gif",
-    "wireshark-menu.webp",
     "materias/cyber/Cyber - Assuntos.md",
     "Excalidraw/Drawing 2024-10-07 08.23.37.excalidraw.md",
     "Writeup/sherlocks - htb/Unit42 - htb.md",
@@ -176,15 +209,6 @@
     "Redes - TLS.md",
     "Redes - PKI.md",
     "Redes - CSR.md",
-    "Pasted image 20241003165646.png",
-    "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
-    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
-    "cursos/Microsoft Learning/módulos/Modulos.md",
-    "Excalidraw/Drawing 2024-10-03 09.47.14.excalidraw.md",
-    "Pasted image 20241003124656.png",
-    "Excalidraw/Drawing 2024-10-03 12.45.10.excalidraw.md",
-    "Pasted image 20241003101320.png",
-    "Excalidraw/Drawing 2024-10-03 09.57.22.excalidraw.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",
