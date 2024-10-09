@@ -9,6 +9,7 @@
 ## Wireshark
 [[Cyber - Analisando com Wireshark]]
 [[Cyber - Familiarizando com o Wireshark]]
+[[Cyber - Wireshark Advanced Usage]]
 
 
 

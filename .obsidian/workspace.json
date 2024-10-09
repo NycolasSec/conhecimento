@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bf7514e0f5a7feb5",
+        "id": "3388e3b23da11b7f",
         "type": "tabs",
         "children": [
           {
-            "id": "43961218a221a288",
+            "id": "4e0edec81b0c16b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+                "file": "materias/Linux/Assuntos/Serviços.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e78141867ae07f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux - CentOS - Kea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 511.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+                "file": "Linux - CentOS - Kea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+                "file": "Linux - CentOS - Kea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md"
+                "file": "Linux - CentOS - Kea.md"
               }
             }
           }
@@ -148,13 +161,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43961218a221a288",
+  "active": "4e78141867ae07f8",
   "lastOpenFiles": [
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/cyber/Cyber - Plataformas.md",
+    "Linux - CentOS - Kea.md",
+    "hands_without_shadow.avif",
+    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
+    "Cyber - Wireshark Advanced Usage.md",
+    "materias/linguagens/ingles/word list.md",
+    "ftp-data.webp",
+    "ftp-request-command.webp",
+    "ftp-disector.webp",
+    "extract-http.gif",
+    "Pasted image 20241009084243.png",
+    "follow-tcp.gif",
+    "analyze.webp",
+    "wireshark-statistics.webp",
+    "materias/linguagens/C.md",
+    "C - While.md",
+    "Pasted image 20241008194616.png",
+    "C - Números aleatórios.md",
+    "materias/linguagens/Bash.md",
+    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
     "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
     "Windows Server - Gerenciar relações de confiança de certificado.md",
-    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
     "Windows Server - Gerenciar a revogação de certificado.md",
-    "Pasted image 20241008164129.png",
     "Windows Server - Gerenciar o registro de certificado.md",
     "Excalidraw/Sumarizacao.excalidraw.md",
     "Excalidraw/HyperVisorsTypes.excalidraw.md",
@@ -163,29 +195,10 @@
     "Excalidraw/Drawing 2024-10-03 12.45.10.excalidraw.md",
     "Excalidraw/Drawing 2024-10-07 08.23.37.excalidraw.md",
     "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md",
-    "Pasted image 20241008160315.png",
     "Windows Server - Projetar e implementar o AD CS.md",
-    "Pasted image 20241008151854.png",
-    "Pasted image 20241008151336.png",
     "cursos/Microsoft Learning/módulos/Modulos.md",
     "pfSense - Criação de Aliases.md",
     "pfSense - NAT com Port Forwarding.md",
-    "Pasted image 20241008143305.png",
-    "Pasted image 20241008143136.png",
-    "Pasted image 20241008142540.png",
-    "Pasted image 20241008142427.png",
-    "Pasted image 20241008141452.png",
-    "Pasted image 20241008134645.png",
-    "Cyber - pfSense.md",
-    "materias/cyber/Cyber - Configurações.md",
-    "materias/Rede/Redes.md",
-    "Redes - Fundamentos de rede.md",
-    "Redes - Switch.md",
-    "Redes - Virtualização.md",
-    "Linux - CentOS - Apache.md",
-    "Linux - Criando uma CA com openSSL.md",
-    "Linux - CentOS - Apache - Virtual hosts.md",
-    "materias/Linux/Assuntos/Serviços.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",
