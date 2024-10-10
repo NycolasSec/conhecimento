@@ -46,13 +46,16 @@ Caso esteja em uma rede interna, e estiver usando endereços privados ,será nec
 
 ---
 ---
-### Exemplo
+## Exemplo
 ![[Pasted image 20241008143136.png]]
 Com essas opções aplicadas, podemos acessar o ``pfSense`` pelo `IP` da interface wan e pela porta `8080`.
 
 ![[Pasted image 20241008143305.png]]
 
-
+---
+---
+## Referências
+[Port Forwards | pfSense Documentation (netgate.com)](https://docs.netgate.com/pfsense/en/latest/nat/port-forwards.html)
 
 
 
