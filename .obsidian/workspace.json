@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3388e3b23da11b7f",
+        "id": "5d08ff02e24a982b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0edec81b0c16b0",
+            "id": "ebaf75d6d56facbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materias/Linux/Assuntos/Serviços.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e78141867ae07f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux - CentOS - Kea.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5,
+    "width": 343.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux - CentOS - Kea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux - CentOS - Kea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux - CentOS - Kea.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,11 +140,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e78141867ae07f8",
+  "active": "ebaf75d6d56facbd",
   "lastOpenFiles": [
+    "Redes - Fundamentos de rede.md",
+    "Redes - IOS - comandos inIciais.md",
+    "Redes - IOS - Introdução.md",
+    "Redes - Endereço público, privado e reservado.md",
+    "Redes - VLSM - Exemplo 001.md",
+    "Redes - Switch.md",
+    "materias/Rede/Redes.md",
     "materias/Linux/Assuntos/Serviços.md",
-    "materias/cyber/Cyber - Plataformas.md",
+    "materias/Linux/Assuntos/Assuntos.md",
     "Linux - CentOS - Kea.md",
+    "materias/cyber/Cyber - Plataformas.md",
     "hands_without_shadow.avif",
     "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
     "Cyber - Wireshark Advanced Usage.md",
@@ -191,14 +178,6 @@
     "Excalidraw/Sumarizacao.excalidraw.md",
     "Excalidraw/HyperVisorsTypes.excalidraw.md",
     "Excalidraw/ap-overlapping.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-03 09.57.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-03 12.45.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-07 08.23.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-08 11.30.15.excalidraw.md",
-    "Windows Server - Projetar e implementar o AD CS.md",
-    "cursos/Microsoft Learning/módulos/Modulos.md",
-    "pfSense - Criação de Aliases.md",
-    "pfSense - NAT com Port Forwarding.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",

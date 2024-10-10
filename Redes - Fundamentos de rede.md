@@ -34,8 +34,8 @@
 
 ## Lan e switching
 [[Redes - Switch]]
-
-## Introdução ao IOS
+[[Redes - IOS - Introdução]]
+[[Redes - IOS - comandos iniciais]]
 
 
 
