@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6d62343dfb9947",
+        "id": "aacfe216ed5a82b8",
         "type": "tabs",
         "children": [
           {
-            "id": "61cf2eb1f453bcef",
+            "id": "54ceeec911a2a22d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux - Kea - Configuração básica IPV4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Linux - Kea - Configuração básica IPV4"
             }
           }
         ]
@@ -160,8 +164,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61cf2eb1f453bcef",
+  "active": "54ceeec911a2a22d",
   "lastOpenFiles": [
+    "materias/Linux/Assuntos/Serviços.md",
+    "materias/Rede/Redes.md",
+    "cursos/Microsoft Learning/módulos/Modulos.md",
+    "Redes - Fundamentos de rede.md",
+    "Cyber - pfSense.md",
+    "Redes - Network Access.md",
+    "Redes - IOS - Configurando Vlans.md",
+    "materias/Rede/Redes - Configurações.md",
+    "materias/cyber/Cyber - Configurações.md",
+    "Linux - Kea - Configuração básica IPV4.md",
+    "Windows Server - Configurar direitos de conta de usuário para restringir o acesso.md",
+    "Windows Server - Gerenciar a segurança no Active Directory.md",
+    "Windows Server - Proteger contas de usuário com o grupo Usuários Protegidos.md",
+    "materias/Windows/Assuntos.md",
+    "materias/Linux/Alguns comandos.md",
+    "materias/Linux/Linux - CentOS 9 - Configurações.md",
+    "Linux - Kea - Instalação.md",
     "Cyber - Ferramentas de análise e exame de triagem rápida.md",
     "win_dfir_accessdata_ps1.webp",
     "disc_inj.webp",
@@ -174,29 +195,13 @@
     "win_dfir_apimon2.webp",
     "Pasted image 20241018100945.png",
     "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
-    "materias/Windows/Assuntos.md",
-    "cursos/Microsoft Learning/módulos/Modulos.md",
     "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
     "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
     "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
-    "Redes - IOS - Configurando Vlans.md",
     "Redes - IOS - Configuração básica do Switch.md",
-    "Redes - Fundamentos de rede.md",
     "Redes - Virtualização.md",
     "Redes - IOS - Banner.md",
-    "materias/Rede/Redes.md",
-    "Redes - Network Access.md",
     "Redes - VLSM - Exemplo 001.md",
-    "Redes - VLSM.md",
-    "Redes - IOS - comandos inIciais.md",
-    "pfSense - NAT com Port Forwarding.md",
-    "Cyber - pfSense.md",
-    "pfSense - Criando regras de firewall.md",
-    "materias/cyber/Cyber - Configurações.md",
-    "materias/cyber/Cyber - Assuntos.md",
-    "materias/cyber/Cyber - Ferramentas.md",
-    "materias/Rede/Redes - Configurações.md",
-    "Redes - IOS - Introdução.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",
