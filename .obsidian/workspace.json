@@ -4,34 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5a39900adb0fd52d",
+        "id": "2c2782d0c50dc905",
         "type": "tabs",
         "children": [
           {
-            "id": "18c41952a063c6b8",
+            "id": "6f80f3409ac817b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber - pfSense.md",
+                "file": "materias/Windows/Assuntos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Assuntos"
             }
           },
           {
-            "id": "8c96c808759b7bb3",
+            "id": "457ef11790560458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pfSense - NAT com Port Forwarding.md",
+                "file": "cursos/Microsoft Learning/módulos/Modulos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Modulos"
+            }
+          },
+          {
+            "id": "980705833894195d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Server - Explorar os conceitos básicos da PKI e do AD CS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -66,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -74,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber - pfSense.md",
+                "file": "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Windows Server - Explorar os conceitos básicos da PKI e do AD CS"
             }
           },
           {
@@ -115,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber - pfSense.md",
+                "file": "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Windows Server - Explorar os conceitos básicos da PKI e do AD CS"
             }
           },
           {
@@ -129,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber - pfSense.md"
-              }
+                "file": "Windows Server - Explorar os conceitos básicos da PKI e do AD CS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Windows Server - Explorar os conceitos básicos da PKI e do AD CS"
             }
           }
         ]
@@ -160,43 +193,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18c41952a063c6b8",
+  "active": "980705833894195d",
   "lastOpenFiles": [
+    "Windows Server -  Implementar e gerenciar Serviços de Certificados do Active Directory.md",
+    "cursos/Microsoft Learning/módulos/Modulos.md",
+    "materias/Windows/Assuntos.md",
+    "cursos/Microsoft Learning/Cursos/Curso - Automatização da administração com o PowerShell.md",
+    "Redes - IOS - Configurando Vlans.md",
+    "Redes - IOS - Configuração básica do Switch.md",
+    "Redes - Fundamentos de rede.md",
+    "Redes - Virtualização.md",
+    "Redes - IOS - Banner.md",
+    "materias/Rede/Redes.md",
+    "Redes - Network Access.md",
+    "Redes - VLSM - Exemplo 001.md",
+    "Redes - VLSM.md",
+    "Redes - IOS - comandos inIciais.md",
     "pfSense - NAT com Port Forwarding.md",
-    "pfSense - Criando regras de firewall.md",
     "Cyber - pfSense.md",
+    "pfSense - Criando regras de firewall.md",
     "Pasted image 20241015140422.png",
     "materias/cyber/Cyber - Configurações.md",
-    "materias/Rede/Redes.md",
     "Pasted image 20241015125802.png",
     "Pasted image 20241015125429.png",
     "materias/cyber/Cyber - Assuntos.md",
     "materias/cyber/Cyber - Ferramentas.md",
     "materias/Rede/Redes - Configurações.md",
-    "Redes - Fundamentos de rede.md",
-    "Redes - IOS - comandos inIciais.md",
     "Redes - IOS - Introdução.md",
-    "Redes - IOS - Banner.md",
     "Pasted image 20241015084440.png",
     "Pasted image 20241015084140.png",
     "Cyber - Ferramentas de análise e exame de triagem rápida.md",
     "cursos/HTB/HTB - Introdução a forense digital/HTB - Introdução a forense digital -Capítulos.md",
     "Redes - Endereço público, privado e reservado.md",
-    "Redes - VLSM - Exemplo 001.md",
     "Redes - Switch.md",
-    "materias/Linux/Assuntos/Serviços.md",
-    "materias/Linux/Assuntos/Assuntos.md",
-    "Linux - CentOS - Kea.md",
-    "materias/cyber/Cyber - Plataformas.md",
     "hands_without_shadow.avif",
-    "cursos/HTB/HTB - Introdução a análise de tráfego de rede/Capítulos.md",
-    "Cyber - Wireshark Advanced Usage.md",
-    "materias/linguagens/ingles/word list.md",
     "ftp-data.webp",
     "ftp-request-command.webp",
     "ftp-disector.webp",
     "extract-http.gif",
-    "materias/linguagens/C.md",
     "Writeup/sherlocks - htb",
     "Writeup",
     "cursos/NetAcad/NetAcad - C Essentials 2",

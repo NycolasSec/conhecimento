@@ -1,7 +1,7 @@
 VLSM se trata de criarmos sub-redes de tamanho variável. Assim não precisamos fazer sub redes sempre do mesmo tamanho, podemos fazer uma de 250, outra de 100 e outra de 40 hosts.
 
 ## Exemplo 1
-Temos um prédio com 4 departamentos, um com 4 hosts, outro como 30, outro com 220 e outro com 510. Assim precisamos de 4 sub-redes. Recebemos o endereço de rede **192.168.0.0/16**.
+Temos um prédio com 4 departamentos, um com 4 hosts, outro com 30, outro com 220 e outro com 510. Assim precisamos de 4 sub-redes. Recebemos o endereço de rede **192.168.0.0/16**.
 
 ##### Organização:
 Primeiro organizamos as sub-redes da maior para a menor.
