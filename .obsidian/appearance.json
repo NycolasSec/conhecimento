@@ -4,7 +4,7 @@
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "SF Pro Text",
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
+  "baseFontSize": 21,
   "theme": "obsidian",
   "interfaceFontFamily": "SF Pro Text",
   "enabledCssSnippets": [
