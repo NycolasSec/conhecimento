@@ -24,5 +24,6 @@ yum install autoconf automake gcc gcc-c++ git libtool make nasm pkgconfig zlib-d
 ## Servidor DHCP
 [[Linux - Kea - Instalação]]
 [[Linux - Kea - Configuração básica IPV4]]
-
+[[Linux - Kea - Reservations]]
+[[Linux - Kea - Configurar MySQL e PostgreSQL]]
 

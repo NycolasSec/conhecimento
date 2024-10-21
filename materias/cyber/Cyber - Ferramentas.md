@@ -1,6 +1,6 @@
 [[Cyber - sqlmap]]
 
-
+awscliaws configure
 ### ffuf
 https://medium.com/quiknapp/fuzz-faster-with-ffuf-c18c031fc480
 
@@ -21,5 +21,35 @@ Wazuh
 
 
 
+## Forense
 
-awscliaws configure
+[EricZimmerman Tools](https://ericzimmerman.github.io/#!index.md)
+
+
+
+
+ [Active@ Disk Editor](https://www.disk-editor.org/index.html)
+ Facilita a visualização e modificação de dados brutos do disco
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
